@@ -1,0 +1,31 @@
+kind = "web"
+previewPath = "/"
+title = "Beyblade X 配件查詢"
+version = "1.0.0"
+id = "artifacts/beyblade-x"
+router = "path"
+
+[[integratedSkills]]
+name = "react-vite"
+version = "1.0.0"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 22333
+
+[services.development]
+run = "pnpm --filter @workspace/beyblade-x run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/beyblade-x", "run", "build" ]
+publicDir = "artifacts/beyblade-x/dist/public"
+serve = "static"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "22333"
+BASE_PATH = "/"
