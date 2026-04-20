@@ -34,4 +34,5 @@ export interface Product {
   parts: Part[];
   note?: string;
   releaseAt?: string;
+  upcoming?: boolean;
 }

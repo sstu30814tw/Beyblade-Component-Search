@@ -13,6 +13,7 @@ import type {
 } from "./types.js";
 
 const MAIN_JSON = "https://beyblade.phstudy.org/data/main.json";
+const HARDCODED_JSON = "https://beyblade.phstudy.org/data/hardcoded.json";
 const MULTILANG_JSON = "https://beyblade.phstudy.org/data/products_multilang.json";
 
 const OUTPUT = new URL(
@@ -94,12 +95,32 @@ function detectSeries(code: string): Series | null {
 
 async function main(): Promise<void> {
   console.log("[sync] fetching phstudy data…");
-  const [main, multilang] = await Promise.all([
+  const [mainJson, hardcodedJson, multilang] = await Promise.all([
     fetchJson<RawMainJson>(MAIN_JSON),
+    fetchJson<RawMainJson>(HARDCODED_JSON),
     fetchJson<RawMultilangProduct[]>(MULTILANG_JSON),
   ]);
 
-  const data = main.data;
+  // Merge hardcoded.json into main.json. hardcoded wins on conflicts
+  // (it's phstudy's override/pre-release table for upcoming products).
+  const data: RawMainJson["data"] = {};
+  const collections: Array<keyof RawMainJson["data"]> = [
+    "BeybladePartsBit",
+    "BeybladePartsBlade",
+    "BeybladePartsMainBlade",
+    "BeybladePartsAssistBlade",
+    "BeybladePartsLockChip",
+    "BeybladePartsRatchet",
+    "BeybladePartsMetalBlade",
+    "BeybladePartsOverBlade",
+    "BeybladeSeries",
+  ];
+  for (const key of collections) {
+    (data as Record<string, Record<string, RawPartCommon>>)[key] = {
+      ...(mainJson.data[key] ?? {}),
+      ...(hardcodedJson.data[key] ?? {}),
+    };
+  }
   const series = data.BeybladeSeries ?? {};
 
   // Build category lookup by product code (e.g. "BX-01" → "入門組")
@@ -181,7 +202,10 @@ async function main(): Promise<void> {
       seenGroups.add(dedupKey);
 
       const rawCn = toTwText(hit.raw.name);
-      const english = hit.raw.en_name?.trim();
+      const english =
+        hit.raw.en_name?.trim() ||
+        cleanEnglishName(hit.raw.name?.["en-US"]) ||
+        cleanEnglishName(hit.raw.name?.["en-SG"]);
       parts.push(buildPart(hit.type, english, rawCn, pid!, s));
     }
 
@@ -202,6 +226,7 @@ async function main(): Promise<void> {
       productType,
       parts,
       releaseAt: s.release_at,
+      upcoming: s.release_at ? new Date(s.release_at) > new Date() : undefined,
     });
   }
 
@@ -280,17 +305,19 @@ function buildPart(
   type: PartType,
   english: string | undefined,
   cn: string | undefined,
-  _id: string,
+  id: string,
   series: RawSeries,
 ): GeneratedPart {
   // part.name (English code, e.g. "DranSword", "3-60", "F")
   // phstudy's part name for ratchet/bit often already matches "3-60" / "F"
   // For blades, en_name is like "DRANSWORD" - convert to PascalCase for consistency
-  const name = english ? formatEnglishPartName(english, type) : cn || "?";
+  const cleanedCn = cleanPartNameCn(cn, series);
+  const name = english
+    ? formatEnglishPartName(english, type)
+    : cleanedCn || cn || id; // last resort: raw part id so UI shows something searchable
   // Chinese: prefer the part's own zh-TW; fallback to parsing from series name for blade
   let nameCn: string | undefined;
-  const cleaned = cleanPartNameCn(cn, series);
-  if (cleaned && cleaned !== name) nameCn = cleaned;
+  if (cleanedCn && cleanedCn !== name) nameCn = cleanedCn;
   if (!nameCn && (type === "戰刃" || type === "主要戰刃" || type === "金屬戰刃" || type === "超越戰刃")) {
     const { bladeCn } = splitSeriesTwName(series.name?.["zh-TW"]);
     if (bladeCn && bladeCn !== name) nameCn = bladeCn;
@@ -325,6 +352,21 @@ function cleanPartNameCn(
   // If only ASCII/digits/dash/dot left, it's just the code, no Chinese
   if (/^[\x20-\x7e]+$/.test(s)) return undefined;
   return s;
+}
+
+/**
+ * Strip the leading product code from an English part name (e.g. from
+ * name["en-US"]) and return the clean part name. Returns undefined for
+ * empty input.
+ */
+function cleanEnglishName(raw: string | undefined): string | undefined {
+  if (!raw) return undefined;
+  const cleaned = raw
+    .replace(/<[^>]+>/g, "")
+    .replace(/^[A-Z]+-\d+(?:-\d+)?\s*/, "")
+    .replace(/Metallic\s*Coat\s*[:：].*$/iu, "")
+    .trim();
+  return cleaned || undefined;
 }
 
 function formatEnglishPartName(en: string, type: PartType): string {

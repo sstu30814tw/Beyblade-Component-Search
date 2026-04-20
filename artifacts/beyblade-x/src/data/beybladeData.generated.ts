@@ -4,7 +4,7 @@
  *
  * Source: https://beyblade.phstudy.org/data/ (mirrors TAKARA TOMY official JSON)
  * Filter: only products with zh-TW visibility (台灣上市) are included.
- * Generated at: 2026-04-20T13:29:06.562Z
+ * Generated at: 2026-04-20T14:10:12.291Z
  */
 
 import type { Part, Product } from "./beybladeDataTypes";
@@ -32,7 +32,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2022-05-10T15:00:00.000Z"
+    "releaseAt": "2022-05-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-910398-00",
@@ -56,7 +57,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2022-05-10T15:00:00.000Z"
+    "releaseAt": "2022-05-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-910473-00",
@@ -80,7 +82,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2022-05-10T15:00:00.000Z"
+    "releaseAt": "2022-05-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-910404-00",
@@ -104,7 +107,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2022-05-10T15:00:00.000Z"
+    "releaseAt": "2022-05-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-910497-00",
@@ -128,7 +132,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2022-05-10T15:00:00.000Z"
+    "releaseAt": "2022-05-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-910480-00",
@@ -152,7 +157,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2022-05-10T15:00:00.000Z"
+    "releaseAt": "2022-05-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-910503-00",
@@ -176,7 +182,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2022-05-10T15:00:00.000Z"
+    "releaseAt": "2022-05-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-910589-00",
@@ -200,7 +207,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2022-05-10T15:00:00.000Z"
+    "releaseAt": "2022-05-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-910572-01",
@@ -224,7 +232,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2022-05-10T15:00:00.000Z"
+    "releaseAt": "2022-05-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-910572-02",
@@ -248,7 +257,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2022-05-10T15:00:00.000Z"
+    "releaseAt": "2022-05-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-910572-03",
@@ -272,7 +282,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2022-05-10T15:00:00.000Z"
+    "releaseAt": "2022-05-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-910510-00",
@@ -296,7 +307,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2022-05-10T15:00:00.000Z"
+    "releaseAt": "2022-05-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-EVE-910879-01",
@@ -320,7 +332,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2022-05-10T15:00:00.000Z"
+    "releaseAt": "2022-05-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-913344-00",
@@ -344,7 +357,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2022-05-10T15:00:00.000Z"
+    "releaseAt": "2022-05-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-910565-00",
@@ -368,7 +382,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2022-05-10T15:00:00.000Z"
+    "releaseAt": "2022-05-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-912965-01",
@@ -392,7 +407,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2022-05-10T15:00:00.000Z"
+    "releaseAt": "2022-05-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-912965-02",
@@ -416,7 +432,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2022-05-10T15:00:00.000Z"
+    "releaseAt": "2022-05-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-912965-03",
@@ -440,7 +457,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2022-05-10T15:00:00.000Z"
+    "releaseAt": "2022-05-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-912965-04",
@@ -464,7 +482,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2022-05-10T15:00:00.000Z"
+    "releaseAt": "2022-05-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-912965-05",
@@ -488,7 +507,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2022-05-10T15:00:00.000Z"
+    "releaseAt": "2022-05-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-912965-06",
@@ -512,7 +532,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2022-05-10T15:00:00.000Z"
+    "releaseAt": "2022-05-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-913030-00",
@@ -536,7 +557,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2023-09-10T15:00:00.000Z"
+    "releaseAt": "2023-09-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-912972-01",
@@ -560,7 +582,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2023-09-10T15:00:00.000Z"
+    "releaseAt": "2023-09-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-912972-02",
@@ -584,7 +607,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2023-09-10T15:00:00.000Z"
+    "releaseAt": "2023-09-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-912972-03",
@@ -608,7 +632,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2023-09-10T15:00:00.000Z"
+    "releaseAt": "2023-09-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-913047-01",
@@ -632,7 +657,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2023-09-10T15:00:00.000Z"
+    "releaseAt": "2023-09-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-913047-02",
@@ -656,7 +682,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2023-09-10T15:00:00.000Z"
+    "releaseAt": "2023-09-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-913061-00",
@@ -680,7 +707,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2023-10-01T15:00:00.000Z"
+    "releaseAt": "2023-10-01T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-913078-01",
@@ -704,7 +732,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2023-10-01T15:00:00.000Z"
+    "releaseAt": "2023-10-01T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-913078-02",
@@ -728,7 +757,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2023-10-01T15:00:00.000Z"
+    "releaseAt": "2023-10-01T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-913078-03",
@@ -752,7 +782,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2023-10-01T15:00:00.000Z"
+    "releaseAt": "2023-10-01T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-913085-01",
@@ -776,7 +807,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2023-10-01T15:00:00.000Z"
+    "releaseAt": "2023-10-01T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-913085-02",
@@ -800,7 +832,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2023-10-01T15:00:00.000Z"
+    "releaseAt": "2023-10-01T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-913085-03",
@@ -824,7 +857,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2023-10-01T15:00:00.000Z"
+    "releaseAt": "2023-10-01T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-913139-00",
@@ -848,7 +882,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2023-10-25T15:00:00.000Z"
+    "releaseAt": "2023-10-25T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-EVE-910909-01",
@@ -872,7 +907,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2023-10-25T15:00:00.000Z"
+    "releaseAt": "2023-10-25T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-EVE-910909-02",
@@ -896,7 +932,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2023-10-25T15:00:00.000Z"
+    "releaseAt": "2023-10-25T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-EVE-910909-03",
@@ -920,7 +957,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2023-10-25T15:00:00.000Z"
+    "releaseAt": "2023-10-25T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-913092-00",
@@ -944,7 +982,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2023-12-26T15:00:00.000Z"
+    "releaseAt": "2023-12-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-913108-01",
@@ -968,7 +1007,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2023-12-26T15:00:00.000Z"
+    "releaseAt": "2023-12-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-913108-02",
@@ -992,7 +1032,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2023-12-26T15:00:00.000Z"
+    "releaseAt": "2023-12-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-913108-03",
@@ -1016,7 +1057,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2023-12-26T15:00:00.000Z"
+    "releaseAt": "2023-12-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-913108-04",
@@ -1040,7 +1082,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2023-12-26T15:00:00.000Z"
+    "releaseAt": "2023-12-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-913108-05",
@@ -1064,7 +1107,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2023-12-26T15:00:00.000Z"
+    "releaseAt": "2023-12-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-913108-06",
@@ -1088,7 +1132,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2023-12-26T15:00:00.000Z"
+    "releaseAt": "2023-12-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-914464-00",
@@ -1112,7 +1157,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-01-26T15:00:00.000Z"
+    "releaseAt": "2024-01-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-936114-00",
@@ -1136,7 +1182,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-01-21T15:00:00.000Z"
+    "releaseAt": "2024-01-21T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-913115-01",
@@ -1160,7 +1207,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-02-21T15:00:00.000Z"
+    "releaseAt": "2024-02-21T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-913115-02",
@@ -1184,7 +1232,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-02-21T15:00:00.000Z"
+    "releaseAt": "2024-02-21T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-913115-03",
@@ -1208,7 +1257,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-02-21T15:00:00.000Z"
+    "releaseAt": "2024-02-21T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-914471-00",
@@ -1232,7 +1282,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-03-29T15:00:00.000Z"
+    "releaseAt": "2024-03-29T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-914488-00",
@@ -1256,7 +1307,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-03-29T15:00:00.000Z"
+    "releaseAt": "2024-03-29T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-914495-00",
@@ -1280,7 +1332,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-03-29T15:00:00.000Z"
+    "releaseAt": "2024-03-29T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-914501-01",
@@ -1304,7 +1357,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-04-26T15:00:00.000Z"
+    "releaseAt": "2024-04-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-914501-02",
@@ -1328,7 +1382,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-04-26T15:00:00.000Z"
+    "releaseAt": "2024-04-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-936121-00",
@@ -1352,7 +1407,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-03-22T15:00:00.000Z"
+    "releaseAt": "2024-03-22T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-930341-00",
@@ -1376,7 +1432,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-04-26T15:00:00.000Z"
+    "releaseAt": "2024-04-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-914532-01",
@@ -1400,7 +1457,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-04-26T15:00:00.000Z"
+    "releaseAt": "2024-04-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-914532-02",
@@ -1424,7 +1482,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-04-26T15:00:00.000Z"
+    "releaseAt": "2024-04-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-914532-03",
@@ -1448,7 +1507,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-04-26T15:00:00.000Z"
+    "releaseAt": "2024-04-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-914532-04",
@@ -1472,7 +1532,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-04-26T15:00:00.000Z"
+    "releaseAt": "2024-04-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-914532-05",
@@ -1496,7 +1557,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-04-26T15:00:00.000Z"
+    "releaseAt": "2024-04-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-914532-06",
@@ -1520,7 +1582,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-04-26T15:00:00.000Z"
+    "releaseAt": "2024-04-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939979-00",
@@ -1544,7 +1607,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-05-15T15:00:00.000Z"
+    "releaseAt": "2024-05-15T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-914549-01",
@@ -1568,7 +1632,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-05-17T15:00:00.000Z"
+    "releaseAt": "2024-05-17T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-914549-02",
@@ -1592,7 +1657,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-05-17T15:00:00.000Z"
+    "releaseAt": "2024-05-17T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-914549-03",
@@ -1616,7 +1682,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-05-17T15:00:00.000Z"
+    "releaseAt": "2024-05-17T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-EVE-936138-00",
@@ -1640,7 +1707,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-05-31T15:00:00.000Z"
+    "releaseAt": "2024-05-31T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-914556-00",
@@ -1664,7 +1732,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-06-14T15:00:00.000Z"
+    "releaseAt": "2024-06-14T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-914563-00",
@@ -1688,7 +1757,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-07-12T15:00:00.000Z"
+    "releaseAt": "2024-07-12T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-914570-01",
@@ -1712,7 +1782,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-07-12T15:00:00.000Z"
+    "releaseAt": "2024-07-12T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-914570-02",
@@ -1736,7 +1807,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-07-12T15:00:00.000Z"
+    "releaseAt": "2024-07-12T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-914570-03",
@@ -1760,7 +1832,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-07-12T15:00:00.000Z"
+    "releaseAt": "2024-07-12T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-914570-04",
@@ -1784,7 +1857,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-07-12T15:00:00.000Z"
+    "releaseAt": "2024-07-12T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-914570-05",
@@ -1808,7 +1882,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-07-12T15:00:00.000Z"
+    "releaseAt": "2024-07-12T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-914570-06",
@@ -1832,7 +1907,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-07-12T15:00:00.000Z"
+    "releaseAt": "2024-07-12T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-941569-00",
@@ -1856,7 +1932,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-07-29T15:00:00.000Z"
+    "releaseAt": "2024-07-29T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-947110-00",
@@ -1880,7 +1957,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-08-09T15:00:00.000Z"
+    "releaseAt": "2024-08-09T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-914600-00",
@@ -1904,7 +1982,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-08-09T15:00:00.000Z"
+    "releaseAt": "2024-08-09T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-914594-01",
@@ -1928,7 +2007,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-08-09T15:00:00.000Z"
+    "releaseAt": "2024-08-09T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-914594-02",
@@ -1952,7 +2032,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-08-09T15:00:00.000Z"
+    "releaseAt": "2024-08-09T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-914594-03",
@@ -1976,7 +2057,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-08-09T15:00:00.000Z"
+    "releaseAt": "2024-08-09T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-941576-00",
@@ -2000,7 +2082,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-08-30T15:00:00.000Z"
+    "releaseAt": "2024-08-30T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-930358-00",
@@ -2024,7 +2107,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-09-13T15:00:00.000Z"
+    "releaseAt": "2024-09-13T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-930358-01",
@@ -2048,7 +2132,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-09-13T15:00:00.000Z"
+    "releaseAt": "2024-09-13T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-914617-01",
@@ -2072,7 +2157,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-09-13T15:00:00.000Z"
+    "releaseAt": "2024-09-13T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-914617-02",
@@ -2096,7 +2182,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-09-13T15:00:00.000Z"
+    "releaseAt": "2024-09-13T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-914617-03",
@@ -2120,7 +2207,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-09-13T15:00:00.000Z"
+    "releaseAt": "2024-09-13T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939498-00",
@@ -2144,7 +2232,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-10-11T15:00:00.000Z"
+    "releaseAt": "2024-10-11T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939481-00",
@@ -2168,7 +2257,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-10-11T15:00:00.000Z"
+    "releaseAt": "2024-10-11T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939504-00",
@@ -2192,7 +2282,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-11-01T15:00:00.000Z"
+    "releaseAt": "2024-11-01T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939504-01",
@@ -2216,7 +2307,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-11-01T15:00:00.000Z"
+    "releaseAt": "2024-11-01T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939535-00",
@@ -2240,7 +2332,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-11-01T15:00:00.000Z"
+    "releaseAt": "2024-11-01T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939542-01",
@@ -2264,7 +2357,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-11-01T15:00:00.000Z"
+    "releaseAt": "2024-11-01T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939542-03",
@@ -2288,7 +2382,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-11-01T15:00:00.000Z"
+    "releaseAt": "2024-11-01T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939542-02",
@@ -2312,7 +2407,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-11-01T15:00:00.000Z"
+    "releaseAt": "2024-11-01T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-953982-01",
@@ -2336,7 +2432,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-11-13T15:00:00.000Z"
+    "releaseAt": "2024-11-13T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-953982-03",
@@ -2360,7 +2457,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-11-13T15:00:00.000Z"
+    "releaseAt": "2024-11-13T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-953982-02",
@@ -2384,7 +2482,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-11-13T15:00:00.000Z"
+    "releaseAt": "2024-11-13T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-953708-00",
@@ -2408,7 +2507,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-11-27T15:00:00.000Z"
+    "releaseAt": "2024-11-27T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-952312-00",
@@ -2432,7 +2532,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-11-30T15:00:00.000Z"
+    "releaseAt": "2024-11-30T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-952329-00",
@@ -2456,7 +2557,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-11-30T15:00:00.000Z"
+    "releaseAt": "2024-11-30T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-957799-01",
@@ -2480,7 +2582,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-12-26T15:00:00.000Z"
+    "releaseAt": "2024-12-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-957799-02",
@@ -2504,7 +2607,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-12-26T15:00:00.000Z"
+    "releaseAt": "2024-12-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-957799-03",
@@ -2528,7 +2632,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-12-26T15:00:00.000Z"
+    "releaseAt": "2024-12-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-957782-00",
@@ -2552,7 +2657,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-12-26T15:00:00.000Z"
+    "releaseAt": "2024-12-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939559-00",
@@ -2576,7 +2682,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-12-26T15:00:00.000Z"
+    "releaseAt": "2024-12-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-945567-00",
@@ -2600,7 +2707,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-12-26T15:00:00.000Z"
+    "releaseAt": "2024-12-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939566-01",
@@ -2624,7 +2732,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-12-26T15:00:00.000Z"
+    "releaseAt": "2024-12-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939566-02",
@@ -2648,7 +2757,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-12-26T15:00:00.000Z"
+    "releaseAt": "2024-12-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939566-03",
@@ -2672,7 +2782,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-12-26T15:00:00.000Z"
+    "releaseAt": "2024-12-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939566-04",
@@ -2696,7 +2807,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-12-26T15:00:00.000Z"
+    "releaseAt": "2024-12-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939566-05",
@@ -2720,7 +2832,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-12-26T15:00:00.000Z"
+    "releaseAt": "2024-12-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939566-06",
@@ -2744,7 +2857,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-12-26T15:00:00.000Z"
+    "releaseAt": "2024-12-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939573-00",
@@ -2768,7 +2882,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-01-24T15:00:00.000Z"
+    "releaseAt": "2025-01-24T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939511-01",
@@ -2792,7 +2907,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-02-14T15:00:00.000Z"
+    "releaseAt": "2025-02-14T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939511-02",
@@ -2816,7 +2932,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-02-14T15:00:00.000Z"
+    "releaseAt": "2025-02-14T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939511-03",
@@ -2840,7 +2957,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-02-14T15:00:00.000Z"
+    "releaseAt": "2025-02-14T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-946816-01",
@@ -2864,7 +2982,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-03-20T15:00:00.000Z"
+    "releaseAt": "2025-03-20T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-946816-02",
@@ -2888,7 +3007,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-03-20T15:00:00.000Z"
+    "releaseAt": "2025-03-20T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-946816-03",
@@ -2912,7 +3032,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-03-20T15:00:00.000Z"
+    "releaseAt": "2025-03-20T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-946816-04",
@@ -2936,7 +3057,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-03-20T15:00:00.000Z"
+    "releaseAt": "2025-03-20T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939597-00",
@@ -2974,7 +3096,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-03-28T15:00:00.000Z"
+    "releaseAt": "2025-03-28T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939603-00",
@@ -3012,7 +3135,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-03-28T15:00:00.000Z"
+    "releaseAt": "2025-03-28T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939610-00",
@@ -3050,7 +3174,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-03-28T15:00:00.000Z"
+    "releaseAt": "2025-03-28T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939634-01",
@@ -3088,7 +3213,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-03-28T15:00:00.000Z"
+    "releaseAt": "2025-03-28T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939634-02",
@@ -3126,7 +3252,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-03-28T15:00:00.000Z"
+    "releaseAt": "2025-03-28T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-EVE-958772-00",
@@ -3164,7 +3291,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-03-28T15:00:00.000Z"
+    "releaseAt": "2025-03-28T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-946823-00",
@@ -3188,7 +3316,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-03-28T15:00:00.000Z"
+    "releaseAt": "2025-03-28T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-958499-00",
@@ -3212,7 +3341,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-04-25T15:00:00.000Z"
+    "releaseAt": "2025-04-25T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939627-01",
@@ -3250,7 +3380,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-04-25T15:00:00.000Z"
+    "releaseAt": "2025-04-25T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939627-02",
@@ -3288,7 +3419,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-04-25T15:00:00.000Z"
+    "releaseAt": "2025-04-25T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939627-03",
@@ -3326,7 +3458,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-04-25T15:00:00.000Z"
+    "releaseAt": "2025-04-25T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939627-04",
@@ -3350,7 +3483,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-04-25T15:00:00.000Z"
+    "releaseAt": "2025-04-25T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939627-05",
@@ -3374,7 +3508,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-04-25T15:00:00.000Z"
+    "releaseAt": "2025-04-25T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939627-06",
@@ -3398,7 +3533,408 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-04-25T15:00:00.000Z"
+    "releaseAt": "2025-04-25T15:00:00.000Z",
+    "upcoming": false
+  },
+  {
+    "id": "SR-PRD-980858-01",
+    "code": "BXG-29-01",
+    "name": "SPIDER-MAN 3-60F",
+    "nameCn": "蜘蛛人 3-60F",
+    "series": "BXG",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Spider-man",
+        "nameCn": "蜘蛛人",
+        "type": "戰刃"
+      },
+      {
+        "name": "3-60",
+        "type": "固鎖"
+      },
+      {
+        "name": "F",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2025-04-26T15:00:00.000Z",
+    "upcoming": false
+  },
+  {
+    "id": "SR-PRD-980858-02",
+    "code": "BXG-29-02",
+    "name": "VENOM 3-80N",
+    "nameCn": "猛毒 3-80N",
+    "series": "BXG",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Venom",
+        "nameCn": "猛毒",
+        "type": "戰刃"
+      },
+      {
+        "name": "3-80",
+        "type": "固鎖"
+      },
+      {
+        "name": "N",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2025-04-26T15:00:00.000Z",
+    "upcoming": false
+  },
+  {
+    "id": "SR-PRD-980841-01",
+    "code": "BXG-30-01",
+    "name": "IRON MAN 4-80B",
+    "nameCn": "鋼鐵人 4-80B",
+    "series": "BXG",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Iron man",
+        "nameCn": "鋼鐵人",
+        "type": "戰刃"
+      },
+      {
+        "name": "4-80",
+        "type": "固鎖"
+      },
+      {
+        "name": "B",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2025-04-26T15:00:00.000Z",
+    "upcoming": false
+  },
+  {
+    "id": "SR-PRD-980841-02",
+    "code": "BXG-30-02",
+    "name": "THANOS 4-60P",
+    "nameCn": "薩諾斯 4-60P",
+    "series": "BXG",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Thanos",
+        "nameCn": "薩諾斯",
+        "type": "戰刃"
+      },
+      {
+        "name": "4-60",
+        "type": "固鎖"
+      },
+      {
+        "name": "N",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2025-04-26T15:00:00.000Z",
+    "upcoming": false
+  },
+  {
+    "id": "SR-PRD-982340-01",
+    "code": "BXG-33-01",
+    "name": "LUKE SKYWALKER 4-80B",
+    "nameCn": "路克天行者 4-80B",
+    "series": "BXG",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Luke skywalker",
+        "nameCn": "路克天行者",
+        "type": "戰刃"
+      },
+      {
+        "name": "4-80",
+        "type": "固鎖"
+      },
+      {
+        "name": "B",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2025-04-26T15:00:00.000Z",
+    "upcoming": false
+  },
+  {
+    "id": "SR-PRD-982340-02",
+    "code": "BXG-33-02",
+    "name": "DARTH VADER 4-60P",
+    "nameCn": "達斯維達 4-60P",
+    "series": "BXG",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Darth vader",
+        "nameCn": "達斯維達",
+        "type": "戰刃"
+      },
+      {
+        "name": "4-60",
+        "type": "固鎖"
+      },
+      {
+        "name": "P",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2025-04-26T15:00:00.000Z",
+    "upcoming": false
+  },
+  {
+    "id": "SR-PRD-982357-01",
+    "code": "BXG-34-01",
+    "name": "THE MANDALORIAN 3-60F",
+    "nameCn": "曼達洛人 3-60F",
+    "series": "BXG",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "The mandalorian",
+        "nameCn": "曼達洛人",
+        "type": "戰刃"
+      },
+      {
+        "name": "3-60",
+        "type": "固鎖"
+      },
+      {
+        "name": "F",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2025-04-26T15:00:00.000Z",
+    "upcoming": false
+  },
+  {
+    "id": "SR-PRD-982357-02",
+    "code": "BXG-34-02",
+    "name": "MOFF GIDEON 3-80N",
+    "nameCn": "星區長吉迪恩 3-80N",
+    "series": "BXG",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Moff gideon",
+        "nameCn": "星區長吉迪恩",
+        "type": "戰刃"
+      },
+      {
+        "name": "3-80",
+        "type": "固鎖"
+      },
+      {
+        "name": "N",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2025-04-26T15:00:00.000Z",
+    "upcoming": false
+  },
+  {
+    "id": "SR-PRD-982456-01",
+    "code": "BXG-36-01",
+    "name": "OPTIMUS PRIME 4-60P",
+    "nameCn": "柯博文 4-60P",
+    "series": "BXG",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Optimus prime",
+        "nameCn": "柯博文",
+        "type": "戰刃"
+      },
+      {
+        "name": "4-60",
+        "type": "固鎖"
+      },
+      {
+        "name": "P",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2025-05-17T15:00:00.000Z",
+    "upcoming": false
+  },
+  {
+    "id": "SR-PRD-982456-02",
+    "code": "BXG-36-02",
+    "name": "MEGATRON 4-80B",
+    "nameCn": "密卡登 4-80B",
+    "series": "BXG",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Megatron",
+        "nameCn": "密卡登",
+        "type": "戰刃"
+      },
+      {
+        "name": "4-80",
+        "type": "固鎖"
+      },
+      {
+        "name": "B",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2025-05-17T15:00:00.000Z",
+    "upcoming": false
+  },
+  {
+    "id": "SR-PRD-982487-01",
+    "code": "BXG-37-01",
+    "name": "OPTIMUS PRIMAL 3-60F",
+    "nameCn": "金剛王 3-60F",
+    "series": "BXG",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Optimus primal",
+        "nameCn": "金剛王",
+        "type": "戰刃"
+      },
+      {
+        "name": "3-60",
+        "type": "固鎖"
+      },
+      {
+        "name": "F",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2025-05-17T15:00:00.000Z",
+    "upcoming": false
+  },
+  {
+    "id": "SR-PRD-982487-02",
+    "code": "BXG-37-02",
+    "name": "STARSCREAM 3-80N",
+    "nameCn": "天王星 3-80N",
+    "series": "BXG",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Starscream",
+        "nameCn": "天王星",
+        "type": "戰刃"
+      },
+      {
+        "name": "3-80",
+        "type": "固鎖"
+      },
+      {
+        "name": "N",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2025-05-17T15:00:00.000Z",
+    "upcoming": false
+  },
+  {
+    "id": "SR-PRD-749987-01",
+    "code": "BXG-40-01",
+    "name": "JURASSIC WORLD T-REX 1-80GB",
+    "nameCn": "暴龍 1-80GB",
+    "series": "BXG",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Jurassic world t-rex",
+        "nameCn": "暴龍",
+        "type": "戰刃"
+      },
+      {
+        "name": "1-80",
+        "type": "固鎖"
+      },
+      {
+        "name": "GB",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2025-07-19T15:00:00.000Z",
+    "upcoming": false
+  },
+  {
+    "id": "SR-PRD-749987-02",
+    "code": "BXG-40-02",
+    "name": "JURASSIC WORLD MOSASAURUS 9-60U",
+    "nameCn": "滄龍 9-60U",
+    "series": "BXG",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Jurassic world mosasaurus",
+        "nameCn": "滄龍",
+        "type": "戰刃"
+      },
+      {
+        "name": "9-60",
+        "type": "固鎖"
+      },
+      {
+        "name": "U",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2025-07-19T15:00:00.000Z",
+    "upcoming": false
+  },
+  {
+    "id": "SR-PRD-989002-02",
+    "code": "BXG-41-02",
+    "name": "JURASSIC WORLD QUETZALCOATLUS 4-55D",
+    "nameCn": "棘龍 4-55D",
+    "series": "BXG",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Jurassic world quetzalcoatlus",
+        "nameCn": "棘龍",
+        "type": "戰刃"
+      },
+      {
+        "name": "4-55",
+        "type": "固鎖"
+      },
+      {
+        "name": "D",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2025-07-19T15:00:00.000Z",
+    "upcoming": false
+  },
+  {
+    "id": "SR-PRD-989002-01",
+    "code": "BXG-41-01",
+    "name": "JURASSIC WORLD SPINOSAURUS 3-85A",
+    "nameCn": "翼龍 3-85A",
+    "series": "BXG",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Jurassic world spinosaurus",
+        "nameCn": "翼龍",
+        "type": "戰刃"
+      },
+      {
+        "name": "3-85",
+        "type": "固鎖"
+      },
+      {
+        "name": "A",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2025-07-19T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-EVE-982524-01",
@@ -3436,7 +3972,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-05-02T15:00:00.000Z"
+    "releaseAt": "2025-05-02T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-EVE-982524-02",
@@ -3474,7 +4011,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-05-02T15:00:00.000Z"
+    "releaseAt": "2025-05-02T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-EVE-982524-03",
@@ -3512,7 +4050,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-05-02T15:00:00.000Z"
+    "releaseAt": "2025-05-02T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-956969-01",
@@ -3550,7 +4089,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-05-16T15:00:00.000Z"
+    "releaseAt": "2025-05-16T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-956969-02",
@@ -3588,7 +4128,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-05-16T15:00:00.000Z"
+    "releaseAt": "2025-05-16T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-956969-03",
@@ -3626,7 +4167,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-05-16T15:00:00.000Z"
+    "releaseAt": "2025-05-16T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939528-00",
@@ -3650,7 +4192,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-06-27T15:00:00.000Z"
+    "releaseAt": "2025-06-27T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-956976-00",
@@ -3676,7 +4219,7 @@ export const generatedProducts: readonly Product[] = [
         "type": "主要戰刃"
       },
       {
-        "name": "CX-07 固鎖一體式軸心",
+        "name": "RATCHET-integrated BITS",
         "nameCn": "固鎖一體式軸心",
         "type": "固鎖"
       },
@@ -3689,7 +4232,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-07-18T15:00:00.000Z"
+    "releaseAt": "2025-07-18T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-957492-00",
@@ -3713,7 +4257,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-07-18T15:00:00.000Z"
+    "releaseAt": "2025-07-18T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-956983-01",
@@ -3751,7 +4296,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-07-18T15:00:00.000Z"
+    "releaseAt": "2025-07-18T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-956983-02",
@@ -3789,7 +4335,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-07-18T15:00:00.000Z"
+    "releaseAt": "2025-07-18T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-956983-03",
@@ -3827,7 +4374,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-07-18T15:00:00.000Z"
+    "releaseAt": "2025-07-18T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-956983-04",
@@ -3851,7 +4399,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-07-18T15:00:00.000Z"
+    "releaseAt": "2025-07-18T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-956983-05",
@@ -3875,7 +4424,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-07-18T15:00:00.000Z"
+    "releaseAt": "2025-07-18T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-956983-06",
@@ -3899,7 +4449,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-07-18T15:00:00.000Z"
+    "releaseAt": "2025-07-18T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-954316-00",
@@ -3937,7 +4488,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-07-16T15:00:00.000Z"
+    "releaseAt": "2025-07-16T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-919124-00",
@@ -3961,7 +4513,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-07-16T15:00:00.000Z"
+    "releaseAt": "2025-07-16T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-930495-00",
@@ -3987,7 +4540,7 @@ export const generatedProducts: readonly Product[] = [
         "type": "主要戰刃"
       },
       {
-        "name": "BXG-45 固鎖一體式軸心",
+        "name": "RATCHET-integrated BITS",
         "nameCn": "固鎖一體式軸心",
         "type": "固鎖"
       },
@@ -4000,7 +4553,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-08-02T15:00:00.000Z"
+    "releaseAt": "2025-08-02T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939580-00",
@@ -4024,7 +4578,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-08-08T15:00:00.000Z"
+    "releaseAt": "2025-08-08T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-982432-01",
@@ -4048,7 +4603,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-08-08T15:00:00.000Z"
+    "releaseAt": "2025-08-08T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-982432-02",
@@ -4072,7 +4628,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-08-08T15:00:00.000Z"
+    "releaseAt": "2025-08-08T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-982432-03",
@@ -4110,7 +4667,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-08-08T15:00:00.000Z"
+    "releaseAt": "2025-08-08T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-930907-00",
@@ -4148,7 +4706,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-08-08T15:00:00.000Z"
+    "releaseAt": "2025-08-08T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-995678-00",
@@ -4186,7 +4745,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-09-26T15:00:00.000Z"
+    "releaseAt": "2025-09-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-990154-01",
@@ -4210,7 +4770,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-10-10T15:00:00.000Z"
+    "releaseAt": "2025-10-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-990154-02",
@@ -4234,7 +4795,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-10-10T15:00:00.000Z"
+    "releaseAt": "2025-10-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-990154-03",
@@ -4258,7 +4820,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-10-10T15:00:00.000Z"
+    "releaseAt": "2025-10-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-997610-01",
@@ -4282,7 +4845,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-10-10T15:00:00.000Z"
+    "releaseAt": "2025-10-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-997610-02",
@@ -4306,7 +4870,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-10-10T15:00:00.000Z"
+    "releaseAt": "2025-10-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-097242-00",
@@ -4344,7 +4909,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-10-31T15:00:00.000Z"
+    "releaseAt": "2025-10-31T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-098775-01",
@@ -4370,7 +4936,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "主要戰刃"
       },
       {
-        "name": "固鎖一體式軸心",
+        "name": "RATCHET-integrated BITS",
+        "nameCn": "固鎖一體式軸心",
         "type": "固鎖"
       },
       {
@@ -4382,7 +4949,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-10-31T15:00:00.000Z"
+    "releaseAt": "2025-10-31T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-098775-02",
@@ -4406,7 +4974,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-10-31T15:00:00.000Z"
+    "releaseAt": "2025-10-31T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-098775-03",
@@ -4430,7 +4999,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-10-31T15:00:00.000Z"
+    "releaseAt": "2025-10-31T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-997627-00",
@@ -4454,7 +5024,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-12-26T15:00:00.000Z"
+    "releaseAt": "2025-12-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-099468-00",
@@ -4478,7 +5049,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-12-26T15:00:00.000Z"
+    "releaseAt": "2025-12-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-097167-01",
@@ -4502,7 +5074,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-12-26T15:00:00.000Z"
+    "releaseAt": "2025-12-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-097167-02",
@@ -4526,7 +5099,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-12-26T15:00:00.000Z"
+    "releaseAt": "2025-12-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-097167-03",
@@ -4564,7 +5138,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-12-26T15:00:00.000Z"
+    "releaseAt": "2025-12-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-097167-04",
@@ -4602,7 +5177,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-12-26T15:00:00.000Z"
+    "releaseAt": "2025-12-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-097167-05",
@@ -4626,7 +5202,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-12-26T15:00:00.000Z"
+    "releaseAt": "2025-12-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-097167-06",
@@ -4650,7 +5227,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-12-26T15:00:00.000Z"
+    "releaseAt": "2025-12-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-096153-00",
@@ -4688,7 +5266,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2026-01-23T15:00:00.000Z"
+    "releaseAt": "2026-01-23T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-096092-01",
@@ -4712,7 +5291,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2026-02-13T15:00:00.000Z"
+    "releaseAt": "2026-02-13T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-096092-02",
@@ -4736,7 +5316,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2026-02-13T15:00:00.000Z"
+    "releaseAt": "2026-02-13T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-096092-03",
@@ -4760,7 +5341,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2026-02-13T15:00:00.000Z"
+    "releaseAt": "2026-02-13T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-096092-04",
@@ -4784,7 +5366,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2026-02-13T15:00:00.000Z"
+    "releaseAt": "2026-02-13T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-096092-05",
@@ -4808,7 +5391,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2026-02-13T15:00:00.000Z"
+    "releaseAt": "2026-02-13T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-096528-00",
@@ -4832,7 +5416,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2026-02-20T15:00:00.000Z"
+    "releaseAt": "2026-02-20T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-097259-00",
@@ -4880,7 +5465,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2026-03-27T15:00:00.000Z"
+    "releaseAt": "2026-03-27T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-097266-00",
@@ -4928,7 +5514,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2026-03-27T15:00:00.000Z"
+    "releaseAt": "2026-03-27T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-097273-00",
@@ -4976,7 +5563,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2026-03-27T15:00:00.000Z"
+    "releaseAt": "2026-03-27T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-097280-00",
@@ -5024,7 +5612,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2026-03-27T15:00:00.000Z"
+    "releaseAt": "2026-03-27T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-997351-00",
@@ -5048,7 +5637,771 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2026-03-27T15:00:00.000Z"
+    "releaseAt": "2026-03-27T15:00:00.000Z",
+    "upcoming": false
+  },
+  {
+    "id": "SR-PRD-305732-01",
+    "code": "BX-00-01",
+    "name": "OBI-WAN KENOBI 4-60P",
+    "nameCn": "歐比王肯諾比 4-60P",
+    "series": "BX",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Obi-wan kenobi",
+        "nameCn": "歐比王肯諾比",
+        "type": "戰刃"
+      },
+      {
+        "name": "4-60",
+        "type": "固鎖"
+      },
+      {
+        "name": "P",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2025-08-20T15:00:00.000Z",
+    "upcoming": false
+  },
+  {
+    "id": "SR-PRD-305732-02",
+    "code": "BX-00-01",
+    "name": "GENERAL GRIEVOUS 3-80HN",
+    "nameCn": "葛里維斯將軍 3-80HN",
+    "series": "BX",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "General grievous",
+        "nameCn": "葛里維斯將軍",
+        "type": "戰刃"
+      },
+      {
+        "name": "3-80",
+        "type": "固鎖"
+      },
+      {
+        "name": "HN",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2025-08-20T15:00:00.000Z",
+    "upcoming": false
+  },
+  {
+    "id": "SR-PRD-305749-01",
+    "code": "BX-00-02",
+    "name": "CHEWBACCA 4-80LF",
+    "nameCn": "丘巴卡 4-80LF",
+    "series": "BX",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Chewbacca",
+        "nameCn": "丘巴卡",
+        "type": "戰刃"
+      },
+      {
+        "name": "4-80",
+        "type": "固鎖"
+      },
+      {
+        "name": "LF",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2025-08-31T15:00:00.000Z",
+    "upcoming": false
+  },
+  {
+    "id": "SR-PRD-305749-02",
+    "code": "BX-00-02",
+    "name": "STORMTROOPER 5-70B",
+    "nameCn": "風暴兵 5-70B",
+    "series": "BX",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Stormtrooper",
+        "nameCn": "風暴兵",
+        "type": "戰刃"
+      },
+      {
+        "name": "5-70",
+        "type": "固鎖"
+      },
+      {
+        "name": "B",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2025-08-31T15:00:00.000Z",
+    "upcoming": false
+  },
+  {
+    "id": "SR-PRD-305718-01",
+    "code": "BX-00-03",
+    "name": "CAPTAIN AMERICA 4-70GB",
+    "nameCn": "美國隊長 4-70GB",
+    "series": "BX",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Captain america",
+        "nameCn": "美國隊長",
+        "type": "戰刃"
+      },
+      {
+        "name": "4-70",
+        "type": "固鎖"
+      },
+      {
+        "name": "GB",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2025-09-02T15:00:00.000Z",
+    "upcoming": false
+  },
+  {
+    "id": "SR-PRD-305718-02",
+    "code": "BX-00-03",
+    "name": "RED HULK 1-80R",
+    "nameCn": "紅浩克 1-80R",
+    "series": "BX",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Red hulk",
+        "nameCn": "紅浩克",
+        "type": "戰刃"
+      },
+      {
+        "name": "1-80",
+        "type": "固鎖"
+      },
+      {
+        "name": "R",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2025-09-02T15:00:00.000Z",
+    "upcoming": false
+  },
+  {
+    "id": "SR-PRD-305725-01",
+    "code": "BX-00-04",
+    "name": "MILES MORALES 1-60GN",
+    "nameCn": "終極蜘蛛人 1-60GN",
+    "series": "BX",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Miles morales",
+        "nameCn": "終極蜘蛛人",
+        "type": "戰刃"
+      },
+      {
+        "name": "1-60",
+        "type": "固鎖"
+      },
+      {
+        "name": "GN",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2025-09-23T15:00:00.000Z",
+    "upcoming": false
+  },
+  {
+    "id": "SR-PRD-305725-02",
+    "code": "BX-00-04",
+    "name": "GREEN GOBLIN 9-80HT",
+    "nameCn": "綠惡魔 9-80HT",
+    "series": "BX",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Green goblin",
+        "nameCn": "綠惡魔",
+        "type": "戰刃"
+      },
+      {
+        "name": "9-80",
+        "type": "固鎖"
+      },
+      {
+        "name": "HT",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2025-09-23T15:00:00.000Z",
+    "upcoming": false
+  },
+  {
+    "id": "SR-PRD-096122-00",
+    "code": "BX-49",
+    "name": "DranStrike 4-50FF",
+    "nameCn": "蒼龍突擊 4-50FF",
+    "series": "BX",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Dranstrike",
+        "nameCn": "蒼龍突擊",
+        "type": "戰刃"
+      },
+      {
+        "name": "4-50",
+        "type": "固鎖"
+      },
+      {
+        "name": "FF",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2026-05-15T15:00:00.000Z",
+    "upcoming": true
+  },
+  {
+    "id": "SR-PRD-080572-00",
+    "code": "BXG-51",
+    "name": "DRANBRAVE S6-60V Metallic Coat: Black",
+    "nameCn": "蒼龍勇氣 S6-60V 金屬塗層:黑色",
+    "series": "BXG",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Dranbrave s",
+        "nameCn": "蒼龍勇氣 S",
+        "type": "戰刃"
+      },
+      {
+        "name": "DRAN",
+        "nameCn": "蒼龍",
+        "type": "紋章鎖"
+      },
+      {
+        "name": "Brave",
+        "nameCn": "勇氣",
+        "type": "主要戰刃"
+      },
+      {
+        "name": "6-60",
+        "type": "固鎖"
+      },
+      {
+        "name": "S",
+        "type": "輔助戰刃"
+      },
+      {
+        "name": "V",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2026-05-29T15:00:00.000Z",
+    "upcoming": true
+  },
+  {
+    "id": "SR-PRD-975731-00",
+    "code": "BXG-54",
+    "name": "WARRIORSABER 5-60K Metal Coat: Samurai Blue Soccer Japan National Team Ver.",
+    "nameCn": "武士星劍 5-60K 金屬塗層：武士藍 足球日本國家代表隊版",
+    "series": "BXG",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Warriorsaber metal coat: samurai blue soccer japan national team ver.",
+        "nameCn": "武士星劍",
+        "type": "戰刃"
+      },
+      {
+        "name": "5-60",
+        "type": "固鎖"
+      },
+      {
+        "name": "K",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2026-06-12T15:00:00.000Z",
+    "upcoming": true
+  },
+  {
+    "id": "SR-PRD-085683-01",
+    "code": "BXG-57-01",
+    "name": "EvaArc B0-70E Unit-00 Ver.",
+    "nameCn": "福音戰士至尊 B0-70E 零號機版本",
+    "series": "BXG",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Evaarc b unit-00 ver.",
+        "nameCn": "福音戰士至尊 B 零號機版本",
+        "type": "戰刃"
+      },
+      {
+        "name": "Eva",
+        "nameCn": "福音戰士",
+        "type": "紋章鎖"
+      },
+      {
+        "name": "Arc",
+        "nameCn": "至尊",
+        "type": "主要戰刃"
+      },
+      {
+        "name": "0-70",
+        "type": "固鎖"
+      },
+      {
+        "name": "B",
+        "type": "輔助戰刃"
+      },
+      {
+        "name": "E",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2029-08-28T15:00:00.000Z",
+    "upcoming": true
+  },
+  {
+    "id": "SR-PRD-085683-02",
+    "code": "BXG-57-02",
+    "name": "EvaBrave A1-70V Unit-01 Ver.",
+    "nameCn": "福音戰士勇氣 A1-70V 初號機版本",
+    "series": "BXG",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Evabrave a unit-01 ver.",
+        "nameCn": "福音戰士勇氣 A 初號機版本",
+        "type": "戰刃"
+      },
+      {
+        "name": "Eva",
+        "nameCn": "福音戰士",
+        "type": "紋章鎖"
+      },
+      {
+        "name": "Brave",
+        "nameCn": "勇氣",
+        "type": "主要戰刃"
+      },
+      {
+        "name": "1-70",
+        "type": "固鎖"
+      },
+      {
+        "name": "A",
+        "type": "輔助戰刃"
+      },
+      {
+        "name": "V",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2029-08-28T15:00:00.000Z",
+    "upcoming": true
+  },
+  {
+    "id": "SR-PRD-085683-03",
+    "code": "BXG-57-03",
+    "name": "EvaBrush T2-70A Unit-02 Ver.",
+    "nameCn": "福音戰士九尾 T2-70A ２號機版本",
+    "series": "BXG",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Evabrush t unit-02 ver.",
+        "nameCn": "福音戰士九尾 T ２號機版本",
+        "type": "戰刃"
+      },
+      {
+        "name": "Eva",
+        "nameCn": "福音戰士",
+        "type": "紋章鎖"
+      },
+      {
+        "name": "Brush",
+        "nameCn": "九尾",
+        "type": "主要戰刃"
+      },
+      {
+        "name": "2-70",
+        "type": "固鎖"
+      },
+      {
+        "name": "T",
+        "type": "輔助戰刃"
+      },
+      {
+        "name": "A",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2029-08-28T15:00:00.000Z",
+    "upcoming": true
+  },
+  {
+    "id": "SR-PRD-814517-00",
+    "code": "BXG-61",
+    "name": "SCORPIOSPEAR 0-70Z Metal Coat: Magenta",
+    "nameCn": "天蠍長矛 0-70Z 金屬塗層:紫紅",
+    "series": "BXG",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Scorpiospear metal coat: magenta",
+        "nameCn": "天蠍長矛",
+        "type": "戰刃"
+      },
+      {
+        "name": "0-70",
+        "type": "固鎖"
+      },
+      {
+        "name": "Z",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2026-04-24T15:00:00.000Z",
+    "upcoming": true
+  },
+  {
+    "id": "SR-PRD-777777-00",
+    "code": "BXH-00-01",
+    "name": "RAGNARAGEFE 4-55Y Metallic Coat: Gold",
+    "nameCn": "邪神狂怒 FE4-55Y 金屬塗層:燦金",
+    "series": "BXH",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Ragnaragefe",
+        "nameCn": "邪神狂怒FE",
+        "type": "戰刃"
+      },
+      {
+        "name": "RAGNA",
+        "nameCn": "邪神",
+        "type": "紋章鎖"
+      },
+      {
+        "name": "Rage",
+        "nameCn": "狂怒",
+        "type": "金屬戰刃"
+      },
+      {
+        "name": "F",
+        "nameCn": "邪神狂怒",
+        "type": "超越戰刃"
+      },
+      {
+        "name": "4-55",
+        "type": "固鎖"
+      },
+      {
+        "name": "E",
+        "type": "輔助戰刃"
+      },
+      {
+        "name": "Y",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2026-05-31T15:00:00.000Z",
+    "upcoming": true
+  },
+  {
+    "id": "SR-PRD-777778-01",
+    "code": "BXH-00-02",
+    "name": "DranStrike 4-50FF Metallic Coat: Gold",
+    "nameCn": "蒼龍突擊 4-50FF 金屬塗層:燦金",
+    "series": "BXH",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Dranstrike",
+        "nameCn": "蒼龍突擊",
+        "type": "戰刃"
+      },
+      {
+        "name": "4-50",
+        "type": "固鎖"
+      },
+      {
+        "name": "FF",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2026-05-05T15:00:00.000Z",
+    "upcoming": true
+  },
+  {
+    "id": "SR-PRD-777778-02",
+    "code": "BXH-00-02",
+    "name": "DranStrike 4-50FF Metallic Coat: Silver",
+    "nameCn": "蒼龍突擊 4-50FF 金屬塗層:白銀",
+    "series": "BXH",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Dranstrike",
+        "nameCn": "蒼龍突擊",
+        "type": "戰刃"
+      },
+      {
+        "name": "4-50",
+        "type": "固鎖"
+      },
+      {
+        "name": "FF",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2026-05-05T15:00:00.000Z",
+    "upcoming": true
+  },
+  {
+    "id": "SR-PRD-777778-03",
+    "code": "BXH-00-03",
+    "name": "DranStrike 4-50FF Metallic Coat: Bronze",
+    "nameCn": "蒼龍突擊 4-50FF 金屬塗層:黃銅",
+    "series": "BXH",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Dranstrike",
+        "nameCn": "蒼龍突擊",
+        "type": "戰刃"
+      },
+      {
+        "name": "4-50",
+        "type": "固鎖"
+      },
+      {
+        "name": "FF",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2026-05-05T15:00:00.000Z",
+    "upcoming": true
+  },
+  {
+    "id": "SR-PRD-096146-01",
+    "code": "CX-17-01",
+    "name": "UnicornDelta PO3-60GU",
+    "nameCn": "獨角獸 Delta PO3-60GU",
+    "series": "CX",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Unicorndelta p",
+        "nameCn": "獨角獸 Delta P",
+        "type": "戰刃"
+      },
+      {
+        "name": "Unicorn",
+        "nameCn": "獨角獸",
+        "type": "紋章鎖"
+      },
+      {
+        "name": "Delta",
+        "nameCn": "獨角獸",
+        "type": "金屬戰刃"
+      },
+      {
+        "name": "P",
+        "nameCn": "獨角獸",
+        "type": "超越戰刃"
+      },
+      {
+        "name": "3-60",
+        "type": "固鎖"
+      },
+      {
+        "name": "O",
+        "type": "輔助戰刃"
+      },
+      {
+        "name": "GU",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2026-04-24T15:00:00.000Z",
+    "upcoming": true
+  },
+  {
+    "id": "SR-PRD-096146-02",
+    "code": "CX-17-02",
+    "name": "UnicornDelta PO1-80GR",
+    "nameCn": "獨角獸 Delta PO1-80GR",
+    "series": "CX",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Unicorndelta p",
+        "nameCn": "獨角獸 Delta P",
+        "type": "戰刃"
+      },
+      {
+        "name": "Unicorn",
+        "nameCn": "獨角獸",
+        "type": "紋章鎖"
+      },
+      {
+        "name": "Delta",
+        "nameCn": "獨角獸",
+        "type": "金屬戰刃"
+      },
+      {
+        "name": "P",
+        "nameCn": "獨角獸",
+        "type": "超越戰刃"
+      },
+      {
+        "name": "1-80",
+        "type": "固鎖"
+      },
+      {
+        "name": "O",
+        "type": "輔助戰刃"
+      },
+      {
+        "name": "GR",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2026-04-24T15:00:00.000Z",
+    "upcoming": true
+  },
+  {
+    "id": "SR-PRD-096146-03",
+    "code": "CX-17-03",
+    "name": "WARRIORSABER 9-65LO",
+    "nameCn": "武士星劍 9-65LO",
+    "series": "CX",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Warriorsaber",
+        "nameCn": "武士星劍",
+        "type": "戰刃"
+      },
+      {
+        "name": "9-65",
+        "type": "固鎖"
+      },
+      {
+        "name": "LO",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2026-04-24T15:00:00.000Z",
+    "upcoming": true
+  },
+  {
+    "id": "SR-PRD-096146-04",
+    "code": "CX-17-04",
+    "name": "HELLSHAMMER 3-85GU",
+    "nameCn": "惡魔重錘 3-85GU",
+    "series": "CX",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Hellshummner",
+        "nameCn": "惡魔重錘",
+        "type": "戰刃"
+      },
+      {
+        "name": "3-85",
+        "type": "固鎖"
+      },
+      {
+        "name": "GU",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2026-04-24T15:00:00.000Z",
+    "upcoming": true
+  },
+  {
+    "id": "SR-PRD-096146-05",
+    "code": "CX-17-05",
+    "name": "TYRANNOBEAT 3-60N",
+    "nameCn": "暴龍霸擊 3-60N",
+    "series": "CX",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Tyrannobeat",
+        "nameCn": "暴龍霸擊",
+        "type": "戰刃"
+      },
+      {
+        "name": "3-60",
+        "type": "固鎖"
+      },
+      {
+        "name": "N",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2026-04-24T15:00:00.000Z",
+    "upcoming": true
+  },
+  {
+    "id": "SR-PRD-096146-06",
+    "code": "CX-17-06",
+    "name": "CRIMSONGARUDA 7-80GU",
+    "nameCn": "赫燃天鳳 7-80GU",
+    "series": "CX",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Crimsongaruda",
+        "nameCn": "赫燃天鳳",
+        "type": "戰刃"
+      },
+      {
+        "name": "7-80",
+        "type": "固鎖"
+      },
+      {
+        "name": "GU",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2026-04-24T15:00:00.000Z",
+    "upcoming": true
+  },
+  {
+    "id": "SR-PRD-096160-00",
+    "code": "UX-19",
+    "name": "BulletGriffon H",
+    "nameCn": "子彈獅鷲 H",
+    "series": "UX",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Bulletgriffon",
+        "nameCn": "子彈獅鷲",
+        "type": "戰刃"
+      },
+      {
+        "name": "RC-PRD-096160-00",
+        "type": "固鎖"
+      },
+      {
+        "name": "H",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2026-04-24T15:00:00.000Z",
+    "upcoming": true
   }
 ] as const;
 
@@ -5090,6 +6443,11 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
       "BXC-00-03",
       "BXG-12",
       "BXG-13",
+      "BXG-29-01",
+      "BXG-34-01",
+      "BXG-37-01",
+      "CX-17-01",
+      "CX-17-05",
       "UX-15-03"
     ]
   },
@@ -5112,6 +6470,9 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
       "BXG-07",
       "BXG-12",
       "BXG-23",
+      "BXG-29-01",
+      "BXG-34-01",
+      "BXG-37-01",
       "BXH-01",
       "CX-08-03",
       "UX-12-03"
@@ -5133,6 +6494,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "4-60",
     "type": "固鎖",
     "products": [
+      "BX-00-01",
       "BX-02",
       "BX-08-03",
       "BX-14-05",
@@ -5144,6 +6506,9 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
       "BXG-12",
       "BXG-22",
       "BXG-23",
+      "BXG-30-02",
+      "BXG-33-02",
+      "BXG-36-01",
       "BXH-01",
       "UX-12-02",
       "UX-18-02"
@@ -5182,6 +6547,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "4-80",
     "type": "固鎖",
     "products": [
+      "BX-00-02",
       "BX-03",
       "BX-05",
       "BX-08-02",
@@ -5194,6 +6560,9 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
       "BX-27-02",
       "BXG-04",
       "BXG-25",
+      "BXG-30-01",
+      "BXG-33-01",
+      "BXG-36-02",
       "UX-18-06"
     ]
   },
@@ -5201,12 +6570,16 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "B",
     "type": "軸心",
     "products": [
+      "BX-00-02",
       "BX-03",
       "BX-05",
       "BX-08-01",
       "BX-14-03",
       "BX-17-02",
       "BX-35-02",
+      "BXG-30-01",
+      "BXG-33-01",
+      "BXG-36-02",
       "UX-10-03",
       "UX-16-01",
       "UX-16-02",
@@ -5230,6 +6603,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "3-80",
     "type": "固鎖",
     "products": [
+      "BX-00-01",
       "BX-04",
       "BX-06",
       "BX-08-01",
@@ -5241,6 +6615,9 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
       "BX-36-03",
       "BXG-01",
       "BXG-15",
+      "BXG-29-02",
+      "BXG-34-02",
+      "BXG-37-02",
       "BXH-02",
       "UX-08",
       "UX-12-03"
@@ -5256,7 +6633,12 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
       "BX-14-02",
       "BX-21-03",
       "BXG-25",
+      "BXG-29-02",
+      "BXG-30-02",
+      "BXG-34-02",
+      "BXG-37-02",
       "BXH-02",
+      "CX-17-05",
       "UX-12-05"
     ]
   },
@@ -5293,6 +6675,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "HN",
     "type": "軸心",
     "products": [
+      "BX-00-01",
       "BX-13",
       "BX-16-03",
       "BX-24-05",
@@ -5317,6 +6700,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "LF",
     "type": "軸心",
     "products": [
+      "BX-00-02",
       "BX-14-01",
       "BX-14-04",
       "BX-14-05",
@@ -5350,6 +6734,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
       "BXG-05",
       "BXG-06",
       "BXG-08",
+      "BXG-54",
       "CX-11-03"
     ]
   },
@@ -5357,10 +6742,13 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "P",
     "type": "軸心",
     "products": [
+      "BX-00-01",
       "BX-15",
       "BX-31-04",
       "BXG-04",
-      "BXG-05"
+      "BXG-05",
+      "BXG-33-02",
+      "BXG-36-01"
     ]
   },
   {
@@ -5434,6 +6822,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "R",
     "type": "軸心",
     "products": [
+      "BX-00-03",
       "BX-20-01",
       "BX-35-04",
       "BX-46-01"
@@ -5453,6 +6842,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "HT",
     "type": "軸心",
     "products": [
+      "BX-00-04",
       "BX-21-01",
       "BX-27-02",
       "BXG-08",
@@ -5475,6 +6865,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
       "BX-23",
       "BX-46-01",
       "BXG-25",
+      "BXG-40-02",
       "UX-05-02",
       "UX-11"
     ]
@@ -5505,11 +6896,13 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "GB",
     "type": "軸心",
     "products": [
+      "BX-00-03",
       "BX-24-01",
       "BX-24-03",
       "BX-24-06",
       "BX-36-03",
       "BX-48-04",
+      "BXG-40-01",
       "UX-12-01"
     ]
   },
@@ -5546,6 +6939,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "9-80",
     "type": "固鎖",
     "products": [
+      "BX-00-04",
       "BX-27-01",
       "BX-31-03",
       "BX-35-02",
@@ -5558,6 +6952,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "GN",
     "type": "軸心",
     "products": [
+      "BX-00-04",
       "BX-27-01",
       "BXG-20",
       "UX-06"
@@ -5581,6 +6976,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "1-60",
     "type": "固鎖",
     "products": [
+      "BX-00-04",
       "BX-31-05",
       "BX-35-04",
       "BXG-07",
@@ -5600,6 +6996,8 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
       "BXG-18",
       "BXG-24",
       "BXG-31",
+      "BXG-41-01",
+      "BXG-57-03",
       "BXH-10",
       "UX-01",
       "UX-04-01"
@@ -5635,7 +7033,8 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
       "BX-35-05",
       "BXG-19",
       "UX-02",
-      "UX-12-02"
+      "UX-12-02",
+      "UX-19"
     ]
   },
   {
@@ -5653,6 +7052,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "5-70",
     "type": "固鎖",
     "products": [
+      "BX-00-02",
       "BX-35-06",
       "BX-39-02",
       "BXH-09",
@@ -5688,6 +7088,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "products": [
       "BX-31-01",
       "BX-31-02",
+      "CX-17-05",
       "UX-10-02"
     ]
   },
@@ -5695,6 +7096,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "4-70",
     "type": "固鎖",
     "products": [
+      "BX-00-03",
       "BX-31-01",
       "BX-31-04",
       "BX-36-02",
@@ -5731,6 +7133,9 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "1-80",
     "type": "固鎖",
     "products": [
+      "BX-00-03",
+      "BXG-40-01",
+      "CX-17-02",
       "UX-05-01",
       "UX-07-03"
     ]
@@ -5757,6 +7162,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "type": "軸心",
     "products": [
       "BX-33",
+      "BXG-40-02",
       "CX-06-03"
     ]
   },
@@ -5812,6 +7218,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
       "BX-35-06",
       "BX-39-03",
       "BXG-11",
+      "BXG-41-02",
       "CX-05-02"
     ]
   },
@@ -5895,6 +7302,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
       "BX-36-01",
       "BX-48-02",
       "BXG-32",
+      "BXG-57-01",
       "UX-12-04"
     ]
   },
@@ -5928,7 +7336,8 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "type": "戰刃",
     "products": [
       "BX-38",
-      "BX-38-01"
+      "BX-38-01",
+      "CX-17-06"
     ]
   },
   {
@@ -5945,6 +7354,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "nameCn": "武士星劍",
     "type": "戰刃",
     "products": [
+      "CX-17-03",
       "UX-09"
     ]
   },
@@ -5953,6 +7363,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "type": "固鎖",
     "products": [
       "BXG-21",
+      "BXG-57-03",
       "UX-09"
     ]
   },
@@ -5978,9 +7389,11 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "type": "固鎖",
     "products": [
       "BX-48-04",
+      "BXG-41-01",
       "BXG-42",
       "CX-05-03",
       "CX-08-02",
+      "CX-17-04",
       "UX-10-01",
       "UX-18-03"
     ]
@@ -6127,7 +7540,8 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "7-80",
     "type": "固鎖",
     "products": [
-      "BX-39-01"
+      "BX-39-01",
+      "CX-17-06"
     ]
   },
   {
@@ -6170,6 +7584,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "nameCn": "蒼龍",
     "type": "紋章鎖",
     "products": [
+      "BXG-51",
       "BXH-16",
       "CX-01",
       "CX-04-01"
@@ -6180,6 +7595,8 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "nameCn": "勇氣",
     "type": "主要戰刃",
     "products": [
+      "BXG-51",
+      "BXG-57-02",
       "BXH-16",
       "CX-01",
       "CX-04-01",
@@ -6191,6 +7608,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "6-60",
     "type": "固鎖",
     "products": [
+      "BXG-51",
       "BXH-16",
       "CX-01",
       "CX-04-01"
@@ -6200,6 +7618,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "S",
     "type": "輔助戰刃",
     "products": [
+      "BXG-51",
       "BXH-14",
       "BXH-16",
       "CX-01",
@@ -6210,6 +7629,8 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "V",
     "type": "軸心",
     "products": [
+      "BXG-51",
+      "BXG-57-02",
       "BXH-14",
       "BXH-16",
       "CX-01",
@@ -6240,6 +7661,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "type": "主要戰刃",
     "products": [
       "BXG-43",
+      "BXG-57-01",
       "CX-02",
       "CX-05-03"
     ]
@@ -6248,7 +7670,9 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "4-55",
     "type": "固鎖",
     "products": [
+      "BXG-41-02",
       "BXG-43",
+      "BXH-00-01",
       "CX-02",
       "CX-05-02",
       "CX-08-06",
@@ -6268,7 +7692,8 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "type": "軸心",
     "products": [
       "BXG-43",
-      "CX-02"
+      "CX-02",
+      "CX-17-03"
     ]
   },
   {
@@ -6316,6 +7741,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "B",
     "type": "輔助戰刃",
     "products": [
+      "BXG-57-01",
       "BXH-15",
       "CX-03",
       "CX-04-02"
@@ -6352,6 +7778,8 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "0-70",
     "type": "固鎖",
     "products": [
+      "BXG-57-01",
+      "BXG-61",
       "UX-14"
     ]
   },
@@ -6359,6 +7787,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "Z",
     "type": "軸心",
     "products": [
+      "BXG-61",
       "UX-14"
     ]
   },
@@ -6393,6 +7822,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "T",
     "type": "輔助戰刃",
     "products": [
+      "BXG-57-03",
       "CX-05-01",
       "CX-05-03"
     ]
@@ -6401,6 +7831,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "K",
     "type": "軸心",
     "products": [
+      "BXG-54",
       "CX-05-01",
       "CX-05-04",
       "CX-05-06"
@@ -6439,6 +7870,134 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     ]
   },
   {
+    "name": "Spider-man",
+    "nameCn": "蜘蛛人",
+    "type": "戰刃",
+    "products": [
+      "BXG-29-01"
+    ]
+  },
+  {
+    "name": "Venom",
+    "nameCn": "猛毒",
+    "type": "戰刃",
+    "products": [
+      "BXG-29-02"
+    ]
+  },
+  {
+    "name": "Iron man",
+    "nameCn": "鋼鐵人",
+    "type": "戰刃",
+    "products": [
+      "BXG-30-01"
+    ]
+  },
+  {
+    "name": "Thanos",
+    "nameCn": "薩諾斯",
+    "type": "戰刃",
+    "products": [
+      "BXG-30-02"
+    ]
+  },
+  {
+    "name": "Luke skywalker",
+    "nameCn": "路克天行者",
+    "type": "戰刃",
+    "products": [
+      "BXG-33-01"
+    ]
+  },
+  {
+    "name": "Darth vader",
+    "nameCn": "達斯維達",
+    "type": "戰刃",
+    "products": [
+      "BXG-33-02"
+    ]
+  },
+  {
+    "name": "The mandalorian",
+    "nameCn": "曼達洛人",
+    "type": "戰刃",
+    "products": [
+      "BXG-34-01"
+    ]
+  },
+  {
+    "name": "Moff gideon",
+    "nameCn": "星區長吉迪恩",
+    "type": "戰刃",
+    "products": [
+      "BXG-34-02"
+    ]
+  },
+  {
+    "name": "Optimus prime",
+    "nameCn": "柯博文",
+    "type": "戰刃",
+    "products": [
+      "BXG-36-01"
+    ]
+  },
+  {
+    "name": "Megatron",
+    "nameCn": "密卡登",
+    "type": "戰刃",
+    "products": [
+      "BXG-36-02"
+    ]
+  },
+  {
+    "name": "Optimus primal",
+    "nameCn": "金剛王",
+    "type": "戰刃",
+    "products": [
+      "BXG-37-01"
+    ]
+  },
+  {
+    "name": "Starscream",
+    "nameCn": "天王星",
+    "type": "戰刃",
+    "products": [
+      "BXG-37-02"
+    ]
+  },
+  {
+    "name": "Jurassic world t-rex",
+    "nameCn": "暴龍",
+    "type": "戰刃",
+    "products": [
+      "BXG-40-01"
+    ]
+  },
+  {
+    "name": "Jurassic world mosasaurus",
+    "nameCn": "滄龍",
+    "type": "戰刃",
+    "products": [
+      "BXG-40-02"
+    ]
+  },
+  {
+    "name": "Jurassic world quetzalcoatlus",
+    "nameCn": "棘龍",
+    "type": "戰刃",
+    "products": [
+      "BXG-41-02"
+    ]
+  },
+  {
+    "name": "Jurassic world spinosaurus",
+    "nameCn": "翼龍",
+    "type": "戰刃",
+    "products": [
+      "BXG-41-01"
+    ]
+  },
+  {
     "name": "Foxbrushj",
     "nameCn": "極狐九尾J",
     "type": "戰刃",
@@ -6463,6 +8022,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "nameCn": "九尾",
     "type": "主要戰刃",
     "products": [
+      "BXG-57-03",
       "CX-06-01",
       "CX-06-02",
       "CX-06-03",
@@ -6483,7 +8043,8 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "GR",
     "type": "軸心",
     "products": [
-      "CX-06-01"
+      "CX-06-01",
+      "CX-17-02"
     ]
   },
   {
@@ -6531,11 +8092,13 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     ]
   },
   {
-    "name": "CX-07 固鎖一體式軸心",
+    "name": "RATCHET-integrated BITS",
     "nameCn": "固鎖一體式軸心",
     "type": "固鎖",
     "products": [
-      "CX-07"
+      "BXG-45",
+      "CX-07",
+      "CX-11-01"
     ]
   },
   {
@@ -6543,6 +8106,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "type": "輔助戰刃",
     "products": [
       "BXG-45",
+      "BXG-57-02",
       "CX-07"
     ]
   },
@@ -6662,14 +8226,6 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     ]
   },
   {
-    "name": "BXG-45 固鎖一體式軸心",
-    "nameCn": "固鎖一體式軸心",
-    "type": "固鎖",
-    "products": [
-      "BXG-45"
-    ]
-  },
-  {
     "name": "Samuraicalibur",
     "nameCn": "武士魂斬",
     "type": "戰刃",
@@ -6704,6 +8260,9 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "4-50",
     "type": "固鎖",
     "products": [
+      "BX-49",
+      "BXH-00-02",
+      "BXH-00-03",
       "UX-15-01"
     ]
   },
@@ -6726,6 +8285,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "1-70",
     "type": "固鎖",
     "products": [
+      "BXG-57-02",
       "UX-15-02"
     ]
   },
@@ -6790,6 +8350,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "9-65",
     "type": "固鎖",
     "products": [
+      "CX-17-03",
       "UX-16-01",
       "UX-16-02",
       "UX-16-03"
@@ -6861,13 +8422,6 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "Might",
     "nameCn": "威能",
     "type": "主要戰刃",
-    "products": [
-      "CX-11-01"
-    ]
-  },
-  {
-    "name": "固鎖一體式軸心",
-    "type": "固鎖",
     "products": [
       "CX-11-01"
     ]
@@ -7108,6 +8662,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "nameCn": "邪神狂怒FE",
     "type": "戰刃",
     "products": [
+      "BXH-00-01",
       "CX-15"
     ]
   },
@@ -7116,6 +8671,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "nameCn": "邪神",
     "type": "紋章鎖",
     "products": [
+      "BXH-00-01",
       "CX-15"
     ]
   },
@@ -7132,6 +8688,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "nameCn": "狂怒",
     "type": "金屬戰刃",
     "products": [
+      "BXH-00-01",
       "CX-15"
     ]
   },
@@ -7140,6 +8697,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "nameCn": "邪神狂怒",
     "type": "超越戰刃",
     "products": [
+      "BXH-00-01",
       "CX-15"
     ]
   },
@@ -7147,6 +8705,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "E",
     "type": "輔助戰刃",
     "products": [
+      "BXH-00-01",
       "CX-15"
     ]
   },
@@ -7154,6 +8713,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "Y",
     "type": "軸心",
     "products": [
+      "BXH-00-01",
       "CX-15"
     ]
   },
@@ -7163,6 +8723,223 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "type": "戰刃",
     "products": [
       "BXG-21"
+    ]
+  },
+  {
+    "name": "Obi-wan kenobi",
+    "nameCn": "歐比王肯諾比",
+    "type": "戰刃",
+    "products": [
+      "BX-00-01"
+    ]
+  },
+  {
+    "name": "General grievous",
+    "nameCn": "葛里維斯將軍",
+    "type": "戰刃",
+    "products": [
+      "BX-00-01"
+    ]
+  },
+  {
+    "name": "Chewbacca",
+    "nameCn": "丘巴卡",
+    "type": "戰刃",
+    "products": [
+      "BX-00-02"
+    ]
+  },
+  {
+    "name": "Stormtrooper",
+    "nameCn": "風暴兵",
+    "type": "戰刃",
+    "products": [
+      "BX-00-02"
+    ]
+  },
+  {
+    "name": "Captain america",
+    "nameCn": "美國隊長",
+    "type": "戰刃",
+    "products": [
+      "BX-00-03"
+    ]
+  },
+  {
+    "name": "Red hulk",
+    "nameCn": "紅浩克",
+    "type": "戰刃",
+    "products": [
+      "BX-00-03"
+    ]
+  },
+  {
+    "name": "Miles morales",
+    "nameCn": "終極蜘蛛人",
+    "type": "戰刃",
+    "products": [
+      "BX-00-04"
+    ]
+  },
+  {
+    "name": "Green goblin",
+    "nameCn": "綠惡魔",
+    "type": "戰刃",
+    "products": [
+      "BX-00-04"
+    ]
+  },
+  {
+    "name": "Dranstrike",
+    "nameCn": "蒼龍突擊",
+    "type": "戰刃",
+    "products": [
+      "BX-49",
+      "BXH-00-02",
+      "BXH-00-03"
+    ]
+  },
+  {
+    "name": "FF",
+    "type": "軸心",
+    "products": [
+      "BX-49",
+      "BXH-00-02",
+      "BXH-00-03"
+    ]
+  },
+  {
+    "name": "Dranbrave s",
+    "nameCn": "蒼龍勇氣 S",
+    "type": "戰刃",
+    "products": [
+      "BXG-51"
+    ]
+  },
+  {
+    "name": "Warriorsaber metal coat: samurai blue soccer japan national team ver.",
+    "nameCn": "武士星劍",
+    "type": "戰刃",
+    "products": [
+      "BXG-54"
+    ]
+  },
+  {
+    "name": "Evaarc b unit-00 ver.",
+    "nameCn": "福音戰士至尊 B 零號機版本",
+    "type": "戰刃",
+    "products": [
+      "BXG-57-01"
+    ]
+  },
+  {
+    "name": "Eva",
+    "nameCn": "福音戰士",
+    "type": "紋章鎖",
+    "products": [
+      "BXG-57-01",
+      "BXG-57-02",
+      "BXG-57-03"
+    ]
+  },
+  {
+    "name": "Evabrave a unit-01 ver.",
+    "nameCn": "福音戰士勇氣 A 初號機版本",
+    "type": "戰刃",
+    "products": [
+      "BXG-57-02"
+    ]
+  },
+  {
+    "name": "Evabrush t unit-02 ver.",
+    "nameCn": "福音戰士九尾 T ２號機版本",
+    "type": "戰刃",
+    "products": [
+      "BXG-57-03"
+    ]
+  },
+  {
+    "name": "Scorpiospear metal coat: magenta",
+    "nameCn": "天蠍長矛",
+    "type": "戰刃",
+    "products": [
+      "BXG-61"
+    ]
+  },
+  {
+    "name": "Unicorndelta p",
+    "nameCn": "獨角獸 Delta P",
+    "type": "戰刃",
+    "products": [
+      "CX-17-01",
+      "CX-17-02"
+    ]
+  },
+  {
+    "name": "Unicorn",
+    "nameCn": "獨角獸",
+    "type": "紋章鎖",
+    "products": [
+      "CX-17-01",
+      "CX-17-02"
+    ]
+  },
+  {
+    "name": "Delta",
+    "nameCn": "獨角獸",
+    "type": "金屬戰刃",
+    "products": [
+      "CX-17-01",
+      "CX-17-02"
+    ]
+  },
+  {
+    "name": "P",
+    "nameCn": "獨角獸",
+    "type": "超越戰刃",
+    "products": [
+      "CX-17-01",
+      "CX-17-02"
+    ]
+  },
+  {
+    "name": "O",
+    "type": "輔助戰刃",
+    "products": [
+      "CX-17-01",
+      "CX-17-02"
+    ]
+  },
+  {
+    "name": "GU",
+    "type": "軸心",
+    "products": [
+      "CX-17-01",
+      "CX-17-04",
+      "CX-17-06"
+    ]
+  },
+  {
+    "name": "Hellshummner",
+    "nameCn": "惡魔重錘",
+    "type": "戰刃",
+    "products": [
+      "CX-17-04"
+    ]
+  },
+  {
+    "name": "Bulletgriffon",
+    "nameCn": "子彈獅鷲",
+    "type": "戰刃",
+    "products": [
+      "UX-19"
+    ]
+  },
+  {
+    "name": "RC-PRD-096160-00",
+    "type": "固鎖",
+    "products": [
+      "UX-19"
     ]
   }
 ] as const;
