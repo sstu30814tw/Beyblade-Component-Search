@@ -3,13 +3,20 @@ import { products, allParts, seriesOptions, partTypeOptions, productTypeOptions,
 
 const partTypeColors: Record<Part["type"], { bg: string; text: string; border: string; dot: string }> = {
   戰刃: { bg: "bg-red-950/60", text: "text-red-300", border: "border-red-700/50", dot: "bg-red-400" },
+  主要戰刃: { bg: "bg-rose-950/60", text: "text-rose-300", border: "border-rose-700/50", dot: "bg-rose-400" },
+  金屬戰刃: { bg: "bg-slate-800/60", text: "text-slate-200", border: "border-slate-500/50", dot: "bg-slate-300" },
+  超越戰刃: { bg: "bg-fuchsia-950/60", text: "text-fuchsia-300", border: "border-fuchsia-700/50", dot: "bg-fuchsia-400" },
+  輔助戰刃: { bg: "bg-amber-950/60", text: "text-amber-300", border: "border-amber-700/50", dot: "bg-amber-400" },
+  紋章鎖: { bg: "bg-yellow-950/60", text: "text-yellow-300", border: "border-yellow-700/50", dot: "bg-yellow-400" },
   固鎖: { bg: "bg-blue-950/60", text: "text-blue-300", border: "border-blue-700/50", dot: "bg-blue-400" },
   軸心: { bg: "bg-emerald-950/60", text: "text-emerald-300", border: "border-emerald-700/50", dot: "bg-emerald-400" },
-  輔助戰刃: { bg: "bg-amber-950/60", text: "text-amber-300", border: "border-amber-700/50", dot: "bg-amber-400" },
 };
 
 const seriesColors: Record<string, string> = {
   BX: "text-sky-300 bg-sky-900/40 border-sky-700/40",
+  BXH: "text-cyan-300 bg-cyan-900/40 border-cyan-700/40",
+  BXG: "text-yellow-300 bg-yellow-900/40 border-yellow-700/40",
+  BXC: "text-pink-300 bg-pink-900/40 border-pink-700/40",
   UX: "text-purple-300 bg-purple-900/40 border-purple-700/40",
   CX: "text-orange-300 bg-orange-900/40 border-orange-700/40",
 };
@@ -212,7 +219,7 @@ export default function Home() {
       </div>
 
       <div className="mt-12 border-t border-white/5 py-6 text-center text-xs text-white/15">
-        <p>資料來源：Beyblade Wiki、BeyBXDB、台灣玩家社群。資料僅供參考，以實際市售為準。Beyblade X 為 TAKARA TOMY 商標。</p>
+        <p>資料來源：TAKARA TOMY 官方公開資料（透過 <a href="https://beyblade.phstudy.org" target="_blank" rel="noopener noreferrer" className="underline hover:text-slate-300">beyblade.phstudy.org</a> 鏡像）。僅收錄台灣上市品項，資料自動同步，以實際市售為準。Beyblade X 為 TAKARA TOMY 商標。</p>
       </div>
     </div>
   );
