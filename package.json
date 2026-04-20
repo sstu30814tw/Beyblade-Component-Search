@@ -10,6 +10,7 @@
     "sync:beyblade-data": "pnpm --filter @workspace/beyblade-data-sync run sync"
   },
   "private": true,
+  "packageManager": "pnpm@10.33.0",
   "devDependencies": {
     "typescript": "~5.9.2",
     "prettier": "^3.8.1"
