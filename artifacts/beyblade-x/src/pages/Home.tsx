@@ -21,6 +21,15 @@ const seriesColors: Record<string, string> = {
   CX: "text-orange-300 bg-orange-900/40 border-orange-700/40",
 };
 
+function formatReleaseDate(iso: string): string {
+  const d = new Date(iso);
+  if (Number.isNaN(d.getTime())) return iso;
+  const y = d.getFullYear();
+  const m = String(d.getMonth() + 1).padStart(2, "0");
+  const day = String(d.getDate()).padStart(2, "0");
+  return `${y}/${m}/${day}`;
+}
+
 type SearchMode = "part" | "product";
 
 export default function Home() {
@@ -298,6 +307,12 @@ function PartCard({ part }: { part: (typeof allParts)[0] }) {
                     <div className="pointer-events-none absolute bottom-full left-0 z-20 mb-1.5 hidden w-max max-w-64 rounded-xl border border-white/10 bg-slate-800/95 p-2.5 text-xs shadow-2xl backdrop-blur group-hover:block">
                       <p className="font-bold text-white text-sm">{product.nameCn}</p>
                       <p className="text-white/40 mt-0.5">{product.series} 系列 · {product.productType}</p>
+                      {product.releaseAt && (
+                        <p className="text-white/40 mt-0.5">
+                          {product.upcoming ? "預計" : ""}上市：{formatReleaseDate(product.releaseAt)}
+                          {product.upcoming && <span className="ml-1 text-rose-300 font-bold">未上市</span>}
+                        </p>
+                      )}
                     </div>
                   )}
                 </div>
@@ -419,6 +434,16 @@ function ProductResults({
               <span className={`rounded-full border px-2 py-0.5 text-xs font-semibold ${seriesColors[product.series]}`}>
                 {product.series} 系列
               </span>
+              {product.upcoming && (
+                <span className="rounded-full border border-rose-500/60 bg-rose-950/60 px-2 py-0.5 text-xs font-bold text-rose-300">
+                  未上市
+                </span>
+              )}
+              {product.releaseAt && (
+                <span className="rounded-full border border-white/10 bg-white/5 px-2 py-0.5 text-xs text-white/50">
+                  {product.upcoming ? "預計上市" : "上市"}：{formatReleaseDate(product.releaseAt)}
+                </span>
+              )}
             </div>
             <h3 className="font-bold text-white leading-snug">{product.nameCn}</h3>
             {product.note && (

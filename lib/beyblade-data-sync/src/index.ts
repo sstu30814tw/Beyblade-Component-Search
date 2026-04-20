@@ -223,6 +223,7 @@ async function main(): Promise<void> {
       productType,
       parts,
       releaseAt: s.release_at,
+      upcoming: s.release_at ? new Date(s.release_at) > new Date() : undefined,
     });
   }
 

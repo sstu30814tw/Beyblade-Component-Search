@@ -4,7 +4,7 @@
  *
  * Source: https://beyblade.phstudy.org/data/ (mirrors TAKARA TOMY official JSON)
  * Filter: only products with zh-TW visibility (台灣上市) are included.
- * Generated at: 2026-04-20T14:00:33.425Z
+ * Generated at: 2026-04-20T14:03:59.626Z
  */
 
 import type { Part, Product } from "./beybladeDataTypes";
@@ -32,7 +32,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2022-05-10T15:00:00.000Z"
+    "releaseAt": "2022-05-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-910398-00",
@@ -56,7 +57,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2022-05-10T15:00:00.000Z"
+    "releaseAt": "2022-05-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-910473-00",
@@ -80,7 +82,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2022-05-10T15:00:00.000Z"
+    "releaseAt": "2022-05-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-910404-00",
@@ -104,7 +107,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2022-05-10T15:00:00.000Z"
+    "releaseAt": "2022-05-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-910497-00",
@@ -128,7 +132,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2022-05-10T15:00:00.000Z"
+    "releaseAt": "2022-05-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-910480-00",
@@ -152,7 +157,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2022-05-10T15:00:00.000Z"
+    "releaseAt": "2022-05-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-910503-00",
@@ -176,7 +182,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2022-05-10T15:00:00.000Z"
+    "releaseAt": "2022-05-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-910589-00",
@@ -200,7 +207,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2022-05-10T15:00:00.000Z"
+    "releaseAt": "2022-05-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-910572-01",
@@ -224,7 +232,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2022-05-10T15:00:00.000Z"
+    "releaseAt": "2022-05-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-910572-02",
@@ -248,7 +257,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2022-05-10T15:00:00.000Z"
+    "releaseAt": "2022-05-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-910572-03",
@@ -272,7 +282,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2022-05-10T15:00:00.000Z"
+    "releaseAt": "2022-05-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-910510-00",
@@ -296,7 +307,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2022-05-10T15:00:00.000Z"
+    "releaseAt": "2022-05-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-EVE-910879-01",
@@ -320,7 +332,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2022-05-10T15:00:00.000Z"
+    "releaseAt": "2022-05-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-913344-00",
@@ -344,7 +357,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2022-05-10T15:00:00.000Z"
+    "releaseAt": "2022-05-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-910565-00",
@@ -368,7 +382,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2022-05-10T15:00:00.000Z"
+    "releaseAt": "2022-05-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-912965-01",
@@ -392,7 +407,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2022-05-10T15:00:00.000Z"
+    "releaseAt": "2022-05-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-912965-02",
@@ -416,7 +432,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2022-05-10T15:00:00.000Z"
+    "releaseAt": "2022-05-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-912965-03",
@@ -440,7 +457,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2022-05-10T15:00:00.000Z"
+    "releaseAt": "2022-05-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-912965-04",
@@ -464,7 +482,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2022-05-10T15:00:00.000Z"
+    "releaseAt": "2022-05-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-912965-05",
@@ -488,7 +507,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2022-05-10T15:00:00.000Z"
+    "releaseAt": "2022-05-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-912965-06",
@@ -512,7 +532,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2022-05-10T15:00:00.000Z"
+    "releaseAt": "2022-05-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-913030-00",
@@ -536,7 +557,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2023-09-10T15:00:00.000Z"
+    "releaseAt": "2023-09-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-912972-01",
@@ -560,7 +582,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2023-09-10T15:00:00.000Z"
+    "releaseAt": "2023-09-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-912972-02",
@@ -584,7 +607,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2023-09-10T15:00:00.000Z"
+    "releaseAt": "2023-09-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-912972-03",
@@ -608,7 +632,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2023-09-10T15:00:00.000Z"
+    "releaseAt": "2023-09-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-913047-01",
@@ -632,7 +657,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2023-09-10T15:00:00.000Z"
+    "releaseAt": "2023-09-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-913047-02",
@@ -656,7 +682,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2023-09-10T15:00:00.000Z"
+    "releaseAt": "2023-09-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-913061-00",
@@ -680,7 +707,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2023-10-01T15:00:00.000Z"
+    "releaseAt": "2023-10-01T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-913078-01",
@@ -704,7 +732,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2023-10-01T15:00:00.000Z"
+    "releaseAt": "2023-10-01T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-913078-02",
@@ -728,7 +757,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2023-10-01T15:00:00.000Z"
+    "releaseAt": "2023-10-01T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-913078-03",
@@ -752,7 +782,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2023-10-01T15:00:00.000Z"
+    "releaseAt": "2023-10-01T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-913085-01",
@@ -776,7 +807,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2023-10-01T15:00:00.000Z"
+    "releaseAt": "2023-10-01T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-913085-02",
@@ -800,7 +832,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2023-10-01T15:00:00.000Z"
+    "releaseAt": "2023-10-01T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-913085-03",
@@ -824,7 +857,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2023-10-01T15:00:00.000Z"
+    "releaseAt": "2023-10-01T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-913139-00",
@@ -848,7 +882,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2023-10-25T15:00:00.000Z"
+    "releaseAt": "2023-10-25T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-EVE-910909-01",
@@ -872,7 +907,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2023-10-25T15:00:00.000Z"
+    "releaseAt": "2023-10-25T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-EVE-910909-02",
@@ -896,7 +932,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2023-10-25T15:00:00.000Z"
+    "releaseAt": "2023-10-25T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-EVE-910909-03",
@@ -920,7 +957,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2023-10-25T15:00:00.000Z"
+    "releaseAt": "2023-10-25T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-913092-00",
@@ -944,7 +982,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2023-12-26T15:00:00.000Z"
+    "releaseAt": "2023-12-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-913108-01",
@@ -968,7 +1007,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2023-12-26T15:00:00.000Z"
+    "releaseAt": "2023-12-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-913108-02",
@@ -992,7 +1032,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2023-12-26T15:00:00.000Z"
+    "releaseAt": "2023-12-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-913108-03",
@@ -1016,7 +1057,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2023-12-26T15:00:00.000Z"
+    "releaseAt": "2023-12-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-913108-04",
@@ -1040,7 +1082,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2023-12-26T15:00:00.000Z"
+    "releaseAt": "2023-12-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-913108-05",
@@ -1064,7 +1107,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2023-12-26T15:00:00.000Z"
+    "releaseAt": "2023-12-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-913108-06",
@@ -1088,7 +1132,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2023-12-26T15:00:00.000Z"
+    "releaseAt": "2023-12-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-914464-00",
@@ -1112,7 +1157,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-01-26T15:00:00.000Z"
+    "releaseAt": "2024-01-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-936114-00",
@@ -1136,7 +1182,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-01-21T15:00:00.000Z"
+    "releaseAt": "2024-01-21T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-913115-01",
@@ -1160,7 +1207,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-02-21T15:00:00.000Z"
+    "releaseAt": "2024-02-21T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-913115-02",
@@ -1184,7 +1232,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-02-21T15:00:00.000Z"
+    "releaseAt": "2024-02-21T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-913115-03",
@@ -1208,7 +1257,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-02-21T15:00:00.000Z"
+    "releaseAt": "2024-02-21T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-914471-00",
@@ -1232,7 +1282,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-03-29T15:00:00.000Z"
+    "releaseAt": "2024-03-29T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-914488-00",
@@ -1256,7 +1307,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-03-29T15:00:00.000Z"
+    "releaseAt": "2024-03-29T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-914495-00",
@@ -1280,7 +1332,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-03-29T15:00:00.000Z"
+    "releaseAt": "2024-03-29T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-914501-01",
@@ -1304,7 +1357,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-04-26T15:00:00.000Z"
+    "releaseAt": "2024-04-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-914501-02",
@@ -1328,7 +1382,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-04-26T15:00:00.000Z"
+    "releaseAt": "2024-04-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-936121-00",
@@ -1352,7 +1407,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-03-22T15:00:00.000Z"
+    "releaseAt": "2024-03-22T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-930341-00",
@@ -1376,7 +1432,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-04-26T15:00:00.000Z"
+    "releaseAt": "2024-04-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-914532-01",
@@ -1400,7 +1457,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-04-26T15:00:00.000Z"
+    "releaseAt": "2024-04-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-914532-02",
@@ -1424,7 +1482,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-04-26T15:00:00.000Z"
+    "releaseAt": "2024-04-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-914532-03",
@@ -1448,7 +1507,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-04-26T15:00:00.000Z"
+    "releaseAt": "2024-04-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-914532-04",
@@ -1472,7 +1532,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-04-26T15:00:00.000Z"
+    "releaseAt": "2024-04-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-914532-05",
@@ -1496,7 +1557,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-04-26T15:00:00.000Z"
+    "releaseAt": "2024-04-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-914532-06",
@@ -1520,7 +1582,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-04-26T15:00:00.000Z"
+    "releaseAt": "2024-04-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939979-00",
@@ -1544,7 +1607,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-05-15T15:00:00.000Z"
+    "releaseAt": "2024-05-15T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-914549-01",
@@ -1568,7 +1632,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-05-17T15:00:00.000Z"
+    "releaseAt": "2024-05-17T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-914549-02",
@@ -1592,7 +1657,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-05-17T15:00:00.000Z"
+    "releaseAt": "2024-05-17T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-914549-03",
@@ -1616,7 +1682,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-05-17T15:00:00.000Z"
+    "releaseAt": "2024-05-17T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-EVE-936138-00",
@@ -1640,7 +1707,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-05-31T15:00:00.000Z"
+    "releaseAt": "2024-05-31T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-914556-00",
@@ -1664,7 +1732,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-06-14T15:00:00.000Z"
+    "releaseAt": "2024-06-14T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-914563-00",
@@ -1688,7 +1757,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-07-12T15:00:00.000Z"
+    "releaseAt": "2024-07-12T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-914570-01",
@@ -1712,7 +1782,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-07-12T15:00:00.000Z"
+    "releaseAt": "2024-07-12T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-914570-02",
@@ -1736,7 +1807,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-07-12T15:00:00.000Z"
+    "releaseAt": "2024-07-12T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-914570-03",
@@ -1760,7 +1832,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-07-12T15:00:00.000Z"
+    "releaseAt": "2024-07-12T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-914570-04",
@@ -1784,7 +1857,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-07-12T15:00:00.000Z"
+    "releaseAt": "2024-07-12T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-914570-05",
@@ -1808,7 +1882,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-07-12T15:00:00.000Z"
+    "releaseAt": "2024-07-12T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-914570-06",
@@ -1832,7 +1907,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-07-12T15:00:00.000Z"
+    "releaseAt": "2024-07-12T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-941569-00",
@@ -1856,7 +1932,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-07-29T15:00:00.000Z"
+    "releaseAt": "2024-07-29T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-947110-00",
@@ -1880,7 +1957,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-08-09T15:00:00.000Z"
+    "releaseAt": "2024-08-09T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-914600-00",
@@ -1904,7 +1982,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-08-09T15:00:00.000Z"
+    "releaseAt": "2024-08-09T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-914594-01",
@@ -1928,7 +2007,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-08-09T15:00:00.000Z"
+    "releaseAt": "2024-08-09T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-914594-02",
@@ -1952,7 +2032,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-08-09T15:00:00.000Z"
+    "releaseAt": "2024-08-09T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-914594-03",
@@ -1976,7 +2057,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-08-09T15:00:00.000Z"
+    "releaseAt": "2024-08-09T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-941576-00",
@@ -2000,7 +2082,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-08-30T15:00:00.000Z"
+    "releaseAt": "2024-08-30T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-930358-00",
@@ -2024,7 +2107,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-09-13T15:00:00.000Z"
+    "releaseAt": "2024-09-13T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-930358-01",
@@ -2048,7 +2132,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-09-13T15:00:00.000Z"
+    "releaseAt": "2024-09-13T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-914617-01",
@@ -2072,7 +2157,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-09-13T15:00:00.000Z"
+    "releaseAt": "2024-09-13T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-914617-02",
@@ -2096,7 +2182,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-09-13T15:00:00.000Z"
+    "releaseAt": "2024-09-13T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-914617-03",
@@ -2120,7 +2207,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-09-13T15:00:00.000Z"
+    "releaseAt": "2024-09-13T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939498-00",
@@ -2144,7 +2232,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-10-11T15:00:00.000Z"
+    "releaseAt": "2024-10-11T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939481-00",
@@ -2168,7 +2257,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-10-11T15:00:00.000Z"
+    "releaseAt": "2024-10-11T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939504-00",
@@ -2192,7 +2282,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-11-01T15:00:00.000Z"
+    "releaseAt": "2024-11-01T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939504-01",
@@ -2216,7 +2307,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-11-01T15:00:00.000Z"
+    "releaseAt": "2024-11-01T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939535-00",
@@ -2240,7 +2332,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-11-01T15:00:00.000Z"
+    "releaseAt": "2024-11-01T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939542-01",
@@ -2264,7 +2357,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-11-01T15:00:00.000Z"
+    "releaseAt": "2024-11-01T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939542-03",
@@ -2288,7 +2382,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-11-01T15:00:00.000Z"
+    "releaseAt": "2024-11-01T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939542-02",
@@ -2312,7 +2407,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-11-01T15:00:00.000Z"
+    "releaseAt": "2024-11-01T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-953982-01",
@@ -2336,7 +2432,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-11-13T15:00:00.000Z"
+    "releaseAt": "2024-11-13T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-953982-03",
@@ -2360,7 +2457,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-11-13T15:00:00.000Z"
+    "releaseAt": "2024-11-13T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-953982-02",
@@ -2384,7 +2482,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-11-13T15:00:00.000Z"
+    "releaseAt": "2024-11-13T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-953708-00",
@@ -2408,7 +2507,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-11-27T15:00:00.000Z"
+    "releaseAt": "2024-11-27T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-952312-00",
@@ -2432,7 +2532,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-11-30T15:00:00.000Z"
+    "releaseAt": "2024-11-30T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-952329-00",
@@ -2456,7 +2557,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-11-30T15:00:00.000Z"
+    "releaseAt": "2024-11-30T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-957799-01",
@@ -2480,7 +2582,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-12-26T15:00:00.000Z"
+    "releaseAt": "2024-12-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-957799-02",
@@ -2504,7 +2607,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-12-26T15:00:00.000Z"
+    "releaseAt": "2024-12-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-957799-03",
@@ -2528,7 +2632,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-12-26T15:00:00.000Z"
+    "releaseAt": "2024-12-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-957782-00",
@@ -2552,7 +2657,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-12-26T15:00:00.000Z"
+    "releaseAt": "2024-12-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939559-00",
@@ -2576,7 +2682,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-12-26T15:00:00.000Z"
+    "releaseAt": "2024-12-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-945567-00",
@@ -2600,7 +2707,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-12-26T15:00:00.000Z"
+    "releaseAt": "2024-12-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939566-01",
@@ -2624,7 +2732,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-12-26T15:00:00.000Z"
+    "releaseAt": "2024-12-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939566-02",
@@ -2648,7 +2757,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-12-26T15:00:00.000Z"
+    "releaseAt": "2024-12-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939566-03",
@@ -2672,7 +2782,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-12-26T15:00:00.000Z"
+    "releaseAt": "2024-12-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939566-04",
@@ -2696,7 +2807,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-12-26T15:00:00.000Z"
+    "releaseAt": "2024-12-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939566-05",
@@ -2720,7 +2832,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-12-26T15:00:00.000Z"
+    "releaseAt": "2024-12-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939566-06",
@@ -2744,7 +2857,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2024-12-26T15:00:00.000Z"
+    "releaseAt": "2024-12-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939573-00",
@@ -2768,7 +2882,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-01-24T15:00:00.000Z"
+    "releaseAt": "2025-01-24T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939511-01",
@@ -2792,7 +2907,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-02-14T15:00:00.000Z"
+    "releaseAt": "2025-02-14T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939511-02",
@@ -2816,7 +2932,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-02-14T15:00:00.000Z"
+    "releaseAt": "2025-02-14T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939511-03",
@@ -2840,7 +2957,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-02-14T15:00:00.000Z"
+    "releaseAt": "2025-02-14T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-946816-01",
@@ -2864,7 +2982,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-03-20T15:00:00.000Z"
+    "releaseAt": "2025-03-20T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-946816-02",
@@ -2888,7 +3007,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-03-20T15:00:00.000Z"
+    "releaseAt": "2025-03-20T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-946816-03",
@@ -2912,7 +3032,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-03-20T15:00:00.000Z"
+    "releaseAt": "2025-03-20T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-946816-04",
@@ -2936,7 +3057,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-03-20T15:00:00.000Z"
+    "releaseAt": "2025-03-20T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939597-00",
@@ -2974,7 +3096,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-03-28T15:00:00.000Z"
+    "releaseAt": "2025-03-28T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939603-00",
@@ -3012,7 +3135,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-03-28T15:00:00.000Z"
+    "releaseAt": "2025-03-28T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939610-00",
@@ -3050,7 +3174,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-03-28T15:00:00.000Z"
+    "releaseAt": "2025-03-28T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939634-01",
@@ -3088,7 +3213,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-03-28T15:00:00.000Z"
+    "releaseAt": "2025-03-28T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939634-02",
@@ -3126,7 +3252,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-03-28T15:00:00.000Z"
+    "releaseAt": "2025-03-28T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-EVE-958772-00",
@@ -3164,7 +3291,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-03-28T15:00:00.000Z"
+    "releaseAt": "2025-03-28T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-946823-00",
@@ -3188,7 +3316,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-03-28T15:00:00.000Z"
+    "releaseAt": "2025-03-28T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-958499-00",
@@ -3212,7 +3341,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-04-25T15:00:00.000Z"
+    "releaseAt": "2025-04-25T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939627-01",
@@ -3250,7 +3380,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-04-25T15:00:00.000Z"
+    "releaseAt": "2025-04-25T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939627-02",
@@ -3288,7 +3419,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-04-25T15:00:00.000Z"
+    "releaseAt": "2025-04-25T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939627-03",
@@ -3326,7 +3458,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-04-25T15:00:00.000Z"
+    "releaseAt": "2025-04-25T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939627-04",
@@ -3350,7 +3483,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-04-25T15:00:00.000Z"
+    "releaseAt": "2025-04-25T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939627-05",
@@ -3374,7 +3508,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-04-25T15:00:00.000Z"
+    "releaseAt": "2025-04-25T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939627-06",
@@ -3398,7 +3533,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-04-25T15:00:00.000Z"
+    "releaseAt": "2025-04-25T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-980858-01",
@@ -3422,7 +3558,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-04-26T15:00:00.000Z"
+    "releaseAt": "2025-04-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-980858-02",
@@ -3446,7 +3583,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-04-26T15:00:00.000Z"
+    "releaseAt": "2025-04-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-980841-01",
@@ -3470,7 +3608,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-04-26T15:00:00.000Z"
+    "releaseAt": "2025-04-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-980841-02",
@@ -3494,7 +3633,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-04-26T15:00:00.000Z"
+    "releaseAt": "2025-04-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-982340-01",
@@ -3518,7 +3658,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-04-26T15:00:00.000Z"
+    "releaseAt": "2025-04-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-982340-02",
@@ -3542,7 +3683,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-04-26T15:00:00.000Z"
+    "releaseAt": "2025-04-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-982357-01",
@@ -3566,7 +3708,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-04-26T15:00:00.000Z"
+    "releaseAt": "2025-04-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-982357-02",
@@ -3590,7 +3733,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-04-26T15:00:00.000Z"
+    "releaseAt": "2025-04-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-982456-01",
@@ -3614,7 +3758,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-05-17T15:00:00.000Z"
+    "releaseAt": "2025-05-17T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-982456-02",
@@ -3638,7 +3783,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-05-17T15:00:00.000Z"
+    "releaseAt": "2025-05-17T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-982487-01",
@@ -3662,7 +3808,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-05-17T15:00:00.000Z"
+    "releaseAt": "2025-05-17T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-982487-02",
@@ -3686,7 +3833,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-05-17T15:00:00.000Z"
+    "releaseAt": "2025-05-17T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-749987-01",
@@ -3710,7 +3858,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-07-19T15:00:00.000Z"
+    "releaseAt": "2025-07-19T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-749987-02",
@@ -3734,7 +3883,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-07-19T15:00:00.000Z"
+    "releaseAt": "2025-07-19T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-989002-02",
@@ -3758,7 +3908,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-07-19T15:00:00.000Z"
+    "releaseAt": "2025-07-19T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-989002-01",
@@ -3782,7 +3933,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-07-19T15:00:00.000Z"
+    "releaseAt": "2025-07-19T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-EVE-982524-01",
@@ -3820,7 +3972,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-05-02T15:00:00.000Z"
+    "releaseAt": "2025-05-02T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-EVE-982524-02",
@@ -3858,7 +4011,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-05-02T15:00:00.000Z"
+    "releaseAt": "2025-05-02T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-EVE-982524-03",
@@ -3896,7 +4050,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-05-02T15:00:00.000Z"
+    "releaseAt": "2025-05-02T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-956969-01",
@@ -3934,7 +4089,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-05-16T15:00:00.000Z"
+    "releaseAt": "2025-05-16T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-956969-02",
@@ -3972,7 +4128,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-05-16T15:00:00.000Z"
+    "releaseAt": "2025-05-16T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-956969-03",
@@ -4010,7 +4167,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-05-16T15:00:00.000Z"
+    "releaseAt": "2025-05-16T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939528-00",
@@ -4034,7 +4192,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-06-27T15:00:00.000Z"
+    "releaseAt": "2025-06-27T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-956976-00",
@@ -4073,7 +4232,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-07-18T15:00:00.000Z"
+    "releaseAt": "2025-07-18T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-957492-00",
@@ -4097,7 +4257,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-07-18T15:00:00.000Z"
+    "releaseAt": "2025-07-18T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-956983-01",
@@ -4135,7 +4296,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-07-18T15:00:00.000Z"
+    "releaseAt": "2025-07-18T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-956983-02",
@@ -4173,7 +4335,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-07-18T15:00:00.000Z"
+    "releaseAt": "2025-07-18T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-956983-03",
@@ -4211,7 +4374,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-07-18T15:00:00.000Z"
+    "releaseAt": "2025-07-18T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-956983-04",
@@ -4235,7 +4399,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-07-18T15:00:00.000Z"
+    "releaseAt": "2025-07-18T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-956983-05",
@@ -4259,7 +4424,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-07-18T15:00:00.000Z"
+    "releaseAt": "2025-07-18T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-956983-06",
@@ -4283,7 +4449,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-07-18T15:00:00.000Z"
+    "releaseAt": "2025-07-18T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-954316-00",
@@ -4321,7 +4488,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-07-16T15:00:00.000Z"
+    "releaseAt": "2025-07-16T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-919124-00",
@@ -4345,7 +4513,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-07-16T15:00:00.000Z"
+    "releaseAt": "2025-07-16T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-930495-00",
@@ -4384,7 +4553,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-08-02T15:00:00.000Z"
+    "releaseAt": "2025-08-02T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-939580-00",
@@ -4408,7 +4578,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-08-08T15:00:00.000Z"
+    "releaseAt": "2025-08-08T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-982432-01",
@@ -4432,7 +4603,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-08-08T15:00:00.000Z"
+    "releaseAt": "2025-08-08T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-982432-02",
@@ -4456,7 +4628,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-08-08T15:00:00.000Z"
+    "releaseAt": "2025-08-08T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-982432-03",
@@ -4494,7 +4667,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-08-08T15:00:00.000Z"
+    "releaseAt": "2025-08-08T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-930907-00",
@@ -4532,7 +4706,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-08-08T15:00:00.000Z"
+    "releaseAt": "2025-08-08T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-995678-00",
@@ -4570,7 +4745,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-09-26T15:00:00.000Z"
+    "releaseAt": "2025-09-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-990154-01",
@@ -4594,7 +4770,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-10-10T15:00:00.000Z"
+    "releaseAt": "2025-10-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-990154-02",
@@ -4618,7 +4795,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-10-10T15:00:00.000Z"
+    "releaseAt": "2025-10-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-990154-03",
@@ -4642,7 +4820,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-10-10T15:00:00.000Z"
+    "releaseAt": "2025-10-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-997610-01",
@@ -4666,7 +4845,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-10-10T15:00:00.000Z"
+    "releaseAt": "2025-10-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-997610-02",
@@ -4690,7 +4870,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-10-10T15:00:00.000Z"
+    "releaseAt": "2025-10-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-097242-00",
@@ -4728,7 +4909,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-10-31T15:00:00.000Z"
+    "releaseAt": "2025-10-31T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-098775-01",
@@ -4766,7 +4948,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-10-31T15:00:00.000Z"
+    "releaseAt": "2025-10-31T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-098775-02",
@@ -4790,7 +4973,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-10-31T15:00:00.000Z"
+    "releaseAt": "2025-10-31T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-098775-03",
@@ -4814,7 +4998,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-10-31T15:00:00.000Z"
+    "releaseAt": "2025-10-31T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-997627-00",
@@ -4838,7 +5023,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-12-26T15:00:00.000Z"
+    "releaseAt": "2025-12-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-099468-00",
@@ -4862,7 +5048,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-12-26T15:00:00.000Z"
+    "releaseAt": "2025-12-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-097167-01",
@@ -4886,7 +5073,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-12-26T15:00:00.000Z"
+    "releaseAt": "2025-12-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-097167-02",
@@ -4910,7 +5098,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-12-26T15:00:00.000Z"
+    "releaseAt": "2025-12-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-097167-03",
@@ -4948,7 +5137,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-12-26T15:00:00.000Z"
+    "releaseAt": "2025-12-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-097167-04",
@@ -4986,7 +5176,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-12-26T15:00:00.000Z"
+    "releaseAt": "2025-12-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-097167-05",
@@ -5010,7 +5201,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-12-26T15:00:00.000Z"
+    "releaseAt": "2025-12-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-097167-06",
@@ -5034,7 +5226,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-12-26T15:00:00.000Z"
+    "releaseAt": "2025-12-26T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-096153-00",
@@ -5072,7 +5265,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2026-01-23T15:00:00.000Z"
+    "releaseAt": "2026-01-23T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-096092-01",
@@ -5096,7 +5290,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2026-02-13T15:00:00.000Z"
+    "releaseAt": "2026-02-13T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-096092-02",
@@ -5120,7 +5315,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2026-02-13T15:00:00.000Z"
+    "releaseAt": "2026-02-13T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-096092-03",
@@ -5144,7 +5340,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2026-02-13T15:00:00.000Z"
+    "releaseAt": "2026-02-13T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-096092-04",
@@ -5168,7 +5365,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2026-02-13T15:00:00.000Z"
+    "releaseAt": "2026-02-13T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-096092-05",
@@ -5192,7 +5390,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2026-02-13T15:00:00.000Z"
+    "releaseAt": "2026-02-13T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-096528-00",
@@ -5216,7 +5415,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2026-02-20T15:00:00.000Z"
+    "releaseAt": "2026-02-20T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-097259-00",
@@ -5264,7 +5464,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2026-03-27T15:00:00.000Z"
+    "releaseAt": "2026-03-27T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-097266-00",
@@ -5312,7 +5513,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2026-03-27T15:00:00.000Z"
+    "releaseAt": "2026-03-27T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-097273-00",
@@ -5360,7 +5562,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2026-03-27T15:00:00.000Z"
+    "releaseAt": "2026-03-27T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-097280-00",
@@ -5408,7 +5611,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2026-03-27T15:00:00.000Z"
+    "releaseAt": "2026-03-27T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-997351-00",
@@ -5432,7 +5636,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2026-03-27T15:00:00.000Z"
+    "releaseAt": "2026-03-27T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-305732-01",
@@ -5456,7 +5661,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-08-20T15:00:00.000Z"
+    "releaseAt": "2025-08-20T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-305732-02",
@@ -5480,7 +5686,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-08-20T15:00:00.000Z"
+    "releaseAt": "2025-08-20T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-305749-01",
@@ -5504,7 +5711,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-08-31T15:00:00.000Z"
+    "releaseAt": "2025-08-31T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-305749-02",
@@ -5528,7 +5736,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-08-31T15:00:00.000Z"
+    "releaseAt": "2025-08-31T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-305718-01",
@@ -5552,7 +5761,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-09-02T15:00:00.000Z"
+    "releaseAt": "2025-09-02T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-305718-02",
@@ -5576,7 +5786,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-09-02T15:00:00.000Z"
+    "releaseAt": "2025-09-02T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-305725-01",
@@ -5600,7 +5811,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-09-23T15:00:00.000Z"
+    "releaseAt": "2025-09-23T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-305725-02",
@@ -5624,7 +5836,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-09-23T15:00:00.000Z"
+    "releaseAt": "2025-09-23T15:00:00.000Z",
+    "upcoming": false
   },
   {
     "id": "SR-PRD-096122-00",
@@ -5648,7 +5861,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2026-05-15T15:00:00.000Z"
+    "releaseAt": "2026-05-15T15:00:00.000Z",
+    "upcoming": true
   },
   {
     "id": "SR-PRD-080572-00",
@@ -5686,7 +5900,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2026-05-29T15:00:00.000Z"
+    "releaseAt": "2026-05-29T15:00:00.000Z",
+    "upcoming": true
   },
   {
     "id": "SR-PRD-975731-00",
@@ -5710,7 +5925,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2026-06-12T15:00:00.000Z"
+    "releaseAt": "2026-06-12T15:00:00.000Z",
+    "upcoming": true
   },
   {
     "id": "SR-PRD-085683-01",
@@ -5748,7 +5964,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2029-08-28T15:00:00.000Z"
+    "releaseAt": "2029-08-28T15:00:00.000Z",
+    "upcoming": true
   },
   {
     "id": "SR-PRD-085683-02",
@@ -5786,7 +6003,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2029-08-28T15:00:00.000Z"
+    "releaseAt": "2029-08-28T15:00:00.000Z",
+    "upcoming": true
   },
   {
     "id": "SR-PRD-085683-03",
@@ -5824,7 +6042,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2029-08-28T15:00:00.000Z"
+    "releaseAt": "2029-08-28T15:00:00.000Z",
+    "upcoming": true
   },
   {
     "id": "SR-PRD-814517-00",
@@ -5848,7 +6067,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2026-04-24T15:00:00.000Z"
+    "releaseAt": "2026-04-24T15:00:00.000Z",
+    "upcoming": true
   },
   {
     "id": "SR-PRD-777777-00",
@@ -5891,7 +6111,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2026-05-31T15:00:00.000Z"
+    "releaseAt": "2026-05-31T15:00:00.000Z",
+    "upcoming": true
   },
   {
     "id": "SR-PRD-777778-01",
@@ -5915,7 +6136,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2026-05-05T15:00:00.000Z"
+    "releaseAt": "2026-05-05T15:00:00.000Z",
+    "upcoming": true
   },
   {
     "id": "SR-PRD-777778-02",
@@ -5939,7 +6161,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2026-05-05T15:00:00.000Z"
+    "releaseAt": "2026-05-05T15:00:00.000Z",
+    "upcoming": true
   },
   {
     "id": "SR-PRD-777778-03",
@@ -5963,7 +6186,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2026-05-05T15:00:00.000Z"
+    "releaseAt": "2026-05-05T15:00:00.000Z",
+    "upcoming": true
   },
   {
     "id": "SR-PRD-096146-01",
@@ -6006,7 +6230,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2026-04-24T15:00:00.000Z"
+    "releaseAt": "2026-04-24T15:00:00.000Z",
+    "upcoming": true
   },
   {
     "id": "SR-PRD-096146-02",
@@ -6049,7 +6274,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2026-04-24T15:00:00.000Z"
+    "releaseAt": "2026-04-24T15:00:00.000Z",
+    "upcoming": true
   },
   {
     "id": "SR-PRD-096146-03",
@@ -6073,7 +6299,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2026-04-24T15:00:00.000Z"
+    "releaseAt": "2026-04-24T15:00:00.000Z",
+    "upcoming": true
   },
   {
     "id": "SR-PRD-096146-04",
@@ -6097,7 +6324,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2026-04-24T15:00:00.000Z"
+    "releaseAt": "2026-04-24T15:00:00.000Z",
+    "upcoming": true
   },
   {
     "id": "SR-PRD-096146-05",
@@ -6121,7 +6349,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2026-04-24T15:00:00.000Z"
+    "releaseAt": "2026-04-24T15:00:00.000Z",
+    "upcoming": true
   },
   {
     "id": "SR-PRD-096146-06",
@@ -6145,7 +6374,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2026-04-24T15:00:00.000Z"
+    "releaseAt": "2026-04-24T15:00:00.000Z",
+    "upcoming": true
   },
   {
     "id": "SR-PRD-096160-00",
@@ -6169,7 +6399,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2026-04-24T15:00:00.000Z"
+    "releaseAt": "2026-04-24T15:00:00.000Z",
+    "upcoming": true
   }
 ] as const;
 

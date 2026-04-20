@@ -94,4 +94,5 @@ export interface GeneratedProduct {
   parts: GeneratedPart[];
   note?: string;
   releaseAt?: string;
+  upcoming?: boolean;
 }
