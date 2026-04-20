@@ -1,0 +1,51 @@
+name: Sync Beyblade Data
+
+on:
+  schedule:
+    # 每週一 01:00 UTC（台灣週一 09:00）自動跑一次
+    - cron: "0 1 * * 1"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: beta
+          fetch-depth: 0
+
+      - uses: pnpm/action-setup@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+          cache: pnpm
+
+      - name: Install deps
+        run: pnpm install --frozen-lockfile
+
+      - name: Run data sync
+        run: pnpm run sync:beyblade-data
+
+      - name: Typecheck
+        run: pnpm --filter @workspace/beyblade-x run typecheck
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v6
+        with:
+          branch: bot/sync-beyblade-data
+          base: beta
+          commit-message: "chore(data): sync beyblade data from phstudy"
+          title: "chore(data): 自動同步 Beyblade 資料"
+          body: |
+            這是自動同步產生的 PR。
+            - 來源：https://beyblade.phstudy.org/data/
+            - 僅保留 `collection_visible["zh-TW"] === true` 且 `invalid !== true` 的項目
+            - 如有翻譯需覆寫，請修改 `artifacts/beyblade-x/src/data/overrides.ts`
+          labels: automated,data-sync
+          delete-branch: true
