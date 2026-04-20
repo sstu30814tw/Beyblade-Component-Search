@@ -4,7 +4,7 @@
  *
  * Source: https://beyblade.phstudy.org/data/ (mirrors TAKARA TOMY official JSON)
  * Filter: only products with zh-TW visibility (台灣上市) are included.
- * Generated at: 2026-04-20T14:03:59.626Z
+ * Generated at: 2026-04-20T14:10:12.291Z
  */
 
 import type { Part, Product } from "./beybladeDataTypes";
@@ -3545,16 +3545,16 @@ export const generatedProducts: readonly Product[] = [
     "productType": "其他",
     "parts": [
       {
-        "name": "BXG-29-01 蜘蛛人",
+        "name": "Spider-man",
         "nameCn": "蜘蛛人",
         "type": "戰刃"
       },
       {
-        "name": "BXG-29-01 3-60",
+        "name": "3-60",
         "type": "固鎖"
       },
       {
-        "name": "BXG-29-01 F",
+        "name": "F",
         "type": "軸心"
       }
     ],
@@ -3570,16 +3570,16 @@ export const generatedProducts: readonly Product[] = [
     "productType": "其他",
     "parts": [
       {
-        "name": "BXG-29-02 猛毒",
+        "name": "Venom",
         "nameCn": "猛毒",
         "type": "戰刃"
       },
       {
-        "name": "BXG-29-02 3-80",
+        "name": "3-80",
         "type": "固鎖"
       },
       {
-        "name": "BXG-29-02 N",
+        "name": "N",
         "type": "軸心"
       }
     ],
@@ -3595,16 +3595,16 @@ export const generatedProducts: readonly Product[] = [
     "productType": "其他",
     "parts": [
       {
-        "name": "BXG-30-01 鋼鐵人",
+        "name": "Iron man",
         "nameCn": "鋼鐵人",
         "type": "戰刃"
       },
       {
-        "name": "BXG-30-01 4-80",
+        "name": "4-80",
         "type": "固鎖"
       },
       {
-        "name": "BXG-30-01 B",
+        "name": "B",
         "type": "軸心"
       }
     ],
@@ -3620,16 +3620,16 @@ export const generatedProducts: readonly Product[] = [
     "productType": "其他",
     "parts": [
       {
-        "name": "BXG-30-02 薩諾斯",
+        "name": "Thanos",
         "nameCn": "薩諾斯",
         "type": "戰刃"
       },
       {
-        "name": "BXG-30-02 4-60",
+        "name": "4-60",
         "type": "固鎖"
       },
       {
-        "name": "BXG-30-02 N",
+        "name": "N",
         "type": "軸心"
       }
     ],
@@ -3645,16 +3645,16 @@ export const generatedProducts: readonly Product[] = [
     "productType": "其他",
     "parts": [
       {
-        "name": "BXG-33-01 路克天行者",
+        "name": "Luke skywalker",
         "nameCn": "路克天行者",
         "type": "戰刃"
       },
       {
-        "name": "BXG-33-01 4-80",
+        "name": "4-80",
         "type": "固鎖"
       },
       {
-        "name": "BXG-33-01 B",
+        "name": "B",
         "type": "軸心"
       }
     ],
@@ -3670,16 +3670,16 @@ export const generatedProducts: readonly Product[] = [
     "productType": "其他",
     "parts": [
       {
-        "name": "BXG-33-02 達斯維達",
+        "name": "Darth vader",
         "nameCn": "達斯維達",
         "type": "戰刃"
       },
       {
-        "name": "BXG-33-02 4-60",
+        "name": "4-60",
         "type": "固鎖"
       },
       {
-        "name": "BXG-33-02 P",
+        "name": "P",
         "type": "軸心"
       }
     ],
@@ -3695,16 +3695,16 @@ export const generatedProducts: readonly Product[] = [
     "productType": "其他",
     "parts": [
       {
-        "name": "BXG-34-01 曼達洛人",
+        "name": "The mandalorian",
         "nameCn": "曼達洛人",
         "type": "戰刃"
       },
       {
-        "name": "BXG-34-01 3-60",
+        "name": "3-60",
         "type": "固鎖"
       },
       {
-        "name": "BXG-34-01 F",
+        "name": "F",
         "type": "軸心"
       }
     ],
@@ -3720,16 +3720,16 @@ export const generatedProducts: readonly Product[] = [
     "productType": "其他",
     "parts": [
       {
-        "name": "BXG-34-02 星區長吉迪恩",
+        "name": "Moff gideon",
         "nameCn": "星區長吉迪恩",
         "type": "戰刃"
       },
       {
-        "name": "BXG-34-02 3-80",
+        "name": "3-80",
         "type": "固鎖"
       },
       {
-        "name": "BXG-34-02 N",
+        "name": "N",
         "type": "軸心"
       }
     ],
@@ -3745,16 +3745,16 @@ export const generatedProducts: readonly Product[] = [
     "productType": "其他",
     "parts": [
       {
-        "name": "BXG-36-01 柯博文",
+        "name": "Optimus prime",
         "nameCn": "柯博文",
         "type": "戰刃"
       },
       {
-        "name": "BXG-36-01 4-60",
+        "name": "4-60",
         "type": "固鎖"
       },
       {
-        "name": "BXG-36-01 P",
+        "name": "P",
         "type": "軸心"
       }
     ],
@@ -3770,16 +3770,16 @@ export const generatedProducts: readonly Product[] = [
     "productType": "其他",
     "parts": [
       {
-        "name": "BXG-36-02 密卡登",
+        "name": "Megatron",
         "nameCn": "密卡登",
         "type": "戰刃"
       },
       {
-        "name": "BXG-36-02 4-80",
+        "name": "4-80",
         "type": "固鎖"
       },
       {
-        "name": "BXG-36-02 B",
+        "name": "B",
         "type": "軸心"
       }
     ],
@@ -3795,16 +3795,16 @@ export const generatedProducts: readonly Product[] = [
     "productType": "其他",
     "parts": [
       {
-        "name": "BXG-37-01 金剛王",
+        "name": "Optimus primal",
         "nameCn": "金剛王",
         "type": "戰刃"
       },
       {
-        "name": "BXG-37-01 3-60",
+        "name": "3-60",
         "type": "固鎖"
       },
       {
-        "name": "BXG-37-01 F",
+        "name": "F",
         "type": "軸心"
       }
     ],
@@ -3820,16 +3820,16 @@ export const generatedProducts: readonly Product[] = [
     "productType": "其他",
     "parts": [
       {
-        "name": "BXG-37-02 天王星",
+        "name": "Starscream",
         "nameCn": "天王星",
         "type": "戰刃"
       },
       {
-        "name": "BXG-37-02 3-80",
+        "name": "3-80",
         "type": "固鎖"
       },
       {
-        "name": "BXG-37-02 N",
+        "name": "N",
         "type": "軸心"
       }
     ],
@@ -3845,16 +3845,16 @@ export const generatedProducts: readonly Product[] = [
     "productType": "其他",
     "parts": [
       {
-        "name": "BXG-40-01 暴龍",
+        "name": "Jurassic world t-rex",
         "nameCn": "暴龍",
         "type": "戰刃"
       },
       {
-        "name": "BXG-40-01 1-80",
+        "name": "1-80",
         "type": "固鎖"
       },
       {
-        "name": "BXG-40-01 GB",
+        "name": "GB",
         "type": "軸心"
       }
     ],
@@ -3870,16 +3870,16 @@ export const generatedProducts: readonly Product[] = [
     "productType": "其他",
     "parts": [
       {
-        "name": "BXG-40-02 滄龍",
+        "name": "Jurassic world mosasaurus",
         "nameCn": "滄龍",
         "type": "戰刃"
       },
       {
-        "name": "BXG-40-02 9-60",
+        "name": "9-60",
         "type": "固鎖"
       },
       {
-        "name": "BXG-40-02 U",
+        "name": "U",
         "type": "軸心"
       }
     ],
@@ -3895,16 +3895,16 @@ export const generatedProducts: readonly Product[] = [
     "productType": "其他",
     "parts": [
       {
-        "name": "BXG-41-02 棘龍",
+        "name": "Jurassic world quetzalcoatlus",
         "nameCn": "棘龍",
         "type": "戰刃"
       },
       {
-        "name": "BXG-41-02 4-55",
+        "name": "4-55",
         "type": "固鎖"
       },
       {
-        "name": "BXG-41-02 D",
+        "name": "D",
         "type": "軸心"
       }
     ],
@@ -3920,16 +3920,16 @@ export const generatedProducts: readonly Product[] = [
     "productType": "其他",
     "parts": [
       {
-        "name": "BXG-41-01 翼龍",
+        "name": "Jurassic world spinosaurus",
         "nameCn": "翼龍",
         "type": "戰刃"
       },
       {
-        "name": "BXG-41-01 3-85",
+        "name": "3-85",
         "type": "固鎖"
       },
       {
-        "name": "BXG-41-01 A",
+        "name": "A",
         "type": "軸心"
       }
     ],
@@ -4219,7 +4219,7 @@ export const generatedProducts: readonly Product[] = [
         "type": "主要戰刃"
       },
       {
-        "name": "CX-07 固鎖一體式軸心",
+        "name": "RATCHET-integrated BITS",
         "nameCn": "固鎖一體式軸心",
         "type": "固鎖"
       },
@@ -4540,7 +4540,7 @@ export const generatedProducts: readonly Product[] = [
         "type": "主要戰刃"
       },
       {
-        "name": "BXG-45 固鎖一體式軸心",
+        "name": "RATCHET-integrated BITS",
         "nameCn": "固鎖一體式軸心",
         "type": "固鎖"
       },
@@ -4936,7 +4936,8 @@ export const generatedProducts: readonly Product[] = [
         "type": "主要戰刃"
       },
       {
-        "name": "固鎖一體式軸心",
+        "name": "RATCHET-integrated BITS",
+        "nameCn": "固鎖一體式軸心",
         "type": "固鎖"
       },
       {
@@ -5648,16 +5649,16 @@ export const generatedProducts: readonly Product[] = [
     "productType": "其他",
     "parts": [
       {
-        "name": "BX-00-01 歐比王肯諾比",
+        "name": "Obi-wan kenobi",
         "nameCn": "歐比王肯諾比",
         "type": "戰刃"
       },
       {
-        "name": "BX-00-01 4-60",
+        "name": "4-60",
         "type": "固鎖"
       },
       {
-        "name": "BX-00-01 P",
+        "name": "P",
         "type": "軸心"
       }
     ],
@@ -5673,16 +5674,16 @@ export const generatedProducts: readonly Product[] = [
     "productType": "其他",
     "parts": [
       {
-        "name": "BX-00-01 葛里維斯將軍",
+        "name": "General grievous",
         "nameCn": "葛里維斯將軍",
         "type": "戰刃"
       },
       {
-        "name": "BX-00-01 3-80",
+        "name": "3-80",
         "type": "固鎖"
       },
       {
-        "name": "BX-00-01 HN",
+        "name": "HN",
         "type": "軸心"
       }
     ],
@@ -5698,16 +5699,16 @@ export const generatedProducts: readonly Product[] = [
     "productType": "其他",
     "parts": [
       {
-        "name": "BX-00-02 丘巴卡",
+        "name": "Chewbacca",
         "nameCn": "丘巴卡",
         "type": "戰刃"
       },
       {
-        "name": "BX-00-02 4-80",
+        "name": "4-80",
         "type": "固鎖"
       },
       {
-        "name": "BX-00-02 LF",
+        "name": "LF",
         "type": "軸心"
       }
     ],
@@ -5723,16 +5724,16 @@ export const generatedProducts: readonly Product[] = [
     "productType": "其他",
     "parts": [
       {
-        "name": "BX-00-02 風暴兵",
+        "name": "Stormtrooper",
         "nameCn": "風暴兵",
         "type": "戰刃"
       },
       {
-        "name": "BX-00-02 5-70",
+        "name": "5-70",
         "type": "固鎖"
       },
       {
-        "name": "BX-00-02 B",
+        "name": "B",
         "type": "軸心"
       }
     ],
@@ -5748,16 +5749,16 @@ export const generatedProducts: readonly Product[] = [
     "productType": "其他",
     "parts": [
       {
-        "name": "BX-00-03 美國隊長",
+        "name": "Captain america",
         "nameCn": "美國隊長",
         "type": "戰刃"
       },
       {
-        "name": "BX-00-03 4-70",
+        "name": "4-70",
         "type": "固鎖"
       },
       {
-        "name": "BX-00-03 GB",
+        "name": "GB",
         "type": "軸心"
       }
     ],
@@ -5773,16 +5774,16 @@ export const generatedProducts: readonly Product[] = [
     "productType": "其他",
     "parts": [
       {
-        "name": "BX-00-03 紅浩克",
+        "name": "Red hulk",
         "nameCn": "紅浩克",
         "type": "戰刃"
       },
       {
-        "name": "BX-00-03 1-80",
+        "name": "1-80",
         "type": "固鎖"
       },
       {
-        "name": "BX-00-03 R",
+        "name": "R",
         "type": "軸心"
       }
     ],
@@ -5798,16 +5799,16 @@ export const generatedProducts: readonly Product[] = [
     "productType": "其他",
     "parts": [
       {
-        "name": "BX-00-04 終極蜘蛛人",
+        "name": "Miles morales",
         "nameCn": "終極蜘蛛人",
         "type": "戰刃"
       },
       {
-        "name": "BX-00-04 1-60",
+        "name": "1-60",
         "type": "固鎖"
       },
       {
-        "name": "BX-00-04 GN",
+        "name": "GN",
         "type": "軸心"
       }
     ],
@@ -5823,16 +5824,16 @@ export const generatedProducts: readonly Product[] = [
     "productType": "其他",
     "parts": [
       {
-        "name": "BX-00-04 綠惡魔",
+        "name": "Green goblin",
         "nameCn": "綠惡魔",
         "type": "戰刃"
       },
       {
-        "name": "BX-00-04 9-80",
+        "name": "9-80",
         "type": "固鎖"
       },
       {
-        "name": "BX-00-04 HT",
+        "name": "HT",
         "type": "軸心"
       }
     ],
@@ -5848,16 +5849,16 @@ export const generatedProducts: readonly Product[] = [
     "productType": "其他",
     "parts": [
       {
-        "name": "BX-49 蒼龍突擊",
+        "name": "Dranstrike",
         "nameCn": "蒼龍突擊",
         "type": "戰刃"
       },
       {
-        "name": "BX-49 4-50",
+        "name": "4-50",
         "type": "固鎖"
       },
       {
-        "name": "BX-49 FF",
+        "name": "FF",
         "type": "軸心"
       }
     ],
@@ -5873,30 +5874,30 @@ export const generatedProducts: readonly Product[] = [
     "productType": "其他",
     "parts": [
       {
-        "name": "BXG-51 蒼龍勇氣 S 金屬塗層:黑色",
+        "name": "Dranbrave s",
         "nameCn": "蒼龍勇氣 S",
         "type": "戰刃"
       },
       {
-        "name": "BXG-51 蒼龍",
+        "name": "DRAN",
         "nameCn": "蒼龍",
         "type": "紋章鎖"
       },
       {
-        "name": "BXG-51 勇氣",
+        "name": "Brave",
         "nameCn": "勇氣",
         "type": "主要戰刃"
       },
       {
-        "name": "BXG-51 6-60",
+        "name": "6-60",
         "type": "固鎖"
       },
       {
-        "name": "BXG-51 S",
+        "name": "S",
         "type": "輔助戰刃"
       },
       {
-        "name": "BXG-51 V",
+        "name": "V",
         "type": "軸心"
       }
     ],
@@ -5912,16 +5913,16 @@ export const generatedProducts: readonly Product[] = [
     "productType": "其他",
     "parts": [
       {
-        "name": "BXG-54 武士星劍 金屬塗層：武士藍 足球日本國家代表隊版",
+        "name": "Warriorsaber metal coat: samurai blue soccer japan national team ver.",
         "nameCn": "武士星劍",
         "type": "戰刃"
       },
       {
-        "name": "BXG-54 5-60",
+        "name": "5-60",
         "type": "固鎖"
       },
       {
-        "name": "BXG-54 K",
+        "name": "K",
         "type": "軸心"
       }
     ],
@@ -5937,30 +5938,30 @@ export const generatedProducts: readonly Product[] = [
     "productType": "其他",
     "parts": [
       {
-        "name": "BXG-57-01 福音戰士至尊 B 零號機版本",
+        "name": "Evaarc b unit-00 ver.",
         "nameCn": "福音戰士至尊 B 零號機版本",
         "type": "戰刃"
       },
       {
-        "name": "BXG-57-01 福音戰士",
+        "name": "Eva",
         "nameCn": "福音戰士",
         "type": "紋章鎖"
       },
       {
-        "name": "BXG-57-01 至尊",
+        "name": "Arc",
         "nameCn": "至尊",
         "type": "主要戰刃"
       },
       {
-        "name": "BXG-57-01 0-70",
+        "name": "0-70",
         "type": "固鎖"
       },
       {
-        "name": "BXG-57-01 B",
+        "name": "B",
         "type": "輔助戰刃"
       },
       {
-        "name": "BXG-57-01 E",
+        "name": "E",
         "type": "軸心"
       }
     ],
@@ -5976,30 +5977,30 @@ export const generatedProducts: readonly Product[] = [
     "productType": "其他",
     "parts": [
       {
-        "name": "BXG-57-02 福音戰士勇氣 A 初號機版本",
+        "name": "Evabrave a unit-01 ver.",
         "nameCn": "福音戰士勇氣 A 初號機版本",
         "type": "戰刃"
       },
       {
-        "name": "BXG-57-02 福音戰士",
+        "name": "Eva",
         "nameCn": "福音戰士",
         "type": "紋章鎖"
       },
       {
-        "name": "BXG-57-02 勇氣",
+        "name": "Brave",
         "nameCn": "勇氣",
         "type": "主要戰刃"
       },
       {
-        "name": "BXG-57-02 1-70",
+        "name": "1-70",
         "type": "固鎖"
       },
       {
-        "name": "BXG-57-02 A",
+        "name": "A",
         "type": "輔助戰刃"
       },
       {
-        "name": "BXG-57-02 V",
+        "name": "V",
         "type": "軸心"
       }
     ],
@@ -6015,30 +6016,30 @@ export const generatedProducts: readonly Product[] = [
     "productType": "其他",
     "parts": [
       {
-        "name": "BXG-57-03 福音戰士九尾 T ２號機版本",
+        "name": "Evabrush t unit-02 ver.",
         "nameCn": "福音戰士九尾 T ２號機版本",
         "type": "戰刃"
       },
       {
-        "name": "BXG-57-03 福音戰士",
+        "name": "Eva",
         "nameCn": "福音戰士",
         "type": "紋章鎖"
       },
       {
-        "name": "BXG-57-03 九尾",
+        "name": "Brush",
         "nameCn": "九尾",
         "type": "主要戰刃"
       },
       {
-        "name": "BXG-57-03 2-70",
+        "name": "2-70",
         "type": "固鎖"
       },
       {
-        "name": "BXG-57-03 T",
+        "name": "T",
         "type": "輔助戰刃"
       },
       {
-        "name": "BXG-57-03 A",
+        "name": "A",
         "type": "軸心"
       }
     ],
@@ -6054,16 +6055,16 @@ export const generatedProducts: readonly Product[] = [
     "productType": "其他",
     "parts": [
       {
-        "name": "BXG-61 天蠍長矛 金屬塗層:紫紅",
+        "name": "Scorpiospear metal coat: magenta",
         "nameCn": "天蠍長矛",
         "type": "戰刃"
       },
       {
-        "name": "BXG-61 0-70",
+        "name": "0-70",
         "type": "固鎖"
       },
       {
-        "name": "BXG-61 Z",
+        "name": "Z",
         "type": "軸心"
       }
     ],
@@ -6079,35 +6080,35 @@ export const generatedProducts: readonly Product[] = [
     "productType": "其他",
     "parts": [
       {
-        "name": "BXH-00-01 邪神狂怒FE 金屬塗層:燦金",
+        "name": "Ragnaragefe",
         "nameCn": "邪神狂怒FE",
         "type": "戰刃"
       },
       {
-        "name": "BXH-00-01 邪神",
+        "name": "RAGNA",
         "nameCn": "邪神",
         "type": "紋章鎖"
       },
       {
-        "name": "BXH-00-01 狂怒",
+        "name": "Rage",
         "nameCn": "狂怒",
         "type": "金屬戰刃"
       },
       {
-        "name": "BXH-00-01 F",
+        "name": "F",
         "nameCn": "邪神狂怒",
         "type": "超越戰刃"
       },
       {
-        "name": "BXH-00-01 4-55",
+        "name": "4-55",
         "type": "固鎖"
       },
       {
-        "name": "BXH-00-01 E",
+        "name": "E",
         "type": "輔助戰刃"
       },
       {
-        "name": "BXH-00-01 Y",
+        "name": "Y",
         "type": "軸心"
       }
     ],
@@ -6123,16 +6124,16 @@ export const generatedProducts: readonly Product[] = [
     "productType": "其他",
     "parts": [
       {
-        "name": "BXH-00-02 蒼龍突擊 金屬塗層:燦金",
+        "name": "Dranstrike",
         "nameCn": "蒼龍突擊",
         "type": "戰刃"
       },
       {
-        "name": "BXH-00-02 4-50",
+        "name": "4-50",
         "type": "固鎖"
       },
       {
-        "name": "BXH-00-02 FF",
+        "name": "FF",
         "type": "軸心"
       }
     ],
@@ -6148,16 +6149,16 @@ export const generatedProducts: readonly Product[] = [
     "productType": "其他",
     "parts": [
       {
-        "name": "BXH-00-02 蒼龍突擊 金屬塗層:白銀",
+        "name": "Dranstrike",
         "nameCn": "蒼龍突擊",
         "type": "戰刃"
       },
       {
-        "name": "BXH-00-02 4-50",
+        "name": "4-50",
         "type": "固鎖"
       },
       {
-        "name": "BXH-00-02 FF",
+        "name": "FF",
         "type": "軸心"
       }
     ],
@@ -6173,16 +6174,16 @@ export const generatedProducts: readonly Product[] = [
     "productType": "其他",
     "parts": [
       {
-        "name": "BXH-00-03 蒼龍突擊 金屬塗層:黃銅",
+        "name": "Dranstrike",
         "nameCn": "蒼龍突擊",
         "type": "戰刃"
       },
       {
-        "name": "BXH-00-03 4-50",
+        "name": "4-50",
         "type": "固鎖"
       },
       {
-        "name": "BXH-00-03 FF",
+        "name": "FF",
         "type": "軸心"
       }
     ],
@@ -6198,35 +6199,35 @@ export const generatedProducts: readonly Product[] = [
     "productType": "其他",
     "parts": [
       {
-        "name": "CX-17-01 獨角獸 Delta P",
+        "name": "Unicorndelta p",
         "nameCn": "獨角獸 Delta P",
         "type": "戰刃"
       },
       {
-        "name": "CX-17-01 獨角獸",
+        "name": "Unicorn",
         "nameCn": "獨角獸",
         "type": "紋章鎖"
       },
       {
-        "name": "CX-17-01 Delta",
+        "name": "Delta",
         "nameCn": "獨角獸",
         "type": "金屬戰刃"
       },
       {
-        "name": "CX-17-01 P",
+        "name": "P",
         "nameCn": "獨角獸",
         "type": "超越戰刃"
       },
       {
-        "name": "CX-17-01 3-60",
+        "name": "3-60",
         "type": "固鎖"
       },
       {
-        "name": "CX-17-01 O",
+        "name": "O",
         "type": "輔助戰刃"
       },
       {
-        "name": "CX-17-01 GU",
+        "name": "GU",
         "type": "軸心"
       }
     ],
@@ -6242,35 +6243,35 @@ export const generatedProducts: readonly Product[] = [
     "productType": "其他",
     "parts": [
       {
-        "name": "CX-17-02 獨角獸 Delta P",
+        "name": "Unicorndelta p",
         "nameCn": "獨角獸 Delta P",
         "type": "戰刃"
       },
       {
-        "name": "CX-17-02 獨角獸",
+        "name": "Unicorn",
         "nameCn": "獨角獸",
         "type": "紋章鎖"
       },
       {
-        "name": "CX-17-02 Delta",
+        "name": "Delta",
         "nameCn": "獨角獸",
         "type": "金屬戰刃"
       },
       {
-        "name": "CX-17-02 P",
+        "name": "P",
         "nameCn": "獨角獸",
         "type": "超越戰刃"
       },
       {
-        "name": "CX-17-02 1-80",
+        "name": "1-80",
         "type": "固鎖"
       },
       {
-        "name": "CX-17-02 O",
+        "name": "O",
         "type": "輔助戰刃"
       },
       {
-        "name": "CX-17-02 GR",
+        "name": "GR",
         "type": "軸心"
       }
     ],
@@ -6286,16 +6287,16 @@ export const generatedProducts: readonly Product[] = [
     "productType": "其他",
     "parts": [
       {
-        "name": "CX-17-03 武士星劍",
+        "name": "Warriorsaber",
         "nameCn": "武士星劍",
         "type": "戰刃"
       },
       {
-        "name": "CX-17-03 9-65",
+        "name": "9-65",
         "type": "固鎖"
       },
       {
-        "name": "CX-17-03 LO",
+        "name": "LO",
         "type": "軸心"
       }
     ],
@@ -6311,16 +6312,16 @@ export const generatedProducts: readonly Product[] = [
     "productType": "其他",
     "parts": [
       {
-        "name": "CX-17-04 惡魔重錘",
+        "name": "Hellshummner",
         "nameCn": "惡魔重錘",
         "type": "戰刃"
       },
       {
-        "name": "CX-17-04 3-85",
+        "name": "3-85",
         "type": "固鎖"
       },
       {
-        "name": "CX-17-04 GU",
+        "name": "GU",
         "type": "軸心"
       }
     ],
@@ -6336,16 +6337,16 @@ export const generatedProducts: readonly Product[] = [
     "productType": "其他",
     "parts": [
       {
-        "name": "CX-17-05 暴龍霸擊",
+        "name": "Tyrannobeat",
         "nameCn": "暴龍霸擊",
         "type": "戰刃"
       },
       {
-        "name": "CX-17-05 3-60",
+        "name": "3-60",
         "type": "固鎖"
       },
       {
-        "name": "CX-17-05 N",
+        "name": "N",
         "type": "軸心"
       }
     ],
@@ -6361,16 +6362,16 @@ export const generatedProducts: readonly Product[] = [
     "productType": "其他",
     "parts": [
       {
-        "name": "CX-17-06 赫燃天鳳",
+        "name": "Crimsongaruda",
         "nameCn": "赫燃天鳳",
         "type": "戰刃"
       },
       {
-        "name": "CX-17-06 7-80",
+        "name": "7-80",
         "type": "固鎖"
       },
       {
-        "name": "CX-17-06 GU",
+        "name": "GU",
         "type": "軸心"
       }
     ],
@@ -6386,16 +6387,16 @@ export const generatedProducts: readonly Product[] = [
     "productType": "其他",
     "parts": [
       {
-        "name": "UX-19 子彈獅鷲",
+        "name": "Bulletgriffon",
         "nameCn": "子彈獅鷲",
         "type": "戰刃"
       },
       {
-        "name": "?",
+        "name": "RC-PRD-096160-00",
         "type": "固鎖"
       },
       {
-        "name": "UX-19 H",
+        "name": "H",
         "type": "軸心"
       }
     ],
@@ -6442,6 +6443,11 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
       "BXC-00-03",
       "BXG-12",
       "BXG-13",
+      "BXG-29-01",
+      "BXG-34-01",
+      "BXG-37-01",
+      "CX-17-01",
+      "CX-17-05",
       "UX-15-03"
     ]
   },
@@ -6464,6 +6470,9 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
       "BXG-07",
       "BXG-12",
       "BXG-23",
+      "BXG-29-01",
+      "BXG-34-01",
+      "BXG-37-01",
       "BXH-01",
       "CX-08-03",
       "UX-12-03"
@@ -6485,6 +6494,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "4-60",
     "type": "固鎖",
     "products": [
+      "BX-00-01",
       "BX-02",
       "BX-08-03",
       "BX-14-05",
@@ -6496,6 +6506,9 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
       "BXG-12",
       "BXG-22",
       "BXG-23",
+      "BXG-30-02",
+      "BXG-33-02",
+      "BXG-36-01",
       "BXH-01",
       "UX-12-02",
       "UX-18-02"
@@ -6534,6 +6547,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "4-80",
     "type": "固鎖",
     "products": [
+      "BX-00-02",
       "BX-03",
       "BX-05",
       "BX-08-02",
@@ -6546,6 +6560,9 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
       "BX-27-02",
       "BXG-04",
       "BXG-25",
+      "BXG-30-01",
+      "BXG-33-01",
+      "BXG-36-02",
       "UX-18-06"
     ]
   },
@@ -6553,12 +6570,16 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "B",
     "type": "軸心",
     "products": [
+      "BX-00-02",
       "BX-03",
       "BX-05",
       "BX-08-01",
       "BX-14-03",
       "BX-17-02",
       "BX-35-02",
+      "BXG-30-01",
+      "BXG-33-01",
+      "BXG-36-02",
       "UX-10-03",
       "UX-16-01",
       "UX-16-02",
@@ -6582,6 +6603,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "3-80",
     "type": "固鎖",
     "products": [
+      "BX-00-01",
       "BX-04",
       "BX-06",
       "BX-08-01",
@@ -6593,6 +6615,9 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
       "BX-36-03",
       "BXG-01",
       "BXG-15",
+      "BXG-29-02",
+      "BXG-34-02",
+      "BXG-37-02",
       "BXH-02",
       "UX-08",
       "UX-12-03"
@@ -6608,7 +6633,12 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
       "BX-14-02",
       "BX-21-03",
       "BXG-25",
+      "BXG-29-02",
+      "BXG-30-02",
+      "BXG-34-02",
+      "BXG-37-02",
       "BXH-02",
+      "CX-17-05",
       "UX-12-05"
     ]
   },
@@ -6645,6 +6675,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "HN",
     "type": "軸心",
     "products": [
+      "BX-00-01",
       "BX-13",
       "BX-16-03",
       "BX-24-05",
@@ -6669,6 +6700,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "LF",
     "type": "軸心",
     "products": [
+      "BX-00-02",
       "BX-14-01",
       "BX-14-04",
       "BX-14-05",
@@ -6702,6 +6734,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
       "BXG-05",
       "BXG-06",
       "BXG-08",
+      "BXG-54",
       "CX-11-03"
     ]
   },
@@ -6709,10 +6742,13 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "P",
     "type": "軸心",
     "products": [
+      "BX-00-01",
       "BX-15",
       "BX-31-04",
       "BXG-04",
-      "BXG-05"
+      "BXG-05",
+      "BXG-33-02",
+      "BXG-36-01"
     ]
   },
   {
@@ -6786,6 +6822,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "R",
     "type": "軸心",
     "products": [
+      "BX-00-03",
       "BX-20-01",
       "BX-35-04",
       "BX-46-01"
@@ -6805,6 +6842,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "HT",
     "type": "軸心",
     "products": [
+      "BX-00-04",
       "BX-21-01",
       "BX-27-02",
       "BXG-08",
@@ -6827,6 +6865,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
       "BX-23",
       "BX-46-01",
       "BXG-25",
+      "BXG-40-02",
       "UX-05-02",
       "UX-11"
     ]
@@ -6857,11 +6896,13 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "GB",
     "type": "軸心",
     "products": [
+      "BX-00-03",
       "BX-24-01",
       "BX-24-03",
       "BX-24-06",
       "BX-36-03",
       "BX-48-04",
+      "BXG-40-01",
       "UX-12-01"
     ]
   },
@@ -6898,6 +6939,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "9-80",
     "type": "固鎖",
     "products": [
+      "BX-00-04",
       "BX-27-01",
       "BX-31-03",
       "BX-35-02",
@@ -6910,6 +6952,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "GN",
     "type": "軸心",
     "products": [
+      "BX-00-04",
       "BX-27-01",
       "BXG-20",
       "UX-06"
@@ -6933,6 +6976,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "1-60",
     "type": "固鎖",
     "products": [
+      "BX-00-04",
       "BX-31-05",
       "BX-35-04",
       "BXG-07",
@@ -6952,6 +6996,8 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
       "BXG-18",
       "BXG-24",
       "BXG-31",
+      "BXG-41-01",
+      "BXG-57-03",
       "BXH-10",
       "UX-01",
       "UX-04-01"
@@ -6987,7 +7033,8 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
       "BX-35-05",
       "BXG-19",
       "UX-02",
-      "UX-12-02"
+      "UX-12-02",
+      "UX-19"
     ]
   },
   {
@@ -7005,6 +7052,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "5-70",
     "type": "固鎖",
     "products": [
+      "BX-00-02",
       "BX-35-06",
       "BX-39-02",
       "BXH-09",
@@ -7040,6 +7088,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "products": [
       "BX-31-01",
       "BX-31-02",
+      "CX-17-05",
       "UX-10-02"
     ]
   },
@@ -7047,6 +7096,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "4-70",
     "type": "固鎖",
     "products": [
+      "BX-00-03",
       "BX-31-01",
       "BX-31-04",
       "BX-36-02",
@@ -7083,6 +7133,9 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "1-80",
     "type": "固鎖",
     "products": [
+      "BX-00-03",
+      "BXG-40-01",
+      "CX-17-02",
       "UX-05-01",
       "UX-07-03"
     ]
@@ -7109,6 +7162,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "type": "軸心",
     "products": [
       "BX-33",
+      "BXG-40-02",
       "CX-06-03"
     ]
   },
@@ -7164,6 +7218,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
       "BX-35-06",
       "BX-39-03",
       "BXG-11",
+      "BXG-41-02",
       "CX-05-02"
     ]
   },
@@ -7247,6 +7302,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
       "BX-36-01",
       "BX-48-02",
       "BXG-32",
+      "BXG-57-01",
       "UX-12-04"
     ]
   },
@@ -7280,7 +7336,8 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "type": "戰刃",
     "products": [
       "BX-38",
-      "BX-38-01"
+      "BX-38-01",
+      "CX-17-06"
     ]
   },
   {
@@ -7297,6 +7354,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "nameCn": "武士星劍",
     "type": "戰刃",
     "products": [
+      "CX-17-03",
       "UX-09"
     ]
   },
@@ -7305,6 +7363,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "type": "固鎖",
     "products": [
       "BXG-21",
+      "BXG-57-03",
       "UX-09"
     ]
   },
@@ -7330,9 +7389,11 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "type": "固鎖",
     "products": [
       "BX-48-04",
+      "BXG-41-01",
       "BXG-42",
       "CX-05-03",
       "CX-08-02",
+      "CX-17-04",
       "UX-10-01",
       "UX-18-03"
     ]
@@ -7479,7 +7540,8 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "7-80",
     "type": "固鎖",
     "products": [
-      "BX-39-01"
+      "BX-39-01",
+      "CX-17-06"
     ]
   },
   {
@@ -7522,6 +7584,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "nameCn": "蒼龍",
     "type": "紋章鎖",
     "products": [
+      "BXG-51",
       "BXH-16",
       "CX-01",
       "CX-04-01"
@@ -7532,6 +7595,8 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "nameCn": "勇氣",
     "type": "主要戰刃",
     "products": [
+      "BXG-51",
+      "BXG-57-02",
       "BXH-16",
       "CX-01",
       "CX-04-01",
@@ -7543,6 +7608,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "6-60",
     "type": "固鎖",
     "products": [
+      "BXG-51",
       "BXH-16",
       "CX-01",
       "CX-04-01"
@@ -7552,6 +7618,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "S",
     "type": "輔助戰刃",
     "products": [
+      "BXG-51",
       "BXH-14",
       "BXH-16",
       "CX-01",
@@ -7562,6 +7629,8 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "V",
     "type": "軸心",
     "products": [
+      "BXG-51",
+      "BXG-57-02",
       "BXH-14",
       "BXH-16",
       "CX-01",
@@ -7592,6 +7661,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "type": "主要戰刃",
     "products": [
       "BXG-43",
+      "BXG-57-01",
       "CX-02",
       "CX-05-03"
     ]
@@ -7600,7 +7670,9 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "4-55",
     "type": "固鎖",
     "products": [
+      "BXG-41-02",
       "BXG-43",
+      "BXH-00-01",
       "CX-02",
       "CX-05-02",
       "CX-08-06",
@@ -7620,7 +7692,8 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "type": "軸心",
     "products": [
       "BXG-43",
-      "CX-02"
+      "CX-02",
+      "CX-17-03"
     ]
   },
   {
@@ -7668,6 +7741,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "B",
     "type": "輔助戰刃",
     "products": [
+      "BXG-57-01",
       "BXH-15",
       "CX-03",
       "CX-04-02"
@@ -7704,6 +7778,8 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "0-70",
     "type": "固鎖",
     "products": [
+      "BXG-57-01",
+      "BXG-61",
       "UX-14"
     ]
   },
@@ -7711,6 +7787,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "Z",
     "type": "軸心",
     "products": [
+      "BXG-61",
       "UX-14"
     ]
   },
@@ -7745,6 +7822,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "T",
     "type": "輔助戰刃",
     "products": [
+      "BXG-57-03",
       "CX-05-01",
       "CX-05-03"
     ]
@@ -7753,6 +7831,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "K",
     "type": "軸心",
     "products": [
+      "BXG-54",
       "CX-05-01",
       "CX-05-04",
       "CX-05-06"
@@ -7791,7 +7870,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     ]
   },
   {
-    "name": "BXG-29-01 蜘蛛人",
+    "name": "Spider-man",
     "nameCn": "蜘蛛人",
     "type": "戰刃",
     "products": [
@@ -7799,21 +7878,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     ]
   },
   {
-    "name": "BXG-29-01 3-60",
-    "type": "固鎖",
-    "products": [
-      "BXG-29-01"
-    ]
-  },
-  {
-    "name": "BXG-29-01 F",
-    "type": "軸心",
-    "products": [
-      "BXG-29-01"
-    ]
-  },
-  {
-    "name": "BXG-29-02 猛毒",
+    "name": "Venom",
     "nameCn": "猛毒",
     "type": "戰刃",
     "products": [
@@ -7821,21 +7886,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     ]
   },
   {
-    "name": "BXG-29-02 3-80",
-    "type": "固鎖",
-    "products": [
-      "BXG-29-02"
-    ]
-  },
-  {
-    "name": "BXG-29-02 N",
-    "type": "軸心",
-    "products": [
-      "BXG-29-02"
-    ]
-  },
-  {
-    "name": "BXG-30-01 鋼鐵人",
+    "name": "Iron man",
     "nameCn": "鋼鐵人",
     "type": "戰刃",
     "products": [
@@ -7843,21 +7894,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     ]
   },
   {
-    "name": "BXG-30-01 4-80",
-    "type": "固鎖",
-    "products": [
-      "BXG-30-01"
-    ]
-  },
-  {
-    "name": "BXG-30-01 B",
-    "type": "軸心",
-    "products": [
-      "BXG-30-01"
-    ]
-  },
-  {
-    "name": "BXG-30-02 薩諾斯",
+    "name": "Thanos",
     "nameCn": "薩諾斯",
     "type": "戰刃",
     "products": [
@@ -7865,21 +7902,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     ]
   },
   {
-    "name": "BXG-30-02 4-60",
-    "type": "固鎖",
-    "products": [
-      "BXG-30-02"
-    ]
-  },
-  {
-    "name": "BXG-30-02 N",
-    "type": "軸心",
-    "products": [
-      "BXG-30-02"
-    ]
-  },
-  {
-    "name": "BXG-33-01 路克天行者",
+    "name": "Luke skywalker",
     "nameCn": "路克天行者",
     "type": "戰刃",
     "products": [
@@ -7887,21 +7910,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     ]
   },
   {
-    "name": "BXG-33-01 4-80",
-    "type": "固鎖",
-    "products": [
-      "BXG-33-01"
-    ]
-  },
-  {
-    "name": "BXG-33-01 B",
-    "type": "軸心",
-    "products": [
-      "BXG-33-01"
-    ]
-  },
-  {
-    "name": "BXG-33-02 達斯維達",
+    "name": "Darth vader",
     "nameCn": "達斯維達",
     "type": "戰刃",
     "products": [
@@ -7909,21 +7918,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     ]
   },
   {
-    "name": "BXG-33-02 4-60",
-    "type": "固鎖",
-    "products": [
-      "BXG-33-02"
-    ]
-  },
-  {
-    "name": "BXG-33-02 P",
-    "type": "軸心",
-    "products": [
-      "BXG-33-02"
-    ]
-  },
-  {
-    "name": "BXG-34-01 曼達洛人",
+    "name": "The mandalorian",
     "nameCn": "曼達洛人",
     "type": "戰刃",
     "products": [
@@ -7931,21 +7926,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     ]
   },
   {
-    "name": "BXG-34-01 3-60",
-    "type": "固鎖",
-    "products": [
-      "BXG-34-01"
-    ]
-  },
-  {
-    "name": "BXG-34-01 F",
-    "type": "軸心",
-    "products": [
-      "BXG-34-01"
-    ]
-  },
-  {
-    "name": "BXG-34-02 星區長吉迪恩",
+    "name": "Moff gideon",
     "nameCn": "星區長吉迪恩",
     "type": "戰刃",
     "products": [
@@ -7953,21 +7934,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     ]
   },
   {
-    "name": "BXG-34-02 3-80",
-    "type": "固鎖",
-    "products": [
-      "BXG-34-02"
-    ]
-  },
-  {
-    "name": "BXG-34-02 N",
-    "type": "軸心",
-    "products": [
-      "BXG-34-02"
-    ]
-  },
-  {
-    "name": "BXG-36-01 柯博文",
+    "name": "Optimus prime",
     "nameCn": "柯博文",
     "type": "戰刃",
     "products": [
@@ -7975,21 +7942,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     ]
   },
   {
-    "name": "BXG-36-01 4-60",
-    "type": "固鎖",
-    "products": [
-      "BXG-36-01"
-    ]
-  },
-  {
-    "name": "BXG-36-01 P",
-    "type": "軸心",
-    "products": [
-      "BXG-36-01"
-    ]
-  },
-  {
-    "name": "BXG-36-02 密卡登",
+    "name": "Megatron",
     "nameCn": "密卡登",
     "type": "戰刃",
     "products": [
@@ -7997,21 +7950,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     ]
   },
   {
-    "name": "BXG-36-02 4-80",
-    "type": "固鎖",
-    "products": [
-      "BXG-36-02"
-    ]
-  },
-  {
-    "name": "BXG-36-02 B",
-    "type": "軸心",
-    "products": [
-      "BXG-36-02"
-    ]
-  },
-  {
-    "name": "BXG-37-01 金剛王",
+    "name": "Optimus primal",
     "nameCn": "金剛王",
     "type": "戰刃",
     "products": [
@@ -8019,21 +7958,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     ]
   },
   {
-    "name": "BXG-37-01 3-60",
-    "type": "固鎖",
-    "products": [
-      "BXG-37-01"
-    ]
-  },
-  {
-    "name": "BXG-37-01 F",
-    "type": "軸心",
-    "products": [
-      "BXG-37-01"
-    ]
-  },
-  {
-    "name": "BXG-37-02 天王星",
+    "name": "Starscream",
     "nameCn": "天王星",
     "type": "戰刃",
     "products": [
@@ -8041,21 +7966,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     ]
   },
   {
-    "name": "BXG-37-02 3-80",
-    "type": "固鎖",
-    "products": [
-      "BXG-37-02"
-    ]
-  },
-  {
-    "name": "BXG-37-02 N",
-    "type": "軸心",
-    "products": [
-      "BXG-37-02"
-    ]
-  },
-  {
-    "name": "BXG-40-01 暴龍",
+    "name": "Jurassic world t-rex",
     "nameCn": "暴龍",
     "type": "戰刃",
     "products": [
@@ -8063,21 +7974,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     ]
   },
   {
-    "name": "BXG-40-01 1-80",
-    "type": "固鎖",
-    "products": [
-      "BXG-40-01"
-    ]
-  },
-  {
-    "name": "BXG-40-01 GB",
-    "type": "軸心",
-    "products": [
-      "BXG-40-01"
-    ]
-  },
-  {
-    "name": "BXG-40-02 滄龍",
+    "name": "Jurassic world mosasaurus",
     "nameCn": "滄龍",
     "type": "戰刃",
     "products": [
@@ -8085,21 +7982,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     ]
   },
   {
-    "name": "BXG-40-02 9-60",
-    "type": "固鎖",
-    "products": [
-      "BXG-40-02"
-    ]
-  },
-  {
-    "name": "BXG-40-02 U",
-    "type": "軸心",
-    "products": [
-      "BXG-40-02"
-    ]
-  },
-  {
-    "name": "BXG-41-02 棘龍",
+    "name": "Jurassic world quetzalcoatlus",
     "nameCn": "棘龍",
     "type": "戰刃",
     "products": [
@@ -8107,37 +7990,9 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     ]
   },
   {
-    "name": "BXG-41-02 4-55",
-    "type": "固鎖",
-    "products": [
-      "BXG-41-02"
-    ]
-  },
-  {
-    "name": "BXG-41-02 D",
-    "type": "軸心",
-    "products": [
-      "BXG-41-02"
-    ]
-  },
-  {
-    "name": "BXG-41-01 翼龍",
+    "name": "Jurassic world spinosaurus",
     "nameCn": "翼龍",
     "type": "戰刃",
-    "products": [
-      "BXG-41-01"
-    ]
-  },
-  {
-    "name": "BXG-41-01 3-85",
-    "type": "固鎖",
-    "products": [
-      "BXG-41-01"
-    ]
-  },
-  {
-    "name": "BXG-41-01 A",
-    "type": "軸心",
     "products": [
       "BXG-41-01"
     ]
@@ -8167,6 +8022,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "nameCn": "九尾",
     "type": "主要戰刃",
     "products": [
+      "BXG-57-03",
       "CX-06-01",
       "CX-06-02",
       "CX-06-03",
@@ -8187,7 +8043,8 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "GR",
     "type": "軸心",
     "products": [
-      "CX-06-01"
+      "CX-06-01",
+      "CX-17-02"
     ]
   },
   {
@@ -8235,11 +8092,13 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     ]
   },
   {
-    "name": "CX-07 固鎖一體式軸心",
+    "name": "RATCHET-integrated BITS",
     "nameCn": "固鎖一體式軸心",
     "type": "固鎖",
     "products": [
-      "CX-07"
+      "BXG-45",
+      "CX-07",
+      "CX-11-01"
     ]
   },
   {
@@ -8247,6 +8106,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "type": "輔助戰刃",
     "products": [
       "BXG-45",
+      "BXG-57-02",
       "CX-07"
     ]
   },
@@ -8366,14 +8226,6 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     ]
   },
   {
-    "name": "BXG-45 固鎖一體式軸心",
-    "nameCn": "固鎖一體式軸心",
-    "type": "固鎖",
-    "products": [
-      "BXG-45"
-    ]
-  },
-  {
     "name": "Samuraicalibur",
     "nameCn": "武士魂斬",
     "type": "戰刃",
@@ -8408,6 +8260,9 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "4-50",
     "type": "固鎖",
     "products": [
+      "BX-49",
+      "BXH-00-02",
+      "BXH-00-03",
       "UX-15-01"
     ]
   },
@@ -8430,6 +8285,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "1-70",
     "type": "固鎖",
     "products": [
+      "BXG-57-02",
       "UX-15-02"
     ]
   },
@@ -8494,6 +8350,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "9-65",
     "type": "固鎖",
     "products": [
+      "CX-17-03",
       "UX-16-01",
       "UX-16-02",
       "UX-16-03"
@@ -8565,13 +8422,6 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "Might",
     "nameCn": "威能",
     "type": "主要戰刃",
-    "products": [
-      "CX-11-01"
-    ]
-  },
-  {
-    "name": "固鎖一體式軸心",
-    "type": "固鎖",
     "products": [
       "CX-11-01"
     ]
@@ -8812,6 +8662,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "nameCn": "邪神狂怒FE",
     "type": "戰刃",
     "products": [
+      "BXH-00-01",
       "CX-15"
     ]
   },
@@ -8820,6 +8671,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "nameCn": "邪神",
     "type": "紋章鎖",
     "products": [
+      "BXH-00-01",
       "CX-15"
     ]
   },
@@ -8836,6 +8688,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "nameCn": "狂怒",
     "type": "金屬戰刃",
     "products": [
+      "BXH-00-01",
       "CX-15"
     ]
   },
@@ -8844,6 +8697,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "nameCn": "邪神狂怒",
     "type": "超越戰刃",
     "products": [
+      "BXH-00-01",
       "CX-15"
     ]
   },
@@ -8851,6 +8705,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "E",
     "type": "輔助戰刃",
     "products": [
+      "BXH-00-01",
       "CX-15"
     ]
   },
@@ -8858,6 +8713,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "Y",
     "type": "軸心",
     "products": [
+      "BXH-00-01",
       "CX-15"
     ]
   },
@@ -8870,7 +8726,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     ]
   },
   {
-    "name": "BX-00-01 歐比王肯諾比",
+    "name": "Obi-wan kenobi",
     "nameCn": "歐比王肯諾比",
     "type": "戰刃",
     "products": [
@@ -8878,21 +8734,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     ]
   },
   {
-    "name": "BX-00-01 4-60",
-    "type": "固鎖",
-    "products": [
-      "BX-00-01"
-    ]
-  },
-  {
-    "name": "BX-00-01 P",
-    "type": "軸心",
-    "products": [
-      "BX-00-01"
-    ]
-  },
-  {
-    "name": "BX-00-01 葛里維斯將軍",
+    "name": "General grievous",
     "nameCn": "葛里維斯將軍",
     "type": "戰刃",
     "products": [
@@ -8900,21 +8742,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     ]
   },
   {
-    "name": "BX-00-01 3-80",
-    "type": "固鎖",
-    "products": [
-      "BX-00-01"
-    ]
-  },
-  {
-    "name": "BX-00-01 HN",
-    "type": "軸心",
-    "products": [
-      "BX-00-01"
-    ]
-  },
-  {
-    "name": "BX-00-02 丘巴卡",
+    "name": "Chewbacca",
     "nameCn": "丘巴卡",
     "type": "戰刃",
     "products": [
@@ -8922,21 +8750,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     ]
   },
   {
-    "name": "BX-00-02 4-80",
-    "type": "固鎖",
-    "products": [
-      "BX-00-02"
-    ]
-  },
-  {
-    "name": "BX-00-02 LF",
-    "type": "軸心",
-    "products": [
-      "BX-00-02"
-    ]
-  },
-  {
-    "name": "BX-00-02 風暴兵",
+    "name": "Stormtrooper",
     "nameCn": "風暴兵",
     "type": "戰刃",
     "products": [
@@ -8944,21 +8758,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     ]
   },
   {
-    "name": "BX-00-02 5-70",
-    "type": "固鎖",
-    "products": [
-      "BX-00-02"
-    ]
-  },
-  {
-    "name": "BX-00-02 B",
-    "type": "軸心",
-    "products": [
-      "BX-00-02"
-    ]
-  },
-  {
-    "name": "BX-00-03 美國隊長",
+    "name": "Captain america",
     "nameCn": "美國隊長",
     "type": "戰刃",
     "products": [
@@ -8966,21 +8766,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     ]
   },
   {
-    "name": "BX-00-03 4-70",
-    "type": "固鎖",
-    "products": [
-      "BX-00-03"
-    ]
-  },
-  {
-    "name": "BX-00-03 GB",
-    "type": "軸心",
-    "products": [
-      "BX-00-03"
-    ]
-  },
-  {
-    "name": "BX-00-03 紅浩克",
+    "name": "Red hulk",
     "nameCn": "紅浩克",
     "type": "戰刃",
     "products": [
@@ -8988,21 +8774,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     ]
   },
   {
-    "name": "BX-00-03 1-80",
-    "type": "固鎖",
-    "products": [
-      "BX-00-03"
-    ]
-  },
-  {
-    "name": "BX-00-03 R",
-    "type": "軸心",
-    "products": [
-      "BX-00-03"
-    ]
-  },
-  {
-    "name": "BX-00-04 終極蜘蛛人",
+    "name": "Miles morales",
     "nameCn": "終極蜘蛛人",
     "type": "戰刃",
     "products": [
@@ -9010,21 +8782,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     ]
   },
   {
-    "name": "BX-00-04 1-60",
-    "type": "固鎖",
-    "products": [
-      "BX-00-04"
-    ]
-  },
-  {
-    "name": "BX-00-04 GN",
-    "type": "軸心",
-    "products": [
-      "BX-00-04"
-    ]
-  },
-  {
-    "name": "BX-00-04 綠惡魔",
+    "name": "Green goblin",
     "nameCn": "綠惡魔",
     "type": "戰刃",
     "products": [
@@ -9032,43 +8790,26 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     ]
   },
   {
-    "name": "BX-00-04 9-80",
-    "type": "固鎖",
-    "products": [
-      "BX-00-04"
-    ]
-  },
-  {
-    "name": "BX-00-04 HT",
-    "type": "軸心",
-    "products": [
-      "BX-00-04"
-    ]
-  },
-  {
-    "name": "BX-49 蒼龍突擊",
+    "name": "Dranstrike",
     "nameCn": "蒼龍突擊",
     "type": "戰刃",
     "products": [
-      "BX-49"
+      "BX-49",
+      "BXH-00-02",
+      "BXH-00-03"
     ]
   },
   {
-    "name": "BX-49 4-50",
-    "type": "固鎖",
-    "products": [
-      "BX-49"
-    ]
-  },
-  {
-    "name": "BX-49 FF",
+    "name": "FF",
     "type": "軸心",
     "products": [
-      "BX-49"
+      "BX-49",
+      "BXH-00-02",
+      "BXH-00-03"
     ]
   },
   {
-    "name": "BXG-51 蒼龍勇氣 S 金屬塗層:黑色",
+    "name": "Dranbrave s",
     "nameCn": "蒼龍勇氣 S",
     "type": "戰刃",
     "products": [
@@ -9076,44 +8817,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     ]
   },
   {
-    "name": "BXG-51 蒼龍",
-    "nameCn": "蒼龍",
-    "type": "紋章鎖",
-    "products": [
-      "BXG-51"
-    ]
-  },
-  {
-    "name": "BXG-51 勇氣",
-    "nameCn": "勇氣",
-    "type": "主要戰刃",
-    "products": [
-      "BXG-51"
-    ]
-  },
-  {
-    "name": "BXG-51 6-60",
-    "type": "固鎖",
-    "products": [
-      "BXG-51"
-    ]
-  },
-  {
-    "name": "BXG-51 S",
-    "type": "輔助戰刃",
-    "products": [
-      "BXG-51"
-    ]
-  },
-  {
-    "name": "BXG-51 V",
-    "type": "軸心",
-    "products": [
-      "BXG-51"
-    ]
-  },
-  {
-    "name": "BXG-54 武士星劍 金屬塗層：武士藍 足球日本國家代表隊版",
+    "name": "Warriorsaber metal coat: samurai blue soccer japan national team ver.",
     "nameCn": "武士星劍",
     "type": "戰刃",
     "products": [
@@ -9121,21 +8825,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     ]
   },
   {
-    "name": "BXG-54 5-60",
-    "type": "固鎖",
-    "products": [
-      "BXG-54"
-    ]
-  },
-  {
-    "name": "BXG-54 K",
-    "type": "軸心",
-    "products": [
-      "BXG-54"
-    ]
-  },
-  {
-    "name": "BXG-57-01 福音戰士至尊 B 零號機版本",
+    "name": "Evaarc b unit-00 ver.",
     "nameCn": "福音戰士至尊 B 零號機版本",
     "type": "戰刃",
     "products": [
@@ -9143,44 +8833,17 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     ]
   },
   {
-    "name": "BXG-57-01 福音戰士",
+    "name": "Eva",
     "nameCn": "福音戰士",
     "type": "紋章鎖",
     "products": [
-      "BXG-57-01"
+      "BXG-57-01",
+      "BXG-57-02",
+      "BXG-57-03"
     ]
   },
   {
-    "name": "BXG-57-01 至尊",
-    "nameCn": "至尊",
-    "type": "主要戰刃",
-    "products": [
-      "BXG-57-01"
-    ]
-  },
-  {
-    "name": "BXG-57-01 0-70",
-    "type": "固鎖",
-    "products": [
-      "BXG-57-01"
-    ]
-  },
-  {
-    "name": "BXG-57-01 B",
-    "type": "輔助戰刃",
-    "products": [
-      "BXG-57-01"
-    ]
-  },
-  {
-    "name": "BXG-57-01 E",
-    "type": "軸心",
-    "products": [
-      "BXG-57-01"
-    ]
-  },
-  {
-    "name": "BXG-57-02 福音戰士勇氣 A 初號機版本",
+    "name": "Evabrave a unit-01 ver.",
     "nameCn": "福音戰士勇氣 A 初號機版本",
     "type": "戰刃",
     "products": [
@@ -9188,44 +8851,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     ]
   },
   {
-    "name": "BXG-57-02 福音戰士",
-    "nameCn": "福音戰士",
-    "type": "紋章鎖",
-    "products": [
-      "BXG-57-02"
-    ]
-  },
-  {
-    "name": "BXG-57-02 勇氣",
-    "nameCn": "勇氣",
-    "type": "主要戰刃",
-    "products": [
-      "BXG-57-02"
-    ]
-  },
-  {
-    "name": "BXG-57-02 1-70",
-    "type": "固鎖",
-    "products": [
-      "BXG-57-02"
-    ]
-  },
-  {
-    "name": "BXG-57-02 A",
-    "type": "輔助戰刃",
-    "products": [
-      "BXG-57-02"
-    ]
-  },
-  {
-    "name": "BXG-57-02 V",
-    "type": "軸心",
-    "products": [
-      "BXG-57-02"
-    ]
-  },
-  {
-    "name": "BXG-57-03 福音戰士九尾 T ２號機版本",
+    "name": "Evabrush t unit-02 ver.",
     "nameCn": "福音戰士九尾 T ２號機版本",
     "type": "戰刃",
     "products": [
@@ -9233,44 +8859,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     ]
   },
   {
-    "name": "BXG-57-03 福音戰士",
-    "nameCn": "福音戰士",
-    "type": "紋章鎖",
-    "products": [
-      "BXG-57-03"
-    ]
-  },
-  {
-    "name": "BXG-57-03 九尾",
-    "nameCn": "九尾",
-    "type": "主要戰刃",
-    "products": [
-      "BXG-57-03"
-    ]
-  },
-  {
-    "name": "BXG-57-03 2-70",
-    "type": "固鎖",
-    "products": [
-      "BXG-57-03"
-    ]
-  },
-  {
-    "name": "BXG-57-03 T",
-    "type": "輔助戰刃",
-    "products": [
-      "BXG-57-03"
-    ]
-  },
-  {
-    "name": "BXG-57-03 A",
-    "type": "軸心",
-    "products": [
-      "BXG-57-03"
-    ]
-  },
-  {
-    "name": "BXG-61 天蠍長矛 金屬塗層:紫紅",
+    "name": "Scorpiospear metal coat: magenta",
     "nameCn": "天蠍長矛",
     "type": "戰刃",
     "products": [
@@ -9278,254 +8867,60 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     ]
   },
   {
-    "name": "BXG-61 0-70",
-    "type": "固鎖",
-    "products": [
-      "BXG-61"
-    ]
-  },
-  {
-    "name": "BXG-61 Z",
-    "type": "軸心",
-    "products": [
-      "BXG-61"
-    ]
-  },
-  {
-    "name": "BXH-00-01 邪神狂怒FE 金屬塗層:燦金",
-    "nameCn": "邪神狂怒FE",
-    "type": "戰刃",
-    "products": [
-      "BXH-00-01"
-    ]
-  },
-  {
-    "name": "BXH-00-01 邪神",
-    "nameCn": "邪神",
-    "type": "紋章鎖",
-    "products": [
-      "BXH-00-01"
-    ]
-  },
-  {
-    "name": "BXH-00-01 狂怒",
-    "nameCn": "狂怒",
-    "type": "金屬戰刃",
-    "products": [
-      "BXH-00-01"
-    ]
-  },
-  {
-    "name": "BXH-00-01 F",
-    "nameCn": "邪神狂怒",
-    "type": "超越戰刃",
-    "products": [
-      "BXH-00-01"
-    ]
-  },
-  {
-    "name": "BXH-00-01 4-55",
-    "type": "固鎖",
-    "products": [
-      "BXH-00-01"
-    ]
-  },
-  {
-    "name": "BXH-00-01 E",
-    "type": "輔助戰刃",
-    "products": [
-      "BXH-00-01"
-    ]
-  },
-  {
-    "name": "BXH-00-01 Y",
-    "type": "軸心",
-    "products": [
-      "BXH-00-01"
-    ]
-  },
-  {
-    "name": "BXH-00-02 蒼龍突擊 金屬塗層:燦金",
-    "nameCn": "蒼龍突擊",
-    "type": "戰刃",
-    "products": [
-      "BXH-00-02"
-    ]
-  },
-  {
-    "name": "BXH-00-02 4-50",
-    "type": "固鎖",
-    "products": [
-      "BXH-00-02"
-    ]
-  },
-  {
-    "name": "BXH-00-02 FF",
-    "type": "軸心",
-    "products": [
-      "BXH-00-02"
-    ]
-  },
-  {
-    "name": "BXH-00-02 蒼龍突擊 金屬塗層:白銀",
-    "nameCn": "蒼龍突擊",
-    "type": "戰刃",
-    "products": [
-      "BXH-00-02"
-    ]
-  },
-  {
-    "name": "BXH-00-03 蒼龍突擊 金屬塗層:黃銅",
-    "nameCn": "蒼龍突擊",
-    "type": "戰刃",
-    "products": [
-      "BXH-00-03"
-    ]
-  },
-  {
-    "name": "BXH-00-03 4-50",
-    "type": "固鎖",
-    "products": [
-      "BXH-00-03"
-    ]
-  },
-  {
-    "name": "BXH-00-03 FF",
-    "type": "軸心",
-    "products": [
-      "BXH-00-03"
-    ]
-  },
-  {
-    "name": "CX-17-01 獨角獸 Delta P",
+    "name": "Unicorndelta p",
     "nameCn": "獨角獸 Delta P",
     "type": "戰刃",
     "products": [
-      "CX-17-01"
+      "CX-17-01",
+      "CX-17-02"
     ]
   },
   {
-    "name": "CX-17-01 獨角獸",
+    "name": "Unicorn",
     "nameCn": "獨角獸",
     "type": "紋章鎖",
     "products": [
-      "CX-17-01"
+      "CX-17-01",
+      "CX-17-02"
     ]
   },
   {
-    "name": "CX-17-01 Delta",
+    "name": "Delta",
     "nameCn": "獨角獸",
     "type": "金屬戰刃",
     "products": [
-      "CX-17-01"
+      "CX-17-01",
+      "CX-17-02"
     ]
   },
   {
-    "name": "CX-17-01 P",
+    "name": "P",
     "nameCn": "獨角獸",
     "type": "超越戰刃",
     "products": [
-      "CX-17-01"
+      "CX-17-01",
+      "CX-17-02"
     ]
   },
   {
-    "name": "CX-17-01 3-60",
-    "type": "固鎖",
-    "products": [
-      "CX-17-01"
-    ]
-  },
-  {
-    "name": "CX-17-01 O",
+    "name": "O",
     "type": "輔助戰刃",
     "products": [
-      "CX-17-01"
+      "CX-17-01",
+      "CX-17-02"
     ]
   },
   {
-    "name": "CX-17-01 GU",
+    "name": "GU",
     "type": "軸心",
     "products": [
-      "CX-17-01"
+      "CX-17-01",
+      "CX-17-04",
+      "CX-17-06"
     ]
   },
   {
-    "name": "CX-17-02 獨角獸 Delta P",
-    "nameCn": "獨角獸 Delta P",
-    "type": "戰刃",
-    "products": [
-      "CX-17-02"
-    ]
-  },
-  {
-    "name": "CX-17-02 獨角獸",
-    "nameCn": "獨角獸",
-    "type": "紋章鎖",
-    "products": [
-      "CX-17-02"
-    ]
-  },
-  {
-    "name": "CX-17-02 Delta",
-    "nameCn": "獨角獸",
-    "type": "金屬戰刃",
-    "products": [
-      "CX-17-02"
-    ]
-  },
-  {
-    "name": "CX-17-02 P",
-    "nameCn": "獨角獸",
-    "type": "超越戰刃",
-    "products": [
-      "CX-17-02"
-    ]
-  },
-  {
-    "name": "CX-17-02 1-80",
-    "type": "固鎖",
-    "products": [
-      "CX-17-02"
-    ]
-  },
-  {
-    "name": "CX-17-02 O",
-    "type": "輔助戰刃",
-    "products": [
-      "CX-17-02"
-    ]
-  },
-  {
-    "name": "CX-17-02 GR",
-    "type": "軸心",
-    "products": [
-      "CX-17-02"
-    ]
-  },
-  {
-    "name": "CX-17-03 武士星劍",
-    "nameCn": "武士星劍",
-    "type": "戰刃",
-    "products": [
-      "CX-17-03"
-    ]
-  },
-  {
-    "name": "CX-17-03 9-65",
-    "type": "固鎖",
-    "products": [
-      "CX-17-03"
-    ]
-  },
-  {
-    "name": "CX-17-03 LO",
-    "type": "軸心",
-    "products": [
-      "CX-17-03"
-    ]
-  },
-  {
-    "name": "CX-17-04 惡魔重錘",
+    "name": "Hellshummner",
     "nameCn": "惡魔重錘",
     "type": "戰刃",
     "products": [
@@ -9533,65 +8928,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     ]
   },
   {
-    "name": "CX-17-04 3-85",
-    "type": "固鎖",
-    "products": [
-      "CX-17-04"
-    ]
-  },
-  {
-    "name": "CX-17-04 GU",
-    "type": "軸心",
-    "products": [
-      "CX-17-04"
-    ]
-  },
-  {
-    "name": "CX-17-05 暴龍霸擊",
-    "nameCn": "暴龍霸擊",
-    "type": "戰刃",
-    "products": [
-      "CX-17-05"
-    ]
-  },
-  {
-    "name": "CX-17-05 3-60",
-    "type": "固鎖",
-    "products": [
-      "CX-17-05"
-    ]
-  },
-  {
-    "name": "CX-17-05 N",
-    "type": "軸心",
-    "products": [
-      "CX-17-05"
-    ]
-  },
-  {
-    "name": "CX-17-06 赫燃天鳳",
-    "nameCn": "赫燃天鳳",
-    "type": "戰刃",
-    "products": [
-      "CX-17-06"
-    ]
-  },
-  {
-    "name": "CX-17-06 7-80",
-    "type": "固鎖",
-    "products": [
-      "CX-17-06"
-    ]
-  },
-  {
-    "name": "CX-17-06 GU",
-    "type": "軸心",
-    "products": [
-      "CX-17-06"
-    ]
-  },
-  {
-    "name": "UX-19 子彈獅鷲",
+    "name": "Bulletgriffon",
     "nameCn": "子彈獅鷲",
     "type": "戰刃",
     "products": [
@@ -9599,15 +8936,8 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     ]
   },
   {
-    "name": "?",
+    "name": "RC-PRD-096160-00",
     "type": "固鎖",
-    "products": [
-      "UX-19"
-    ]
-  },
-  {
-    "name": "UX-19 H",
-    "type": "軸心",
     "products": [
       "UX-19"
     ]
