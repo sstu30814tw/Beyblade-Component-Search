@@ -13,6 +13,7 @@ import type {
 } from "./types.js";
 
 const MAIN_JSON = "https://beyblade.phstudy.org/data/main.json";
+const HARDCODED_JSON = "https://beyblade.phstudy.org/data/hardcoded.json";
 const MULTILANG_JSON = "https://beyblade.phstudy.org/data/products_multilang.json";
 
 const OUTPUT = new URL(
@@ -94,12 +95,32 @@ function detectSeries(code: string): Series | null {
 
 async function main(): Promise<void> {
   console.log("[sync] fetching phstudy data…");
-  const [main, multilang] = await Promise.all([
+  const [mainJson, hardcodedJson, multilang] = await Promise.all([
     fetchJson<RawMainJson>(MAIN_JSON),
+    fetchJson<RawMainJson>(HARDCODED_JSON),
     fetchJson<RawMultilangProduct[]>(MULTILANG_JSON),
   ]);
 
-  const data = main.data;
+  // Merge hardcoded.json into main.json. hardcoded wins on conflicts
+  // (it's phstudy's override/pre-release table for upcoming products).
+  const data: RawMainJson["data"] = {};
+  const collections: Array<keyof RawMainJson["data"]> = [
+    "BeybladePartsBit",
+    "BeybladePartsBlade",
+    "BeybladePartsMainBlade",
+    "BeybladePartsAssistBlade",
+    "BeybladePartsLockChip",
+    "BeybladePartsRatchet",
+    "BeybladePartsMetalBlade",
+    "BeybladePartsOverBlade",
+    "BeybladeSeries",
+  ];
+  for (const key of collections) {
+    (data as Record<string, Record<string, RawPartCommon>>)[key] = {
+      ...(mainJson.data[key] ?? {}),
+      ...(hardcodedJson.data[key] ?? {}),
+    };
+  }
   const series = data.BeybladeSeries ?? {};
 
   // Build category lookup by product code (e.g. "BX-01" → "入門組")

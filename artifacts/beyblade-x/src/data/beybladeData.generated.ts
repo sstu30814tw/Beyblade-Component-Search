@@ -4,7 +4,7 @@
  *
  * Source: https://beyblade.phstudy.org/data/ (mirrors TAKARA TOMY official JSON)
  * Filter: only products with zh-TW visibility (台灣上市) are included.
- * Generated at: 2026-04-20T13:29:06.562Z
+ * Generated at: 2026-04-20T14:00:33.425Z
  */
 
 import type { Part, Product } from "./beybladeDataTypes";
@@ -3401,6 +3401,390 @@ export const generatedProducts: readonly Product[] = [
     "releaseAt": "2025-04-25T15:00:00.000Z"
   },
   {
+    "id": "SR-PRD-980858-01",
+    "code": "BXG-29-01",
+    "name": "SPIDER-MAN 3-60F",
+    "nameCn": "蜘蛛人 3-60F",
+    "series": "BXG",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "BXG-29-01 蜘蛛人",
+        "nameCn": "蜘蛛人",
+        "type": "戰刃"
+      },
+      {
+        "name": "BXG-29-01 3-60",
+        "type": "固鎖"
+      },
+      {
+        "name": "BXG-29-01 F",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2025-04-26T15:00:00.000Z"
+  },
+  {
+    "id": "SR-PRD-980858-02",
+    "code": "BXG-29-02",
+    "name": "VENOM 3-80N",
+    "nameCn": "猛毒 3-80N",
+    "series": "BXG",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "BXG-29-02 猛毒",
+        "nameCn": "猛毒",
+        "type": "戰刃"
+      },
+      {
+        "name": "BXG-29-02 3-80",
+        "type": "固鎖"
+      },
+      {
+        "name": "BXG-29-02 N",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2025-04-26T15:00:00.000Z"
+  },
+  {
+    "id": "SR-PRD-980841-01",
+    "code": "BXG-30-01",
+    "name": "IRON MAN 4-80B",
+    "nameCn": "鋼鐵人 4-80B",
+    "series": "BXG",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "BXG-30-01 鋼鐵人",
+        "nameCn": "鋼鐵人",
+        "type": "戰刃"
+      },
+      {
+        "name": "BXG-30-01 4-80",
+        "type": "固鎖"
+      },
+      {
+        "name": "BXG-30-01 B",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2025-04-26T15:00:00.000Z"
+  },
+  {
+    "id": "SR-PRD-980841-02",
+    "code": "BXG-30-02",
+    "name": "THANOS 4-60P",
+    "nameCn": "薩諾斯 4-60P",
+    "series": "BXG",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "BXG-30-02 薩諾斯",
+        "nameCn": "薩諾斯",
+        "type": "戰刃"
+      },
+      {
+        "name": "BXG-30-02 4-60",
+        "type": "固鎖"
+      },
+      {
+        "name": "BXG-30-02 N",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2025-04-26T15:00:00.000Z"
+  },
+  {
+    "id": "SR-PRD-982340-01",
+    "code": "BXG-33-01",
+    "name": "LUKE SKYWALKER 4-80B",
+    "nameCn": "路克天行者 4-80B",
+    "series": "BXG",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "BXG-33-01 路克天行者",
+        "nameCn": "路克天行者",
+        "type": "戰刃"
+      },
+      {
+        "name": "BXG-33-01 4-80",
+        "type": "固鎖"
+      },
+      {
+        "name": "BXG-33-01 B",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2025-04-26T15:00:00.000Z"
+  },
+  {
+    "id": "SR-PRD-982340-02",
+    "code": "BXG-33-02",
+    "name": "DARTH VADER 4-60P",
+    "nameCn": "達斯維達 4-60P",
+    "series": "BXG",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "BXG-33-02 達斯維達",
+        "nameCn": "達斯維達",
+        "type": "戰刃"
+      },
+      {
+        "name": "BXG-33-02 4-60",
+        "type": "固鎖"
+      },
+      {
+        "name": "BXG-33-02 P",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2025-04-26T15:00:00.000Z"
+  },
+  {
+    "id": "SR-PRD-982357-01",
+    "code": "BXG-34-01",
+    "name": "THE MANDALORIAN 3-60F",
+    "nameCn": "曼達洛人 3-60F",
+    "series": "BXG",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "BXG-34-01 曼達洛人",
+        "nameCn": "曼達洛人",
+        "type": "戰刃"
+      },
+      {
+        "name": "BXG-34-01 3-60",
+        "type": "固鎖"
+      },
+      {
+        "name": "BXG-34-01 F",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2025-04-26T15:00:00.000Z"
+  },
+  {
+    "id": "SR-PRD-982357-02",
+    "code": "BXG-34-02",
+    "name": "MOFF GIDEON 3-80N",
+    "nameCn": "星區長吉迪恩 3-80N",
+    "series": "BXG",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "BXG-34-02 星區長吉迪恩",
+        "nameCn": "星區長吉迪恩",
+        "type": "戰刃"
+      },
+      {
+        "name": "BXG-34-02 3-80",
+        "type": "固鎖"
+      },
+      {
+        "name": "BXG-34-02 N",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2025-04-26T15:00:00.000Z"
+  },
+  {
+    "id": "SR-PRD-982456-01",
+    "code": "BXG-36-01",
+    "name": "OPTIMUS PRIME 4-60P",
+    "nameCn": "柯博文 4-60P",
+    "series": "BXG",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "BXG-36-01 柯博文",
+        "nameCn": "柯博文",
+        "type": "戰刃"
+      },
+      {
+        "name": "BXG-36-01 4-60",
+        "type": "固鎖"
+      },
+      {
+        "name": "BXG-36-01 P",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2025-05-17T15:00:00.000Z"
+  },
+  {
+    "id": "SR-PRD-982456-02",
+    "code": "BXG-36-02",
+    "name": "MEGATRON 4-80B",
+    "nameCn": "密卡登 4-80B",
+    "series": "BXG",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "BXG-36-02 密卡登",
+        "nameCn": "密卡登",
+        "type": "戰刃"
+      },
+      {
+        "name": "BXG-36-02 4-80",
+        "type": "固鎖"
+      },
+      {
+        "name": "BXG-36-02 B",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2025-05-17T15:00:00.000Z"
+  },
+  {
+    "id": "SR-PRD-982487-01",
+    "code": "BXG-37-01",
+    "name": "OPTIMUS PRIMAL 3-60F",
+    "nameCn": "金剛王 3-60F",
+    "series": "BXG",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "BXG-37-01 金剛王",
+        "nameCn": "金剛王",
+        "type": "戰刃"
+      },
+      {
+        "name": "BXG-37-01 3-60",
+        "type": "固鎖"
+      },
+      {
+        "name": "BXG-37-01 F",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2025-05-17T15:00:00.000Z"
+  },
+  {
+    "id": "SR-PRD-982487-02",
+    "code": "BXG-37-02",
+    "name": "STARSCREAM 3-80N",
+    "nameCn": "天王星 3-80N",
+    "series": "BXG",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "BXG-37-02 天王星",
+        "nameCn": "天王星",
+        "type": "戰刃"
+      },
+      {
+        "name": "BXG-37-02 3-80",
+        "type": "固鎖"
+      },
+      {
+        "name": "BXG-37-02 N",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2025-05-17T15:00:00.000Z"
+  },
+  {
+    "id": "SR-PRD-749987-01",
+    "code": "BXG-40-01",
+    "name": "JURASSIC WORLD T-REX 1-80GB",
+    "nameCn": "暴龍 1-80GB",
+    "series": "BXG",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "BXG-40-01 暴龍",
+        "nameCn": "暴龍",
+        "type": "戰刃"
+      },
+      {
+        "name": "BXG-40-01 1-80",
+        "type": "固鎖"
+      },
+      {
+        "name": "BXG-40-01 GB",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2025-07-19T15:00:00.000Z"
+  },
+  {
+    "id": "SR-PRD-749987-02",
+    "code": "BXG-40-02",
+    "name": "JURASSIC WORLD MOSASAURUS 9-60U",
+    "nameCn": "滄龍 9-60U",
+    "series": "BXG",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "BXG-40-02 滄龍",
+        "nameCn": "滄龍",
+        "type": "戰刃"
+      },
+      {
+        "name": "BXG-40-02 9-60",
+        "type": "固鎖"
+      },
+      {
+        "name": "BXG-40-02 U",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2025-07-19T15:00:00.000Z"
+  },
+  {
+    "id": "SR-PRD-989002-02",
+    "code": "BXG-41-02",
+    "name": "JURASSIC WORLD QUETZALCOATLUS 4-55D",
+    "nameCn": "棘龍 4-55D",
+    "series": "BXG",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "BXG-41-02 棘龍",
+        "nameCn": "棘龍",
+        "type": "戰刃"
+      },
+      {
+        "name": "BXG-41-02 4-55",
+        "type": "固鎖"
+      },
+      {
+        "name": "BXG-41-02 D",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2025-07-19T15:00:00.000Z"
+  },
+  {
+    "id": "SR-PRD-989002-01",
+    "code": "BXG-41-01",
+    "name": "JURASSIC WORLD SPINOSAURUS 3-85A",
+    "nameCn": "翼龍 3-85A",
+    "series": "BXG",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "BXG-41-01 翼龍",
+        "nameCn": "翼龍",
+        "type": "戰刃"
+      },
+      {
+        "name": "BXG-41-01 3-85",
+        "type": "固鎖"
+      },
+      {
+        "name": "BXG-41-01 A",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2025-07-19T15:00:00.000Z"
+  },
+  {
     "id": "SR-EVE-982524-01",
     "code": "BXH-16",
     "name": "DRANBRAVES 6-60V Metallic Coat: Gold",
@@ -5049,6 +5433,743 @@ export const generatedProducts: readonly Product[] = [
       }
     ],
     "releaseAt": "2026-03-27T15:00:00.000Z"
+  },
+  {
+    "id": "SR-PRD-305732-01",
+    "code": "BX-00-01",
+    "name": "OBI-WAN KENOBI 4-60P",
+    "nameCn": "歐比王肯諾比 4-60P",
+    "series": "BX",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "BX-00-01 歐比王肯諾比",
+        "nameCn": "歐比王肯諾比",
+        "type": "戰刃"
+      },
+      {
+        "name": "BX-00-01 4-60",
+        "type": "固鎖"
+      },
+      {
+        "name": "BX-00-01 P",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2025-08-20T15:00:00.000Z"
+  },
+  {
+    "id": "SR-PRD-305732-02",
+    "code": "BX-00-01",
+    "name": "GENERAL GRIEVOUS 3-80HN",
+    "nameCn": "葛里維斯將軍 3-80HN",
+    "series": "BX",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "BX-00-01 葛里維斯將軍",
+        "nameCn": "葛里維斯將軍",
+        "type": "戰刃"
+      },
+      {
+        "name": "BX-00-01 3-80",
+        "type": "固鎖"
+      },
+      {
+        "name": "BX-00-01 HN",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2025-08-20T15:00:00.000Z"
+  },
+  {
+    "id": "SR-PRD-305749-01",
+    "code": "BX-00-02",
+    "name": "CHEWBACCA 4-80LF",
+    "nameCn": "丘巴卡 4-80LF",
+    "series": "BX",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "BX-00-02 丘巴卡",
+        "nameCn": "丘巴卡",
+        "type": "戰刃"
+      },
+      {
+        "name": "BX-00-02 4-80",
+        "type": "固鎖"
+      },
+      {
+        "name": "BX-00-02 LF",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2025-08-31T15:00:00.000Z"
+  },
+  {
+    "id": "SR-PRD-305749-02",
+    "code": "BX-00-02",
+    "name": "STORMTROOPER 5-70B",
+    "nameCn": "風暴兵 5-70B",
+    "series": "BX",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "BX-00-02 風暴兵",
+        "nameCn": "風暴兵",
+        "type": "戰刃"
+      },
+      {
+        "name": "BX-00-02 5-70",
+        "type": "固鎖"
+      },
+      {
+        "name": "BX-00-02 B",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2025-08-31T15:00:00.000Z"
+  },
+  {
+    "id": "SR-PRD-305718-01",
+    "code": "BX-00-03",
+    "name": "CAPTAIN AMERICA 4-70GB",
+    "nameCn": "美國隊長 4-70GB",
+    "series": "BX",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "BX-00-03 美國隊長",
+        "nameCn": "美國隊長",
+        "type": "戰刃"
+      },
+      {
+        "name": "BX-00-03 4-70",
+        "type": "固鎖"
+      },
+      {
+        "name": "BX-00-03 GB",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2025-09-02T15:00:00.000Z"
+  },
+  {
+    "id": "SR-PRD-305718-02",
+    "code": "BX-00-03",
+    "name": "RED HULK 1-80R",
+    "nameCn": "紅浩克 1-80R",
+    "series": "BX",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "BX-00-03 紅浩克",
+        "nameCn": "紅浩克",
+        "type": "戰刃"
+      },
+      {
+        "name": "BX-00-03 1-80",
+        "type": "固鎖"
+      },
+      {
+        "name": "BX-00-03 R",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2025-09-02T15:00:00.000Z"
+  },
+  {
+    "id": "SR-PRD-305725-01",
+    "code": "BX-00-04",
+    "name": "MILES MORALES 1-60GN",
+    "nameCn": "終極蜘蛛人 1-60GN",
+    "series": "BX",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "BX-00-04 終極蜘蛛人",
+        "nameCn": "終極蜘蛛人",
+        "type": "戰刃"
+      },
+      {
+        "name": "BX-00-04 1-60",
+        "type": "固鎖"
+      },
+      {
+        "name": "BX-00-04 GN",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2025-09-23T15:00:00.000Z"
+  },
+  {
+    "id": "SR-PRD-305725-02",
+    "code": "BX-00-04",
+    "name": "GREEN GOBLIN 9-80HT",
+    "nameCn": "綠惡魔 9-80HT",
+    "series": "BX",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "BX-00-04 綠惡魔",
+        "nameCn": "綠惡魔",
+        "type": "戰刃"
+      },
+      {
+        "name": "BX-00-04 9-80",
+        "type": "固鎖"
+      },
+      {
+        "name": "BX-00-04 HT",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2025-09-23T15:00:00.000Z"
+  },
+  {
+    "id": "SR-PRD-096122-00",
+    "code": "BX-49",
+    "name": "DranStrike 4-50FF",
+    "nameCn": "蒼龍突擊 4-50FF",
+    "series": "BX",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "BX-49 蒼龍突擊",
+        "nameCn": "蒼龍突擊",
+        "type": "戰刃"
+      },
+      {
+        "name": "BX-49 4-50",
+        "type": "固鎖"
+      },
+      {
+        "name": "BX-49 FF",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2026-05-15T15:00:00.000Z"
+  },
+  {
+    "id": "SR-PRD-080572-00",
+    "code": "BXG-51",
+    "name": "DRANBRAVE S6-60V Metallic Coat: Black",
+    "nameCn": "蒼龍勇氣 S6-60V 金屬塗層:黑色",
+    "series": "BXG",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "BXG-51 蒼龍勇氣 S 金屬塗層:黑色",
+        "nameCn": "蒼龍勇氣 S",
+        "type": "戰刃"
+      },
+      {
+        "name": "BXG-51 蒼龍",
+        "nameCn": "蒼龍",
+        "type": "紋章鎖"
+      },
+      {
+        "name": "BXG-51 勇氣",
+        "nameCn": "勇氣",
+        "type": "主要戰刃"
+      },
+      {
+        "name": "BXG-51 6-60",
+        "type": "固鎖"
+      },
+      {
+        "name": "BXG-51 S",
+        "type": "輔助戰刃"
+      },
+      {
+        "name": "BXG-51 V",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2026-05-29T15:00:00.000Z"
+  },
+  {
+    "id": "SR-PRD-975731-00",
+    "code": "BXG-54",
+    "name": "WARRIORSABER 5-60K Metal Coat: Samurai Blue Soccer Japan National Team Ver.",
+    "nameCn": "武士星劍 5-60K 金屬塗層：武士藍 足球日本國家代表隊版",
+    "series": "BXG",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "BXG-54 武士星劍 金屬塗層：武士藍 足球日本國家代表隊版",
+        "nameCn": "武士星劍",
+        "type": "戰刃"
+      },
+      {
+        "name": "BXG-54 5-60",
+        "type": "固鎖"
+      },
+      {
+        "name": "BXG-54 K",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2026-06-12T15:00:00.000Z"
+  },
+  {
+    "id": "SR-PRD-085683-01",
+    "code": "BXG-57-01",
+    "name": "EvaArc B0-70E Unit-00 Ver.",
+    "nameCn": "福音戰士至尊 B0-70E 零號機版本",
+    "series": "BXG",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "BXG-57-01 福音戰士至尊 B 零號機版本",
+        "nameCn": "福音戰士至尊 B 零號機版本",
+        "type": "戰刃"
+      },
+      {
+        "name": "BXG-57-01 福音戰士",
+        "nameCn": "福音戰士",
+        "type": "紋章鎖"
+      },
+      {
+        "name": "BXG-57-01 至尊",
+        "nameCn": "至尊",
+        "type": "主要戰刃"
+      },
+      {
+        "name": "BXG-57-01 0-70",
+        "type": "固鎖"
+      },
+      {
+        "name": "BXG-57-01 B",
+        "type": "輔助戰刃"
+      },
+      {
+        "name": "BXG-57-01 E",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2029-08-28T15:00:00.000Z"
+  },
+  {
+    "id": "SR-PRD-085683-02",
+    "code": "BXG-57-02",
+    "name": "EvaBrave A1-70V Unit-01 Ver.",
+    "nameCn": "福音戰士勇氣 A1-70V 初號機版本",
+    "series": "BXG",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "BXG-57-02 福音戰士勇氣 A 初號機版本",
+        "nameCn": "福音戰士勇氣 A 初號機版本",
+        "type": "戰刃"
+      },
+      {
+        "name": "BXG-57-02 福音戰士",
+        "nameCn": "福音戰士",
+        "type": "紋章鎖"
+      },
+      {
+        "name": "BXG-57-02 勇氣",
+        "nameCn": "勇氣",
+        "type": "主要戰刃"
+      },
+      {
+        "name": "BXG-57-02 1-70",
+        "type": "固鎖"
+      },
+      {
+        "name": "BXG-57-02 A",
+        "type": "輔助戰刃"
+      },
+      {
+        "name": "BXG-57-02 V",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2029-08-28T15:00:00.000Z"
+  },
+  {
+    "id": "SR-PRD-085683-03",
+    "code": "BXG-57-03",
+    "name": "EvaBrush T2-70A Unit-02 Ver.",
+    "nameCn": "福音戰士九尾 T2-70A ２號機版本",
+    "series": "BXG",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "BXG-57-03 福音戰士九尾 T ２號機版本",
+        "nameCn": "福音戰士九尾 T ２號機版本",
+        "type": "戰刃"
+      },
+      {
+        "name": "BXG-57-03 福音戰士",
+        "nameCn": "福音戰士",
+        "type": "紋章鎖"
+      },
+      {
+        "name": "BXG-57-03 九尾",
+        "nameCn": "九尾",
+        "type": "主要戰刃"
+      },
+      {
+        "name": "BXG-57-03 2-70",
+        "type": "固鎖"
+      },
+      {
+        "name": "BXG-57-03 T",
+        "type": "輔助戰刃"
+      },
+      {
+        "name": "BXG-57-03 A",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2029-08-28T15:00:00.000Z"
+  },
+  {
+    "id": "SR-PRD-814517-00",
+    "code": "BXG-61",
+    "name": "SCORPIOSPEAR 0-70Z Metal Coat: Magenta",
+    "nameCn": "天蠍長矛 0-70Z 金屬塗層:紫紅",
+    "series": "BXG",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "BXG-61 天蠍長矛 金屬塗層:紫紅",
+        "nameCn": "天蠍長矛",
+        "type": "戰刃"
+      },
+      {
+        "name": "BXG-61 0-70",
+        "type": "固鎖"
+      },
+      {
+        "name": "BXG-61 Z",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2026-04-24T15:00:00.000Z"
+  },
+  {
+    "id": "SR-PRD-777777-00",
+    "code": "BXH-00-01",
+    "name": "RAGNARAGEFE 4-55Y Metallic Coat: Gold",
+    "nameCn": "邪神狂怒 FE4-55Y 金屬塗層:燦金",
+    "series": "BXH",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "BXH-00-01 邪神狂怒FE 金屬塗層:燦金",
+        "nameCn": "邪神狂怒FE",
+        "type": "戰刃"
+      },
+      {
+        "name": "BXH-00-01 邪神",
+        "nameCn": "邪神",
+        "type": "紋章鎖"
+      },
+      {
+        "name": "BXH-00-01 狂怒",
+        "nameCn": "狂怒",
+        "type": "金屬戰刃"
+      },
+      {
+        "name": "BXH-00-01 F",
+        "nameCn": "邪神狂怒",
+        "type": "超越戰刃"
+      },
+      {
+        "name": "BXH-00-01 4-55",
+        "type": "固鎖"
+      },
+      {
+        "name": "BXH-00-01 E",
+        "type": "輔助戰刃"
+      },
+      {
+        "name": "BXH-00-01 Y",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2026-05-31T15:00:00.000Z"
+  },
+  {
+    "id": "SR-PRD-777778-01",
+    "code": "BXH-00-02",
+    "name": "DranStrike 4-50FF Metallic Coat: Gold",
+    "nameCn": "蒼龍突擊 4-50FF 金屬塗層:燦金",
+    "series": "BXH",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "BXH-00-02 蒼龍突擊 金屬塗層:燦金",
+        "nameCn": "蒼龍突擊",
+        "type": "戰刃"
+      },
+      {
+        "name": "BXH-00-02 4-50",
+        "type": "固鎖"
+      },
+      {
+        "name": "BXH-00-02 FF",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2026-05-05T15:00:00.000Z"
+  },
+  {
+    "id": "SR-PRD-777778-02",
+    "code": "BXH-00-02",
+    "name": "DranStrike 4-50FF Metallic Coat: Silver",
+    "nameCn": "蒼龍突擊 4-50FF 金屬塗層:白銀",
+    "series": "BXH",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "BXH-00-02 蒼龍突擊 金屬塗層:白銀",
+        "nameCn": "蒼龍突擊",
+        "type": "戰刃"
+      },
+      {
+        "name": "BXH-00-02 4-50",
+        "type": "固鎖"
+      },
+      {
+        "name": "BXH-00-02 FF",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2026-05-05T15:00:00.000Z"
+  },
+  {
+    "id": "SR-PRD-777778-03",
+    "code": "BXH-00-03",
+    "name": "DranStrike 4-50FF Metallic Coat: Bronze",
+    "nameCn": "蒼龍突擊 4-50FF 金屬塗層:黃銅",
+    "series": "BXH",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "BXH-00-03 蒼龍突擊 金屬塗層:黃銅",
+        "nameCn": "蒼龍突擊",
+        "type": "戰刃"
+      },
+      {
+        "name": "BXH-00-03 4-50",
+        "type": "固鎖"
+      },
+      {
+        "name": "BXH-00-03 FF",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2026-05-05T15:00:00.000Z"
+  },
+  {
+    "id": "SR-PRD-096146-01",
+    "code": "CX-17-01",
+    "name": "UnicornDelta PO3-60GU",
+    "nameCn": "獨角獸 Delta PO3-60GU",
+    "series": "CX",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "CX-17-01 獨角獸 Delta P",
+        "nameCn": "獨角獸 Delta P",
+        "type": "戰刃"
+      },
+      {
+        "name": "CX-17-01 獨角獸",
+        "nameCn": "獨角獸",
+        "type": "紋章鎖"
+      },
+      {
+        "name": "CX-17-01 Delta",
+        "nameCn": "獨角獸",
+        "type": "金屬戰刃"
+      },
+      {
+        "name": "CX-17-01 P",
+        "nameCn": "獨角獸",
+        "type": "超越戰刃"
+      },
+      {
+        "name": "CX-17-01 3-60",
+        "type": "固鎖"
+      },
+      {
+        "name": "CX-17-01 O",
+        "type": "輔助戰刃"
+      },
+      {
+        "name": "CX-17-01 GU",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2026-04-24T15:00:00.000Z"
+  },
+  {
+    "id": "SR-PRD-096146-02",
+    "code": "CX-17-02",
+    "name": "UnicornDelta PO1-80GR",
+    "nameCn": "獨角獸 Delta PO1-80GR",
+    "series": "CX",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "CX-17-02 獨角獸 Delta P",
+        "nameCn": "獨角獸 Delta P",
+        "type": "戰刃"
+      },
+      {
+        "name": "CX-17-02 獨角獸",
+        "nameCn": "獨角獸",
+        "type": "紋章鎖"
+      },
+      {
+        "name": "CX-17-02 Delta",
+        "nameCn": "獨角獸",
+        "type": "金屬戰刃"
+      },
+      {
+        "name": "CX-17-02 P",
+        "nameCn": "獨角獸",
+        "type": "超越戰刃"
+      },
+      {
+        "name": "CX-17-02 1-80",
+        "type": "固鎖"
+      },
+      {
+        "name": "CX-17-02 O",
+        "type": "輔助戰刃"
+      },
+      {
+        "name": "CX-17-02 GR",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2026-04-24T15:00:00.000Z"
+  },
+  {
+    "id": "SR-PRD-096146-03",
+    "code": "CX-17-03",
+    "name": "WARRIORSABER 9-65LO",
+    "nameCn": "武士星劍 9-65LO",
+    "series": "CX",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "CX-17-03 武士星劍",
+        "nameCn": "武士星劍",
+        "type": "戰刃"
+      },
+      {
+        "name": "CX-17-03 9-65",
+        "type": "固鎖"
+      },
+      {
+        "name": "CX-17-03 LO",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2026-04-24T15:00:00.000Z"
+  },
+  {
+    "id": "SR-PRD-096146-04",
+    "code": "CX-17-04",
+    "name": "HELLSHAMMER 3-85GU",
+    "nameCn": "惡魔重錘 3-85GU",
+    "series": "CX",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "CX-17-04 惡魔重錘",
+        "nameCn": "惡魔重錘",
+        "type": "戰刃"
+      },
+      {
+        "name": "CX-17-04 3-85",
+        "type": "固鎖"
+      },
+      {
+        "name": "CX-17-04 GU",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2026-04-24T15:00:00.000Z"
+  },
+  {
+    "id": "SR-PRD-096146-05",
+    "code": "CX-17-05",
+    "name": "TYRANNOBEAT 3-60N",
+    "nameCn": "暴龍霸擊 3-60N",
+    "series": "CX",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "CX-17-05 暴龍霸擊",
+        "nameCn": "暴龍霸擊",
+        "type": "戰刃"
+      },
+      {
+        "name": "CX-17-05 3-60",
+        "type": "固鎖"
+      },
+      {
+        "name": "CX-17-05 N",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2026-04-24T15:00:00.000Z"
+  },
+  {
+    "id": "SR-PRD-096146-06",
+    "code": "CX-17-06",
+    "name": "CRIMSONGARUDA 7-80GU",
+    "nameCn": "赫燃天鳳 7-80GU",
+    "series": "CX",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "CX-17-06 赫燃天鳳",
+        "nameCn": "赫燃天鳳",
+        "type": "戰刃"
+      },
+      {
+        "name": "CX-17-06 7-80",
+        "type": "固鎖"
+      },
+      {
+        "name": "CX-17-06 GU",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2026-04-24T15:00:00.000Z"
+  },
+  {
+    "id": "SR-PRD-096160-00",
+    "code": "UX-19",
+    "name": "BulletGriffon H",
+    "nameCn": "子彈獅鷲 H",
+    "series": "UX",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "UX-19 子彈獅鷲",
+        "nameCn": "子彈獅鷲",
+        "type": "戰刃"
+      },
+      {
+        "name": "?",
+        "type": "固鎖"
+      },
+      {
+        "name": "UX-19 H",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2026-04-24T15:00:00.000Z"
   }
 ] as const;
 
@@ -6439,6 +7560,358 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     ]
   },
   {
+    "name": "BXG-29-01 蜘蛛人",
+    "nameCn": "蜘蛛人",
+    "type": "戰刃",
+    "products": [
+      "BXG-29-01"
+    ]
+  },
+  {
+    "name": "BXG-29-01 3-60",
+    "type": "固鎖",
+    "products": [
+      "BXG-29-01"
+    ]
+  },
+  {
+    "name": "BXG-29-01 F",
+    "type": "軸心",
+    "products": [
+      "BXG-29-01"
+    ]
+  },
+  {
+    "name": "BXG-29-02 猛毒",
+    "nameCn": "猛毒",
+    "type": "戰刃",
+    "products": [
+      "BXG-29-02"
+    ]
+  },
+  {
+    "name": "BXG-29-02 3-80",
+    "type": "固鎖",
+    "products": [
+      "BXG-29-02"
+    ]
+  },
+  {
+    "name": "BXG-29-02 N",
+    "type": "軸心",
+    "products": [
+      "BXG-29-02"
+    ]
+  },
+  {
+    "name": "BXG-30-01 鋼鐵人",
+    "nameCn": "鋼鐵人",
+    "type": "戰刃",
+    "products": [
+      "BXG-30-01"
+    ]
+  },
+  {
+    "name": "BXG-30-01 4-80",
+    "type": "固鎖",
+    "products": [
+      "BXG-30-01"
+    ]
+  },
+  {
+    "name": "BXG-30-01 B",
+    "type": "軸心",
+    "products": [
+      "BXG-30-01"
+    ]
+  },
+  {
+    "name": "BXG-30-02 薩諾斯",
+    "nameCn": "薩諾斯",
+    "type": "戰刃",
+    "products": [
+      "BXG-30-02"
+    ]
+  },
+  {
+    "name": "BXG-30-02 4-60",
+    "type": "固鎖",
+    "products": [
+      "BXG-30-02"
+    ]
+  },
+  {
+    "name": "BXG-30-02 N",
+    "type": "軸心",
+    "products": [
+      "BXG-30-02"
+    ]
+  },
+  {
+    "name": "BXG-33-01 路克天行者",
+    "nameCn": "路克天行者",
+    "type": "戰刃",
+    "products": [
+      "BXG-33-01"
+    ]
+  },
+  {
+    "name": "BXG-33-01 4-80",
+    "type": "固鎖",
+    "products": [
+      "BXG-33-01"
+    ]
+  },
+  {
+    "name": "BXG-33-01 B",
+    "type": "軸心",
+    "products": [
+      "BXG-33-01"
+    ]
+  },
+  {
+    "name": "BXG-33-02 達斯維達",
+    "nameCn": "達斯維達",
+    "type": "戰刃",
+    "products": [
+      "BXG-33-02"
+    ]
+  },
+  {
+    "name": "BXG-33-02 4-60",
+    "type": "固鎖",
+    "products": [
+      "BXG-33-02"
+    ]
+  },
+  {
+    "name": "BXG-33-02 P",
+    "type": "軸心",
+    "products": [
+      "BXG-33-02"
+    ]
+  },
+  {
+    "name": "BXG-34-01 曼達洛人",
+    "nameCn": "曼達洛人",
+    "type": "戰刃",
+    "products": [
+      "BXG-34-01"
+    ]
+  },
+  {
+    "name": "BXG-34-01 3-60",
+    "type": "固鎖",
+    "products": [
+      "BXG-34-01"
+    ]
+  },
+  {
+    "name": "BXG-34-01 F",
+    "type": "軸心",
+    "products": [
+      "BXG-34-01"
+    ]
+  },
+  {
+    "name": "BXG-34-02 星區長吉迪恩",
+    "nameCn": "星區長吉迪恩",
+    "type": "戰刃",
+    "products": [
+      "BXG-34-02"
+    ]
+  },
+  {
+    "name": "BXG-34-02 3-80",
+    "type": "固鎖",
+    "products": [
+      "BXG-34-02"
+    ]
+  },
+  {
+    "name": "BXG-34-02 N",
+    "type": "軸心",
+    "products": [
+      "BXG-34-02"
+    ]
+  },
+  {
+    "name": "BXG-36-01 柯博文",
+    "nameCn": "柯博文",
+    "type": "戰刃",
+    "products": [
+      "BXG-36-01"
+    ]
+  },
+  {
+    "name": "BXG-36-01 4-60",
+    "type": "固鎖",
+    "products": [
+      "BXG-36-01"
+    ]
+  },
+  {
+    "name": "BXG-36-01 P",
+    "type": "軸心",
+    "products": [
+      "BXG-36-01"
+    ]
+  },
+  {
+    "name": "BXG-36-02 密卡登",
+    "nameCn": "密卡登",
+    "type": "戰刃",
+    "products": [
+      "BXG-36-02"
+    ]
+  },
+  {
+    "name": "BXG-36-02 4-80",
+    "type": "固鎖",
+    "products": [
+      "BXG-36-02"
+    ]
+  },
+  {
+    "name": "BXG-36-02 B",
+    "type": "軸心",
+    "products": [
+      "BXG-36-02"
+    ]
+  },
+  {
+    "name": "BXG-37-01 金剛王",
+    "nameCn": "金剛王",
+    "type": "戰刃",
+    "products": [
+      "BXG-37-01"
+    ]
+  },
+  {
+    "name": "BXG-37-01 3-60",
+    "type": "固鎖",
+    "products": [
+      "BXG-37-01"
+    ]
+  },
+  {
+    "name": "BXG-37-01 F",
+    "type": "軸心",
+    "products": [
+      "BXG-37-01"
+    ]
+  },
+  {
+    "name": "BXG-37-02 天王星",
+    "nameCn": "天王星",
+    "type": "戰刃",
+    "products": [
+      "BXG-37-02"
+    ]
+  },
+  {
+    "name": "BXG-37-02 3-80",
+    "type": "固鎖",
+    "products": [
+      "BXG-37-02"
+    ]
+  },
+  {
+    "name": "BXG-37-02 N",
+    "type": "軸心",
+    "products": [
+      "BXG-37-02"
+    ]
+  },
+  {
+    "name": "BXG-40-01 暴龍",
+    "nameCn": "暴龍",
+    "type": "戰刃",
+    "products": [
+      "BXG-40-01"
+    ]
+  },
+  {
+    "name": "BXG-40-01 1-80",
+    "type": "固鎖",
+    "products": [
+      "BXG-40-01"
+    ]
+  },
+  {
+    "name": "BXG-40-01 GB",
+    "type": "軸心",
+    "products": [
+      "BXG-40-01"
+    ]
+  },
+  {
+    "name": "BXG-40-02 滄龍",
+    "nameCn": "滄龍",
+    "type": "戰刃",
+    "products": [
+      "BXG-40-02"
+    ]
+  },
+  {
+    "name": "BXG-40-02 9-60",
+    "type": "固鎖",
+    "products": [
+      "BXG-40-02"
+    ]
+  },
+  {
+    "name": "BXG-40-02 U",
+    "type": "軸心",
+    "products": [
+      "BXG-40-02"
+    ]
+  },
+  {
+    "name": "BXG-41-02 棘龍",
+    "nameCn": "棘龍",
+    "type": "戰刃",
+    "products": [
+      "BXG-41-02"
+    ]
+  },
+  {
+    "name": "BXG-41-02 4-55",
+    "type": "固鎖",
+    "products": [
+      "BXG-41-02"
+    ]
+  },
+  {
+    "name": "BXG-41-02 D",
+    "type": "軸心",
+    "products": [
+      "BXG-41-02"
+    ]
+  },
+  {
+    "name": "BXG-41-01 翼龍",
+    "nameCn": "翼龍",
+    "type": "戰刃",
+    "products": [
+      "BXG-41-01"
+    ]
+  },
+  {
+    "name": "BXG-41-01 3-85",
+    "type": "固鎖",
+    "products": [
+      "BXG-41-01"
+    ]
+  },
+  {
+    "name": "BXG-41-01 A",
+    "type": "軸心",
+    "products": [
+      "BXG-41-01"
+    ]
+  },
+  {
     "name": "Foxbrushj",
     "nameCn": "極狐九尾J",
     "type": "戰刃",
@@ -7163,6 +8636,749 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "type": "戰刃",
     "products": [
       "BXG-21"
+    ]
+  },
+  {
+    "name": "BX-00-01 歐比王肯諾比",
+    "nameCn": "歐比王肯諾比",
+    "type": "戰刃",
+    "products": [
+      "BX-00-01"
+    ]
+  },
+  {
+    "name": "BX-00-01 4-60",
+    "type": "固鎖",
+    "products": [
+      "BX-00-01"
+    ]
+  },
+  {
+    "name": "BX-00-01 P",
+    "type": "軸心",
+    "products": [
+      "BX-00-01"
+    ]
+  },
+  {
+    "name": "BX-00-01 葛里維斯將軍",
+    "nameCn": "葛里維斯將軍",
+    "type": "戰刃",
+    "products": [
+      "BX-00-01"
+    ]
+  },
+  {
+    "name": "BX-00-01 3-80",
+    "type": "固鎖",
+    "products": [
+      "BX-00-01"
+    ]
+  },
+  {
+    "name": "BX-00-01 HN",
+    "type": "軸心",
+    "products": [
+      "BX-00-01"
+    ]
+  },
+  {
+    "name": "BX-00-02 丘巴卡",
+    "nameCn": "丘巴卡",
+    "type": "戰刃",
+    "products": [
+      "BX-00-02"
+    ]
+  },
+  {
+    "name": "BX-00-02 4-80",
+    "type": "固鎖",
+    "products": [
+      "BX-00-02"
+    ]
+  },
+  {
+    "name": "BX-00-02 LF",
+    "type": "軸心",
+    "products": [
+      "BX-00-02"
+    ]
+  },
+  {
+    "name": "BX-00-02 風暴兵",
+    "nameCn": "風暴兵",
+    "type": "戰刃",
+    "products": [
+      "BX-00-02"
+    ]
+  },
+  {
+    "name": "BX-00-02 5-70",
+    "type": "固鎖",
+    "products": [
+      "BX-00-02"
+    ]
+  },
+  {
+    "name": "BX-00-02 B",
+    "type": "軸心",
+    "products": [
+      "BX-00-02"
+    ]
+  },
+  {
+    "name": "BX-00-03 美國隊長",
+    "nameCn": "美國隊長",
+    "type": "戰刃",
+    "products": [
+      "BX-00-03"
+    ]
+  },
+  {
+    "name": "BX-00-03 4-70",
+    "type": "固鎖",
+    "products": [
+      "BX-00-03"
+    ]
+  },
+  {
+    "name": "BX-00-03 GB",
+    "type": "軸心",
+    "products": [
+      "BX-00-03"
+    ]
+  },
+  {
+    "name": "BX-00-03 紅浩克",
+    "nameCn": "紅浩克",
+    "type": "戰刃",
+    "products": [
+      "BX-00-03"
+    ]
+  },
+  {
+    "name": "BX-00-03 1-80",
+    "type": "固鎖",
+    "products": [
+      "BX-00-03"
+    ]
+  },
+  {
+    "name": "BX-00-03 R",
+    "type": "軸心",
+    "products": [
+      "BX-00-03"
+    ]
+  },
+  {
+    "name": "BX-00-04 終極蜘蛛人",
+    "nameCn": "終極蜘蛛人",
+    "type": "戰刃",
+    "products": [
+      "BX-00-04"
+    ]
+  },
+  {
+    "name": "BX-00-04 1-60",
+    "type": "固鎖",
+    "products": [
+      "BX-00-04"
+    ]
+  },
+  {
+    "name": "BX-00-04 GN",
+    "type": "軸心",
+    "products": [
+      "BX-00-04"
+    ]
+  },
+  {
+    "name": "BX-00-04 綠惡魔",
+    "nameCn": "綠惡魔",
+    "type": "戰刃",
+    "products": [
+      "BX-00-04"
+    ]
+  },
+  {
+    "name": "BX-00-04 9-80",
+    "type": "固鎖",
+    "products": [
+      "BX-00-04"
+    ]
+  },
+  {
+    "name": "BX-00-04 HT",
+    "type": "軸心",
+    "products": [
+      "BX-00-04"
+    ]
+  },
+  {
+    "name": "BX-49 蒼龍突擊",
+    "nameCn": "蒼龍突擊",
+    "type": "戰刃",
+    "products": [
+      "BX-49"
+    ]
+  },
+  {
+    "name": "BX-49 4-50",
+    "type": "固鎖",
+    "products": [
+      "BX-49"
+    ]
+  },
+  {
+    "name": "BX-49 FF",
+    "type": "軸心",
+    "products": [
+      "BX-49"
+    ]
+  },
+  {
+    "name": "BXG-51 蒼龍勇氣 S 金屬塗層:黑色",
+    "nameCn": "蒼龍勇氣 S",
+    "type": "戰刃",
+    "products": [
+      "BXG-51"
+    ]
+  },
+  {
+    "name": "BXG-51 蒼龍",
+    "nameCn": "蒼龍",
+    "type": "紋章鎖",
+    "products": [
+      "BXG-51"
+    ]
+  },
+  {
+    "name": "BXG-51 勇氣",
+    "nameCn": "勇氣",
+    "type": "主要戰刃",
+    "products": [
+      "BXG-51"
+    ]
+  },
+  {
+    "name": "BXG-51 6-60",
+    "type": "固鎖",
+    "products": [
+      "BXG-51"
+    ]
+  },
+  {
+    "name": "BXG-51 S",
+    "type": "輔助戰刃",
+    "products": [
+      "BXG-51"
+    ]
+  },
+  {
+    "name": "BXG-51 V",
+    "type": "軸心",
+    "products": [
+      "BXG-51"
+    ]
+  },
+  {
+    "name": "BXG-54 武士星劍 金屬塗層：武士藍 足球日本國家代表隊版",
+    "nameCn": "武士星劍",
+    "type": "戰刃",
+    "products": [
+      "BXG-54"
+    ]
+  },
+  {
+    "name": "BXG-54 5-60",
+    "type": "固鎖",
+    "products": [
+      "BXG-54"
+    ]
+  },
+  {
+    "name": "BXG-54 K",
+    "type": "軸心",
+    "products": [
+      "BXG-54"
+    ]
+  },
+  {
+    "name": "BXG-57-01 福音戰士至尊 B 零號機版本",
+    "nameCn": "福音戰士至尊 B 零號機版本",
+    "type": "戰刃",
+    "products": [
+      "BXG-57-01"
+    ]
+  },
+  {
+    "name": "BXG-57-01 福音戰士",
+    "nameCn": "福音戰士",
+    "type": "紋章鎖",
+    "products": [
+      "BXG-57-01"
+    ]
+  },
+  {
+    "name": "BXG-57-01 至尊",
+    "nameCn": "至尊",
+    "type": "主要戰刃",
+    "products": [
+      "BXG-57-01"
+    ]
+  },
+  {
+    "name": "BXG-57-01 0-70",
+    "type": "固鎖",
+    "products": [
+      "BXG-57-01"
+    ]
+  },
+  {
+    "name": "BXG-57-01 B",
+    "type": "輔助戰刃",
+    "products": [
+      "BXG-57-01"
+    ]
+  },
+  {
+    "name": "BXG-57-01 E",
+    "type": "軸心",
+    "products": [
+      "BXG-57-01"
+    ]
+  },
+  {
+    "name": "BXG-57-02 福音戰士勇氣 A 初號機版本",
+    "nameCn": "福音戰士勇氣 A 初號機版本",
+    "type": "戰刃",
+    "products": [
+      "BXG-57-02"
+    ]
+  },
+  {
+    "name": "BXG-57-02 福音戰士",
+    "nameCn": "福音戰士",
+    "type": "紋章鎖",
+    "products": [
+      "BXG-57-02"
+    ]
+  },
+  {
+    "name": "BXG-57-02 勇氣",
+    "nameCn": "勇氣",
+    "type": "主要戰刃",
+    "products": [
+      "BXG-57-02"
+    ]
+  },
+  {
+    "name": "BXG-57-02 1-70",
+    "type": "固鎖",
+    "products": [
+      "BXG-57-02"
+    ]
+  },
+  {
+    "name": "BXG-57-02 A",
+    "type": "輔助戰刃",
+    "products": [
+      "BXG-57-02"
+    ]
+  },
+  {
+    "name": "BXG-57-02 V",
+    "type": "軸心",
+    "products": [
+      "BXG-57-02"
+    ]
+  },
+  {
+    "name": "BXG-57-03 福音戰士九尾 T ２號機版本",
+    "nameCn": "福音戰士九尾 T ２號機版本",
+    "type": "戰刃",
+    "products": [
+      "BXG-57-03"
+    ]
+  },
+  {
+    "name": "BXG-57-03 福音戰士",
+    "nameCn": "福音戰士",
+    "type": "紋章鎖",
+    "products": [
+      "BXG-57-03"
+    ]
+  },
+  {
+    "name": "BXG-57-03 九尾",
+    "nameCn": "九尾",
+    "type": "主要戰刃",
+    "products": [
+      "BXG-57-03"
+    ]
+  },
+  {
+    "name": "BXG-57-03 2-70",
+    "type": "固鎖",
+    "products": [
+      "BXG-57-03"
+    ]
+  },
+  {
+    "name": "BXG-57-03 T",
+    "type": "輔助戰刃",
+    "products": [
+      "BXG-57-03"
+    ]
+  },
+  {
+    "name": "BXG-57-03 A",
+    "type": "軸心",
+    "products": [
+      "BXG-57-03"
+    ]
+  },
+  {
+    "name": "BXG-61 天蠍長矛 金屬塗層:紫紅",
+    "nameCn": "天蠍長矛",
+    "type": "戰刃",
+    "products": [
+      "BXG-61"
+    ]
+  },
+  {
+    "name": "BXG-61 0-70",
+    "type": "固鎖",
+    "products": [
+      "BXG-61"
+    ]
+  },
+  {
+    "name": "BXG-61 Z",
+    "type": "軸心",
+    "products": [
+      "BXG-61"
+    ]
+  },
+  {
+    "name": "BXH-00-01 邪神狂怒FE 金屬塗層:燦金",
+    "nameCn": "邪神狂怒FE",
+    "type": "戰刃",
+    "products": [
+      "BXH-00-01"
+    ]
+  },
+  {
+    "name": "BXH-00-01 邪神",
+    "nameCn": "邪神",
+    "type": "紋章鎖",
+    "products": [
+      "BXH-00-01"
+    ]
+  },
+  {
+    "name": "BXH-00-01 狂怒",
+    "nameCn": "狂怒",
+    "type": "金屬戰刃",
+    "products": [
+      "BXH-00-01"
+    ]
+  },
+  {
+    "name": "BXH-00-01 F",
+    "nameCn": "邪神狂怒",
+    "type": "超越戰刃",
+    "products": [
+      "BXH-00-01"
+    ]
+  },
+  {
+    "name": "BXH-00-01 4-55",
+    "type": "固鎖",
+    "products": [
+      "BXH-00-01"
+    ]
+  },
+  {
+    "name": "BXH-00-01 E",
+    "type": "輔助戰刃",
+    "products": [
+      "BXH-00-01"
+    ]
+  },
+  {
+    "name": "BXH-00-01 Y",
+    "type": "軸心",
+    "products": [
+      "BXH-00-01"
+    ]
+  },
+  {
+    "name": "BXH-00-02 蒼龍突擊 金屬塗層:燦金",
+    "nameCn": "蒼龍突擊",
+    "type": "戰刃",
+    "products": [
+      "BXH-00-02"
+    ]
+  },
+  {
+    "name": "BXH-00-02 4-50",
+    "type": "固鎖",
+    "products": [
+      "BXH-00-02"
+    ]
+  },
+  {
+    "name": "BXH-00-02 FF",
+    "type": "軸心",
+    "products": [
+      "BXH-00-02"
+    ]
+  },
+  {
+    "name": "BXH-00-02 蒼龍突擊 金屬塗層:白銀",
+    "nameCn": "蒼龍突擊",
+    "type": "戰刃",
+    "products": [
+      "BXH-00-02"
+    ]
+  },
+  {
+    "name": "BXH-00-03 蒼龍突擊 金屬塗層:黃銅",
+    "nameCn": "蒼龍突擊",
+    "type": "戰刃",
+    "products": [
+      "BXH-00-03"
+    ]
+  },
+  {
+    "name": "BXH-00-03 4-50",
+    "type": "固鎖",
+    "products": [
+      "BXH-00-03"
+    ]
+  },
+  {
+    "name": "BXH-00-03 FF",
+    "type": "軸心",
+    "products": [
+      "BXH-00-03"
+    ]
+  },
+  {
+    "name": "CX-17-01 獨角獸 Delta P",
+    "nameCn": "獨角獸 Delta P",
+    "type": "戰刃",
+    "products": [
+      "CX-17-01"
+    ]
+  },
+  {
+    "name": "CX-17-01 獨角獸",
+    "nameCn": "獨角獸",
+    "type": "紋章鎖",
+    "products": [
+      "CX-17-01"
+    ]
+  },
+  {
+    "name": "CX-17-01 Delta",
+    "nameCn": "獨角獸",
+    "type": "金屬戰刃",
+    "products": [
+      "CX-17-01"
+    ]
+  },
+  {
+    "name": "CX-17-01 P",
+    "nameCn": "獨角獸",
+    "type": "超越戰刃",
+    "products": [
+      "CX-17-01"
+    ]
+  },
+  {
+    "name": "CX-17-01 3-60",
+    "type": "固鎖",
+    "products": [
+      "CX-17-01"
+    ]
+  },
+  {
+    "name": "CX-17-01 O",
+    "type": "輔助戰刃",
+    "products": [
+      "CX-17-01"
+    ]
+  },
+  {
+    "name": "CX-17-01 GU",
+    "type": "軸心",
+    "products": [
+      "CX-17-01"
+    ]
+  },
+  {
+    "name": "CX-17-02 獨角獸 Delta P",
+    "nameCn": "獨角獸 Delta P",
+    "type": "戰刃",
+    "products": [
+      "CX-17-02"
+    ]
+  },
+  {
+    "name": "CX-17-02 獨角獸",
+    "nameCn": "獨角獸",
+    "type": "紋章鎖",
+    "products": [
+      "CX-17-02"
+    ]
+  },
+  {
+    "name": "CX-17-02 Delta",
+    "nameCn": "獨角獸",
+    "type": "金屬戰刃",
+    "products": [
+      "CX-17-02"
+    ]
+  },
+  {
+    "name": "CX-17-02 P",
+    "nameCn": "獨角獸",
+    "type": "超越戰刃",
+    "products": [
+      "CX-17-02"
+    ]
+  },
+  {
+    "name": "CX-17-02 1-80",
+    "type": "固鎖",
+    "products": [
+      "CX-17-02"
+    ]
+  },
+  {
+    "name": "CX-17-02 O",
+    "type": "輔助戰刃",
+    "products": [
+      "CX-17-02"
+    ]
+  },
+  {
+    "name": "CX-17-02 GR",
+    "type": "軸心",
+    "products": [
+      "CX-17-02"
+    ]
+  },
+  {
+    "name": "CX-17-03 武士星劍",
+    "nameCn": "武士星劍",
+    "type": "戰刃",
+    "products": [
+      "CX-17-03"
+    ]
+  },
+  {
+    "name": "CX-17-03 9-65",
+    "type": "固鎖",
+    "products": [
+      "CX-17-03"
+    ]
+  },
+  {
+    "name": "CX-17-03 LO",
+    "type": "軸心",
+    "products": [
+      "CX-17-03"
+    ]
+  },
+  {
+    "name": "CX-17-04 惡魔重錘",
+    "nameCn": "惡魔重錘",
+    "type": "戰刃",
+    "products": [
+      "CX-17-04"
+    ]
+  },
+  {
+    "name": "CX-17-04 3-85",
+    "type": "固鎖",
+    "products": [
+      "CX-17-04"
+    ]
+  },
+  {
+    "name": "CX-17-04 GU",
+    "type": "軸心",
+    "products": [
+      "CX-17-04"
+    ]
+  },
+  {
+    "name": "CX-17-05 暴龍霸擊",
+    "nameCn": "暴龍霸擊",
+    "type": "戰刃",
+    "products": [
+      "CX-17-05"
+    ]
+  },
+  {
+    "name": "CX-17-05 3-60",
+    "type": "固鎖",
+    "products": [
+      "CX-17-05"
+    ]
+  },
+  {
+    "name": "CX-17-05 N",
+    "type": "軸心",
+    "products": [
+      "CX-17-05"
+    ]
+  },
+  {
+    "name": "CX-17-06 赫燃天鳳",
+    "nameCn": "赫燃天鳳",
+    "type": "戰刃",
+    "products": [
+      "CX-17-06"
+    ]
+  },
+  {
+    "name": "CX-17-06 7-80",
+    "type": "固鎖",
+    "products": [
+      "CX-17-06"
+    ]
+  },
+  {
+    "name": "CX-17-06 GU",
+    "type": "軸心",
+    "products": [
+      "CX-17-06"
+    ]
+  },
+  {
+    "name": "UX-19 子彈獅鷲",
+    "nameCn": "子彈獅鷲",
+    "type": "戰刃",
+    "products": [
+      "UX-19"
+    ]
+  },
+  {
+    "name": "?",
+    "type": "固鎖",
+    "products": [
+      "UX-19"
+    ]
+  },
+  {
+    "name": "UX-19 H",
+    "type": "軸心",
+    "products": [
+      "UX-19"
     ]
   }
 ] as const;
