@@ -4,7 +4,7 @@
  *
  * Source: https://beyblade.phstudy.org/data/ (mirrors TAKARA TOMY official JSON)
  * Filter: only products with zh-TW visibility (台灣上市) are included.
- * Generated at: 2026-04-20T14:10:12.291Z
+ * Generated at: 2026-09-07T05:30:56.408Z
  */
 
 import type { Part, Product } from "./beybladeDataTypes";
@@ -166,7 +166,7 @@ export const generatedProducts: readonly Product[] = [
     "name": "DRANZERSPIRAL 3-80T",
     "nameCn": "烈焰飛鳳 S3-80T",
     "series": "BXG",
-    "productType": "其他",
+    "productType": "補充包",
     "parts": [
       {
         "name": "Dranzerspiral",
@@ -341,7 +341,7 @@ export const generatedProducts: readonly Product[] = [
     "name": "HELLSSCYTHE 4-60T Metallic Coat: Gold",
     "nameCn": "惡魔紅鐮 4-60T 金屬塗層:燦金",
     "series": "BXG",
-    "productType": "其他",
+    "productType": "補充包",
     "parts": [
       {
         "name": "HellsScythe",
@@ -1166,7 +1166,7 @@ export const generatedProducts: readonly Product[] = [
     "name": "LEONCLAW 5-60P Metallic Coat: Gold",
     "nameCn": "雄獅獵爪 5-60P 金屬塗層:燦金",
     "series": "BXG",
-    "productType": "其他",
+    "productType": "補充包",
     "parts": [
       {
         "name": "Leonclaw",
@@ -1391,7 +1391,7 @@ export const generatedProducts: readonly Product[] = [
     "name": "SHARKEDGE 5-60GF Metallic Coat: Blue",
     "nameCn": "鮫鯊鋒鰭 5-60GF 金屬塗層:水藍",
     "series": "BXG",
-    "productType": "其他",
+    "productType": "補充包",
     "parts": [
       {
         "name": "Sharkedge",
@@ -1416,7 +1416,7 @@ export const generatedProducts: readonly Product[] = [
     "name": "DRIGERSLASH 4-80P",
     "nameCn": "銀牙烈虎 4-80P",
     "series": "BXG",
-    "productType": "其他",
+    "productType": "補充包",
     "parts": [
       {
         "name": "Drigerslash",
@@ -1589,13 +1589,13 @@ export const generatedProducts: readonly Product[] = [
     "id": "SR-PRD-939979-00",
     "code": "BXG-08",
     "name": "HELLSCHAIN 5-60HT Metallic Coat: Black",
-    "nameCn": "惡魔鎖鍊 5-60HT 金屬塗層:闇黑",
+    "nameCn": "惡魔鎖鏈 5-60HT 金屬塗層:闇黑",
     "series": "BXG",
-    "productType": "其他",
+    "productType": "補充包",
     "parts": [
       {
         "name": "Hellschain",
-        "nameCn": "惡魔鎖鍊",
+        "nameCn": "惡魔鎖鏈",
         "type": "戰刃"
       },
       {
@@ -1941,7 +1941,7 @@ export const generatedProducts: readonly Product[] = [
     "name": "DRANZERSPIRAL 3-80T Black Ver.",
     "nameCn": "烈焰飛鳳 S3-80T 闇黑版",
     "series": "BXG",
-    "productType": "其他",
+    "productType": "補充包",
     "parts": [
       {
         "name": "Dranzerspiral",
@@ -2066,7 +2066,7 @@ export const generatedProducts: readonly Product[] = [
     "name": "COBALTDRAGOON 2-60C Metallic Coat: Black",
     "nameCn": "蒼穹龍騎士 2-60C 金屬塗層:闇黑",
     "series": "BXG",
-    "productType": "其他",
+    "productType": "入門組",
     "parts": [
       {
         "name": "Cobaltdragoon",
@@ -2087,7 +2087,7 @@ export const generatedProducts: readonly Product[] = [
   },
   {
     "id": "SR-PRD-930358-00",
-    "code": "BXG-07",
+    "code": "BXG-07-00",
     "name": "LIGHTNING L-DRAGO 1-60F",
     "nameCn": "雷霆天龍 1-60F",
     "series": "BXG",
@@ -2112,7 +2112,7 @@ export const generatedProducts: readonly Product[] = [
   },
   {
     "id": "SR-PRD-930358-01",
-    "code": "BXG-07",
+    "code": "BXG-07-01",
     "name": "LIGHTNING L-DRAGO 1-60F",
     "nameCn": "雷霆天龍 1-60F",
     "series": "BXG",
@@ -2412,7 +2412,7 @@ export const generatedProducts: readonly Product[] = [
   },
   {
     "id": "SR-PRD-953982-01",
-    "code": "BXG-25",
+    "code": "BXG-25-01",
     "name": "DRANSWORD 4-80DB Metallic Coat: White",
     "nameCn": "蒼龍神劍 4-80DB 金屬塗層:珍珠白",
     "series": "BXG",
@@ -2437,7 +2437,7 @@ export const generatedProducts: readonly Product[] = [
   },
   {
     "id": "SR-PRD-953982-03",
-    "code": "BXG-25",
+    "code": "BXG-25-03",
     "name": "DRANDAGGER 9-60LF Metallic Coat: White",
     "nameCn": "蒼龍利刃 9-60LF 金屬塗層:珍珠白",
     "series": "BXG",
@@ -2462,7 +2462,7 @@ export const generatedProducts: readonly Product[] = [
   },
   {
     "id": "SR-PRD-953982-02",
-    "code": "BXG-25",
+    "code": "BXG-25-02",
     "name": "DRANBUSTER 3-70N Metallic Coat: White",
     "nameCn": "蒼龍爆刃 3-70N 金屬塗層:珍珠白",
     "series": "BXG",
@@ -2491,7 +2491,7 @@ export const generatedProducts: readonly Product[] = [
     "name": "COBALTDRAKE 4-60F Clear Ver.",
     "nameCn": "蒼穹龍神 4-60F 透明版",
     "series": "BXG",
-    "productType": "其他",
+    "productType": "補充包",
     "parts": [
       {
         "name": "Cobaltdrake",
@@ -2516,7 +2516,7 @@ export const generatedProducts: readonly Product[] = [
     "name": "DRANBUSTER 1-60A Metallic Coat: Blue FC BARCELONA Ver.",
     "nameCn": "蒼龍爆刃 1-60A 金屬塗層:藍 FC巴塞隆納版",
     "series": "BXG",
-    "productType": "其他",
+    "productType": "入門組",
     "parts": [
       {
         "name": "Dranbuster",
@@ -2541,7 +2541,7 @@ export const generatedProducts: readonly Product[] = [
     "name": "HELLSHAMMER 3-70H Metallic Coat: Red FC BARCELONA Ver.",
     "nameCn": "惡魔重錘 3-70H 金屬塗層:紅 FC巴塞隆納版",
     "series": "BXG",
-    "productType": "其他",
+    "productType": "套組",
     "parts": [
       {
         "name": "Hellshammer",
@@ -2562,9 +2562,34 @@ export const generatedProducts: readonly Product[] = [
   },
   {
     "id": "SR-PRD-957799-01",
-    "code": "BXG-31",
+    "code": "BXG-31-01",
     "name": "DRANBUSTER 1-60A Metallic Coat: Cyan",
-    "nameCn": "蒼龍爆刃 1-60A 金屬塗層:Cyan",
+    "nameCn": "蒼龍爆刃 1-60A 金屬塗層:青",
+    "series": "BXG",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Dranbuster",
+        "nameCn": "蒼龍爆刃",
+        "type": "戰刃"
+      },
+      {
+        "name": "1-60",
+        "type": "固鎖"
+      },
+      {
+        "name": "A",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2024-12-26T15:00:00.000Z",
+    "upcoming": false
+  },
+  {
+    "id": "SR-PRD-957799-11",
+    "code": "BXG-31-11",
+    "name": "DRANBUSTER 1-60A Metallic Coat: Cyan",
+    "nameCn": "蒼龍爆刃 1-60A 金屬塗層:青",
     "series": "BXG",
     "productType": "其他",
     "parts": [
@@ -2587,7 +2612,32 @@ export const generatedProducts: readonly Product[] = [
   },
   {
     "id": "SR-PRD-957799-02",
-    "code": "BXG-31",
+    "code": "BXG-31-02",
+    "name": "DRANBUSTER 1-60A Metallic Coat: Black",
+    "nameCn": "蒼龍爆刃 1-60A 金屬塗層:闇黑",
+    "series": "BXG",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Dranbuster",
+        "nameCn": "蒼龍爆刃",
+        "type": "戰刃"
+      },
+      {
+        "name": "1-60",
+        "type": "固鎖"
+      },
+      {
+        "name": "A",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2024-12-26T15:00:00.000Z",
+    "upcoming": false
+  },
+  {
+    "id": "SR-PRD-957799-22",
+    "code": "BXG-31-22",
     "name": "DRANBUSTER 1-60A Metallic Coat: Black",
     "nameCn": "蒼龍爆刃 1-60A 金屬塗層:闇黑",
     "series": "BXG",
@@ -2612,9 +2662,34 @@ export const generatedProducts: readonly Product[] = [
   },
   {
     "id": "SR-PRD-957799-03",
-    "code": "BXG-31",
+    "code": "BXG-31-03",
     "name": "DRANBUSTER 1-60A Metallic Coat:Violet",
-    "nameCn": "蒼龍爆刃 1-60A 金屬塗層:Violet",
+    "nameCn": "蒼龍爆刃 1-60A 金屬塗層:紫",
+    "series": "BXG",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Dranbuster",
+        "nameCn": "蒼龍爆刃",
+        "type": "戰刃"
+      },
+      {
+        "name": "1-60",
+        "type": "固鎖"
+      },
+      {
+        "name": "A",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2024-12-26T15:00:00.000Z",
+    "upcoming": false
+  },
+  {
+    "id": "SR-PRD-957799-33",
+    "code": "BXG-31-33",
+    "name": "DRANBUSTER 1-60A Metallic Coat:Violet",
+    "nameCn": "蒼龍爆刃 1-60A 金屬塗層:紫",
     "series": "BXG",
     "productType": "其他",
     "parts": [
@@ -2641,7 +2716,7 @@ export const generatedProducts: readonly Product[] = [
     "name": "MAMMOTHTUSK 2-80E Metallic Coat: Black",
     "nameCn": "猛瑪長牙 2-80E 金屬塗層:闇黑",
     "series": "BXG",
-    "productType": "其他",
+    "productType": "補充包",
     "parts": [
       {
         "name": "Mammothtusk",
@@ -2691,7 +2766,7 @@ export const generatedProducts: readonly Product[] = [
     "name": "DRACIELSHIELD 7-60D",
     "nameCn": "堅甲戰龜 S7-60D",
     "series": "BXG",
-    "productType": "其他",
+    "productType": "補充包",
     "parts": [
       {
         "name": "Dracielshield",
@@ -2962,7 +3037,7 @@ export const generatedProducts: readonly Product[] = [
   },
   {
     "id": "SR-PRD-946816-01",
-    "code": "BXG-12",
+    "code": "BXG-12-01",
     "name": "DRAGOONSTORM 4-60RA",
     "nameCn": "龍騎士 S4-60RA",
     "series": "BXG",
@@ -2987,7 +3062,7 @@ export const generatedProducts: readonly Product[] = [
   },
   {
     "id": "SR-PRD-946816-02",
-    "code": "BXG-12",
+    "code": "BXG-12-02",
     "name": "STORMPEGASIS 3-70RA",
     "nameCn": "暴風天馬 3-70RA",
     "series": "BXG",
@@ -3012,7 +3087,7 @@ export const generatedProducts: readonly Product[] = [
   },
   {
     "id": "SR-PRD-946816-03",
-    "code": "BXG-12",
+    "code": "BXG-12-03",
     "name": "VICTORYVALKYRIE 2-60RA",
     "nameCn": "天翼戰神 2-60RA",
     "series": "BXG",
@@ -3037,7 +3112,7 @@ export const generatedProducts: readonly Product[] = [
   },
   {
     "id": "SR-PRD-946816-04",
-    "code": "BXG-12",
+    "code": "BXG-12-04",
     "name": "DRANSWORD 3-60F Holo sticker Ver.",
     "nameCn": "蒼龍神劍 3-60F 閃耀貼紙版",
     "series": "BXG",
@@ -3300,7 +3375,7 @@ export const generatedProducts: readonly Product[] = [
     "name": "XENOXCALIBUR 3-60GF",
     "nameCn": "神力聖劍 3-60GF",
     "series": "BXG",
-    "productType": "其他",
+    "productType": "入門組",
     "parts": [
       {
         "name": "Xenoxcalibur",
@@ -3537,58 +3612,8 @@ export const generatedProducts: readonly Product[] = [
     "upcoming": false
   },
   {
-    "id": "SR-PRD-980858-01",
-    "code": "BXG-29-01",
-    "name": "SPIDER-MAN 3-60F",
-    "nameCn": "蜘蛛人 3-60F",
-    "series": "BXG",
-    "productType": "其他",
-    "parts": [
-      {
-        "name": "Spider-man",
-        "nameCn": "蜘蛛人",
-        "type": "戰刃"
-      },
-      {
-        "name": "3-60",
-        "type": "固鎖"
-      },
-      {
-        "name": "F",
-        "type": "軸心"
-      }
-    ],
-    "releaseAt": "2025-04-26T15:00:00.000Z",
-    "upcoming": false
-  },
-  {
-    "id": "SR-PRD-980858-02",
-    "code": "BXG-29-02",
-    "name": "VENOM 3-80N",
-    "nameCn": "猛毒 3-80N",
-    "series": "BXG",
-    "productType": "其他",
-    "parts": [
-      {
-        "name": "Venom",
-        "nameCn": "猛毒",
-        "type": "戰刃"
-      },
-      {
-        "name": "3-80",
-        "type": "固鎖"
-      },
-      {
-        "name": "N",
-        "type": "軸心"
-      }
-    ],
-    "releaseAt": "2025-04-26T15:00:00.000Z",
-    "upcoming": false
-  },
-  {
     "id": "SR-PRD-980841-01",
-    "code": "BXG-30-01",
+    "code": "BXG-29-01",
     "name": "IRON MAN 4-80B",
     "nameCn": "鋼鐵人 4-80B",
     "series": "BXG",
@@ -3613,7 +3638,7 @@ export const generatedProducts: readonly Product[] = [
   },
   {
     "id": "SR-PRD-980841-02",
-    "code": "BXG-30-02",
+    "code": "BXG-29-02",
     "name": "THANOS 4-60P",
     "nameCn": "薩諾斯 4-60P",
     "series": "BXG",
@@ -3626,6 +3651,56 @@ export const generatedProducts: readonly Product[] = [
       },
       {
         "name": "4-60",
+        "type": "固鎖"
+      },
+      {
+        "name": "P",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2025-04-26T15:00:00.000Z",
+    "upcoming": false
+  },
+  {
+    "id": "SR-PRD-980858-01",
+    "code": "BXG-30-01",
+    "name": "SPIDER-MAN 3-60F",
+    "nameCn": "蜘蛛人 3-60F",
+    "series": "BXG",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Spider-man",
+        "nameCn": "蜘蛛人",
+        "type": "戰刃"
+      },
+      {
+        "name": "3-60",
+        "type": "固鎖"
+      },
+      {
+        "name": "F",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2025-04-26T15:00:00.000Z",
+    "upcoming": false
+  },
+  {
+    "id": "SR-PRD-980858-02",
+    "code": "BXG-30-02",
+    "name": "VENOM 3-80N",
+    "nameCn": "猛毒 3-80N",
+    "series": "BXG",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Venom",
+        "nameCn": "猛毒",
+        "type": "戰刃"
+      },
+      {
+        "name": "3-80",
         "type": "固鎖"
       },
       {
@@ -3890,13 +3965,13 @@ export const generatedProducts: readonly Product[] = [
     "id": "SR-PRD-989002-02",
     "code": "BXG-41-02",
     "name": "JURASSIC WORLD QUETZALCOATLUS 4-55D",
-    "nameCn": "棘龍 4-55D",
+    "nameCn": "翼龍 4-55D",
     "series": "BXG",
     "productType": "其他",
     "parts": [
       {
         "name": "Jurassic world quetzalcoatlus",
-        "nameCn": "棘龍",
+        "nameCn": "翼龍",
         "type": "戰刃"
       },
       {
@@ -3915,13 +3990,13 @@ export const generatedProducts: readonly Product[] = [
     "id": "SR-PRD-989002-01",
     "code": "BXG-41-01",
     "name": "JURASSIC WORLD SPINOSAURUS 3-85A",
-    "nameCn": "翼龍 3-85A",
+    "nameCn": "棘龍 3-85A",
     "series": "BXG",
     "productType": "其他",
     "parts": [
       {
         "name": "Jurassic world spinosaurus",
-        "nameCn": "翼龍",
+        "nameCn": "棘龍",
         "type": "戰刃"
       },
       {
@@ -3938,7 +4013,7 @@ export const generatedProducts: readonly Product[] = [
   },
   {
     "id": "SR-EVE-982524-01",
-    "code": "BXH-16",
+    "code": "BXH-16-01",
     "name": "DRANBRAVES 6-60V Metallic Coat: Gold",
     "nameCn": "蒼龍勇氣 S6-60V 金屬塗層:燦金",
     "series": "BXH",
@@ -3977,7 +4052,7 @@ export const generatedProducts: readonly Product[] = [
   },
   {
     "id": "SR-EVE-982524-02",
-    "code": "BXH-16",
+    "code": "BXH-16-02",
     "name": "DRANBRAVES 6-60V Metallic Coat: Silver",
     "nameCn": "蒼龍勇氣 S6-60V 金屬塗層:白銀",
     "series": "BXH",
@@ -4016,7 +4091,7 @@ export const generatedProducts: readonly Product[] = [
   },
   {
     "id": "SR-EVE-982524-03",
-    "code": "BXH-16",
+    "code": "BXH-16-03",
     "name": "DRANBRAVES 6-60V Metallic Coat: Bronze",
     "nameCn": "蒼龍勇氣 S6-60V 金屬塗層:黃銅",
     "series": "BXH",
@@ -4241,7 +4316,7 @@ export const generatedProducts: readonly Product[] = [
     "name": "ROCKLEONE 6-80GN",
     "nameCn": "巨岩雄獅 6-80GN",
     "series": "BXG",
-    "productType": "其他",
+    "productType": "補充包",
     "parts": [
       {
         "name": "Rockleone",
@@ -4497,7 +4572,7 @@ export const generatedProducts: readonly Product[] = [
     "name": "KNIGHTMAIL 3-85BS Metallic Coat: Navy",
     "nameCn": "騎士圓甲 3-85BS 金屬塗層:夜藍",
     "series": "BXG",
-    "productType": "其他",
+    "productType": "補充包",
     "parts": [
       {
         "name": "Knightmail",
@@ -4522,7 +4597,7 @@ export const generatedProducts: readonly Product[] = [
     "name": "PEGASUSBLASTATr Metallic Coat: Red",
     "nameCn": "天馬爆擊ATr 金屬塗層:火紅",
     "series": "BXG",
-    "productType": "其他",
+    "productType": "入門組",
     "parts": [
       {
         "name": "Pegasusblasta",
@@ -4676,7 +4751,7 @@ export const generatedProducts: readonly Product[] = [
     "name": "WIZARDARCR 4-55LO Metallic Coat: Black",
     "nameCn": "魔導至尊 R4-55LO 金屬塗層:闇黑",
     "series": "BXG",
-    "productType": "其他",
+    "productType": "補充包",
     "parts": [
       {
         "name": "Wizardarcr",
@@ -4955,8 +5030,8 @@ export const generatedProducts: readonly Product[] = [
   {
     "id": "SR-PRD-098775-02",
     "code": "CX-11-02",
-    "name": "GOLEMROCKM-85-02HN Metallic Coat: Green",
-    "nameCn": "魔像奇岩M-85-02HN 金屬塗層:碧綠",
+    "name": "GOLEMROCKM-85HN Metallic Coat: Green",
+    "nameCn": "魔像奇岩M-85HN 金屬塗層:碧綠",
     "series": "CX",
     "productType": "其他",
     "parts": [
@@ -5033,7 +5108,7 @@ export const generatedProducts: readonly Product[] = [
     "name": "DRAGOONSTORM 4-60RA",
     "nameCn": "龍騎士 S4-60RA",
     "series": "BXG",
-    "productType": "其他",
+    "productType": "補充包",
     "parts": [
       {
         "name": "Dragoonstorm",
@@ -5400,7 +5475,7 @@ export const generatedProducts: readonly Product[] = [
     "name": "AEROPEGASUS 3-70A Red Ver.",
     "nameCn": "空力天馬 3-70A 火紅版",
     "series": "BXG",
-    "productType": "其他",
+    "productType": "補充包",
     "parts": [
       {
         "name": "Aeropegasus",
@@ -5621,7 +5696,7 @@ export const generatedProducts: readonly Product[] = [
     "name": "STORMSPRIGGAN 2-70M",
     "nameCn": "暴風巨神 2-70M",
     "series": "BXG",
-    "productType": "其他",
+    "productType": "入門組",
     "parts": [
       {
         "name": "Stormspriggan",
@@ -5641,212 +5716,261 @@ export const generatedProducts: readonly Product[] = [
     "upcoming": false
   },
   {
-    "id": "SR-PRD-305732-01",
-    "code": "BX-00-01",
-    "name": "OBI-WAN KENOBI 4-60P",
-    "nameCn": "歐比王肯諾比 4-60P",
-    "series": "BX",
-    "productType": "其他",
+    "id": "SR-PRD-096160-00",
+    "code": "UX-19",
+    "name": "BULLETGRIFFONH",
+    "nameCn": "彈丸獅鷲H",
+    "series": "UX",
+    "productType": "入門組",
     "parts": [
       {
-        "name": "Obi-wan kenobi",
-        "nameCn": "歐比王肯諾比",
+        "name": "Bulletgriffon",
+        "nameCn": "彈丸獅鷲",
         "type": "戰刃"
       },
       {
-        "name": "4-60",
+        "name": "RATCHET-integrated BLADE",
+        "nameCn": "固鎖一體型戰刃",
         "type": "固鎖"
+      },
+      {
+        "name": "H",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2026-04-24T15:00:00.000Z",
+    "upcoming": false
+  },
+  {
+    "id": "SR-PRD-080558-00",
+    "code": "BXG-61",
+    "name": "SCORPIOSPEAR 0-70Z Metallic Coat: Magenta",
+    "nameCn": "天蠍長矛 0-70Z 金屬塗層:品紅",
+    "series": "BXG",
+    "productType": "補充包",
+    "parts": [
+      {
+        "name": "Scorpiospear",
+        "nameCn": "天蠍長矛",
+        "type": "戰刃"
+      },
+      {
+        "name": "0-70",
+        "type": "固鎖"
+      },
+      {
+        "name": "Z",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2026-04-24T15:00:00.000Z",
+    "upcoming": false
+  },
+  {
+    "id": "SR-PRD-096146-01",
+    "code": "CX-17-01",
+    "name": "UNICORNDELTAPO 3-60GU",
+    "nameCn": "獨角極變 PO3-60GU",
+    "series": "CX",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Unicorndeltapo",
+        "nameCn": "獨角極變PO",
+        "type": "戰刃"
+      },
+      {
+        "name": "UNICORN",
+        "nameCn": "獨角",
+        "type": "紋章鎖"
+      },
+      {
+        "name": "Pdelta",
+        "nameCn": "P／極變",
+        "type": "主要戰刃"
+      },
+      {
+        "name": "Delta",
+        "nameCn": "極變",
+        "type": "金屬戰刃"
       },
       {
         "name": "P",
-        "type": "軸心"
-      }
-    ],
-    "releaseAt": "2025-08-20T15:00:00.000Z",
-    "upcoming": false
-  },
-  {
-    "id": "SR-PRD-305732-02",
-    "code": "BX-00-01",
-    "name": "GENERAL GRIEVOUS 3-80HN",
-    "nameCn": "葛里維斯將軍 3-80HN",
-    "series": "BX",
-    "productType": "其他",
-    "parts": [
-      {
-        "name": "General grievous",
-        "nameCn": "葛里維斯將軍",
-        "type": "戰刃"
+        "nameCn": "獨角極變",
+        "type": "超越戰刃"
       },
       {
-        "name": "3-80",
+        "name": "3-60",
         "type": "固鎖"
       },
       {
-        "name": "HN",
+        "name": "O",
+        "type": "輔助戰刃"
+      },
+      {
+        "name": "GU",
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-08-20T15:00:00.000Z",
+    "releaseAt": "2026-04-24T15:00:00.000Z",
     "upcoming": false
   },
   {
-    "id": "SR-PRD-305749-01",
-    "code": "BX-00-02",
-    "name": "CHEWBACCA 4-80LF",
-    "nameCn": "丘巴卡 4-80LF",
-    "series": "BX",
+    "id": "SR-PRD-096146-02",
+    "code": "CX-17-02",
+    "name": "UNICORNDELTAPO 1-80GR",
+    "nameCn": "獨角極變 PO1-80GR",
+    "series": "CX",
     "productType": "其他",
     "parts": [
       {
-        "name": "Chewbacca",
-        "nameCn": "丘巴卡",
+        "name": "Unicorndeltapo",
+        "nameCn": "獨角極變PO",
         "type": "戰刃"
       },
       {
-        "name": "4-80",
-        "type": "固鎖"
+        "name": "UNICORN",
+        "nameCn": "獨角",
+        "type": "紋章鎖"
       },
       {
-        "name": "LF",
-        "type": "軸心"
-      }
-    ],
-    "releaseAt": "2025-08-31T15:00:00.000Z",
-    "upcoming": false
-  },
-  {
-    "id": "SR-PRD-305749-02",
-    "code": "BX-00-02",
-    "name": "STORMTROOPER 5-70B",
-    "nameCn": "風暴兵 5-70B",
-    "series": "BX",
-    "productType": "其他",
-    "parts": [
-      {
-        "name": "Stormtrooper",
-        "nameCn": "風暴兵",
-        "type": "戰刃"
+        "name": "Pdelta",
+        "nameCn": "P／極變",
+        "type": "主要戰刃"
       },
       {
-        "name": "5-70",
-        "type": "固鎖"
+        "name": "Delta",
+        "nameCn": "極變",
+        "type": "金屬戰刃"
       },
       {
-        "name": "B",
-        "type": "軸心"
-      }
-    ],
-    "releaseAt": "2025-08-31T15:00:00.000Z",
-    "upcoming": false
-  },
-  {
-    "id": "SR-PRD-305718-01",
-    "code": "BX-00-03",
-    "name": "CAPTAIN AMERICA 4-70GB",
-    "nameCn": "美國隊長 4-70GB",
-    "series": "BX",
-    "productType": "其他",
-    "parts": [
-      {
-        "name": "Captain america",
-        "nameCn": "美國隊長",
-        "type": "戰刃"
-      },
-      {
-        "name": "4-70",
-        "type": "固鎖"
-      },
-      {
-        "name": "GB",
-        "type": "軸心"
-      }
-    ],
-    "releaseAt": "2025-09-02T15:00:00.000Z",
-    "upcoming": false
-  },
-  {
-    "id": "SR-PRD-305718-02",
-    "code": "BX-00-03",
-    "name": "RED HULK 1-80R",
-    "nameCn": "紅浩克 1-80R",
-    "series": "BX",
-    "productType": "其他",
-    "parts": [
-      {
-        "name": "Red hulk",
-        "nameCn": "紅浩克",
-        "type": "戰刃"
+        "name": "P",
+        "nameCn": "獨角極變",
+        "type": "超越戰刃"
       },
       {
         "name": "1-80",
         "type": "固鎖"
       },
       {
-        "name": "R",
+        "name": "O",
+        "type": "輔助戰刃"
+      },
+      {
+        "name": "GR",
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-09-02T15:00:00.000Z",
+    "releaseAt": "2026-04-24T15:00:00.000Z",
     "upcoming": false
   },
   {
-    "id": "SR-PRD-305725-01",
-    "code": "BX-00-04",
-    "name": "MILES MORALES 1-60GN",
-    "nameCn": "終極蜘蛛人 1-60GN",
-    "series": "BX",
+    "id": "SR-PRD-096146-03",
+    "code": "CX-17-03",
+    "name": "WARRIORSABER 9-65LO",
+    "nameCn": "武士星劍 9-65LO",
+    "series": "CX",
     "productType": "其他",
     "parts": [
       {
-        "name": "Miles morales",
-        "nameCn": "終極蜘蛛人",
+        "name": "Warriorsaber",
+        "nameCn": "武士星劍",
         "type": "戰刃"
       },
       {
-        "name": "1-60",
+        "name": "9-65",
         "type": "固鎖"
       },
       {
-        "name": "GN",
+        "name": "LO",
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-09-23T15:00:00.000Z",
+    "releaseAt": "2026-04-24T15:00:00.000Z",
     "upcoming": false
   },
   {
-    "id": "SR-PRD-305725-02",
-    "code": "BX-00-04",
-    "name": "GREEN GOBLIN 9-80HT",
-    "nameCn": "綠惡魔 9-80HT",
-    "series": "BX",
+    "id": "SR-PRD-096146-04",
+    "code": "CX-17-04",
+    "name": "HELLSHAMMER 3-85GU",
+    "nameCn": "惡魔重錘 3-85GU",
+    "series": "CX",
     "productType": "其他",
     "parts": [
       {
-        "name": "Green goblin",
-        "nameCn": "綠惡魔",
+        "name": "Hellshammer",
+        "nameCn": "惡魔重錘",
         "type": "戰刃"
       },
       {
-        "name": "9-80",
+        "name": "3-85",
         "type": "固鎖"
       },
       {
-        "name": "HT",
+        "name": "GU",
         "type": "軸心"
       }
     ],
-    "releaseAt": "2025-09-23T15:00:00.000Z",
+    "releaseAt": "2026-04-24T15:00:00.000Z",
+    "upcoming": false
+  },
+  {
+    "id": "SR-PRD-096146-05",
+    "code": "CX-17-05",
+    "name": "TYRANNOBEAT 3-60N",
+    "nameCn": "暴龍霸擊 3-60N",
+    "series": "CX",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Tyrannobeat",
+        "nameCn": "暴龍霸擊",
+        "type": "戰刃"
+      },
+      {
+        "name": "3-60",
+        "type": "固鎖"
+      },
+      {
+        "name": "N",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2026-04-24T15:00:00.000Z",
+    "upcoming": false
+  },
+  {
+    "id": "SR-PRD-096146-06",
+    "code": "CX-17-06",
+    "name": "CRIMSONGARUDA 7-80GU",
+    "nameCn": "赫燃天鳳 7-80GU",
+    "series": "CX",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Crimsongaruda",
+        "nameCn": "赫燃天鳳",
+        "type": "戰刃"
+      },
+      {
+        "name": "7-80",
+        "type": "固鎖"
+      },
+      {
+        "name": "GU",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2026-04-24T15:00:00.000Z",
     "upcoming": false
   },
   {
     "id": "SR-PRD-096122-00",
     "code": "BX-49",
-    "name": "DranStrike 4-50FF",
+    "name": "DRANSTRIKE 4-50FF",
     "nameCn": "蒼龍突擊 4-50FF",
     "series": "BX",
-    "productType": "其他",
+    "productType": "入門組",
     "parts": [
       {
         "name": "Dranstrike",
@@ -5863,19 +5987,19 @@ export const generatedProducts: readonly Product[] = [
       }
     ],
     "releaseAt": "2026-05-15T15:00:00.000Z",
-    "upcoming": true
+    "upcoming": false
   },
   {
     "id": "SR-PRD-080572-00",
     "code": "BXG-51",
-    "name": "DRANBRAVE S6-60V Metallic Coat: Black",
-    "nameCn": "蒼龍勇氣 S6-60V 金屬塗層:黑色",
+    "name": "DRANBRAVES 6-60V Metallic Coat: Black",
+    "nameCn": "蒼龍勇氣 S6-60V 金屬塗層:闇黑",
     "series": "BXG",
-    "productType": "其他",
+    "productType": "補充包",
     "parts": [
       {
-        "name": "Dranbrave s",
-        "nameCn": "蒼龍勇氣 S",
+        "name": "Dranbrave",
+        "nameCn": "蒼龍勇氣",
         "type": "戰刃"
       },
       {
@@ -5902,178 +6026,86 @@ export const generatedProducts: readonly Product[] = [
       }
     ],
     "releaseAt": "2026-05-29T15:00:00.000Z",
-    "upcoming": true
+    "upcoming": false
   },
   {
-    "id": "SR-PRD-975731-00",
-    "code": "BXG-54",
-    "name": "WARRIORSABER 5-60K Metal Coat: Samurai Blue Soccer Japan National Team Ver.",
-    "nameCn": "武士星劍 5-60K 金屬塗層：武士藍 足球日本國家代表隊版",
-    "series": "BXG",
+    "id": "SR-EVE-077428-01",
+    "code": "BXH-25-01",
+    "name": "DRANSTRIKE 4-50FF Metallic Coat: Gold",
+    "nameCn": "蒼龍突擊 4-50FF 金屬塗層:燦金",
+    "series": "BXH",
     "productType": "其他",
     "parts": [
       {
-        "name": "Warriorsaber metal coat: samurai blue soccer japan national team ver.",
-        "nameCn": "武士星劍",
+        "name": "Dranstrike",
+        "nameCn": "蒼龍突擊",
         "type": "戰刃"
       },
       {
-        "name": "5-60",
+        "name": "4-50",
         "type": "固鎖"
       },
       {
-        "name": "K",
+        "name": "FF",
         "type": "軸心"
       }
     ],
-    "releaseAt": "2026-06-12T15:00:00.000Z",
-    "upcoming": true
+    "releaseAt": "2026-05-05T15:00:00.000Z",
+    "upcoming": false
   },
   {
-    "id": "SR-PRD-085683-01",
-    "code": "BXG-57-01",
-    "name": "EvaArc B0-70E Unit-00 Ver.",
-    "nameCn": "福音戰士至尊 B0-70E 零號機版本",
-    "series": "BXG",
+    "id": "SR-EVE-077428-02",
+    "code": "BXH-25-02",
+    "name": "DRANSTRIKE 4-50FF Metallic Coat: Silver",
+    "nameCn": "蒼龍突擊 4-50FF 金屬塗層:白銀",
+    "series": "BXH",
     "productType": "其他",
     "parts": [
       {
-        "name": "Evaarc b unit-00 ver.",
-        "nameCn": "福音戰士至尊 B 零號機版本",
+        "name": "Dranstrike",
+        "nameCn": "蒼龍突擊",
         "type": "戰刃"
       },
       {
-        "name": "Eva",
-        "nameCn": "福音戰士",
-        "type": "紋章鎖"
-      },
-      {
-        "name": "Arc",
-        "nameCn": "至尊",
-        "type": "主要戰刃"
-      },
-      {
-        "name": "0-70",
+        "name": "4-50",
         "type": "固鎖"
       },
       {
-        "name": "B",
-        "type": "輔助戰刃"
-      },
-      {
-        "name": "E",
+        "name": "FF",
         "type": "軸心"
       }
     ],
-    "releaseAt": "2029-08-28T15:00:00.000Z",
-    "upcoming": true
+    "releaseAt": "2026-05-05T15:00:00.000Z",
+    "upcoming": false
   },
   {
-    "id": "SR-PRD-085683-02",
-    "code": "BXG-57-02",
-    "name": "EvaBrave A1-70V Unit-01 Ver.",
-    "nameCn": "福音戰士勇氣 A1-70V 初號機版本",
-    "series": "BXG",
+    "id": "SR-EVE-077428-03",
+    "code": "BXH-25-03",
+    "name": "DRANSTRIKE 4-50FF Metallic Coat: Bronze",
+    "nameCn": "蒼龍突擊 4-50FF 金屬塗層:黃銅",
+    "series": "BXH",
     "productType": "其他",
     "parts": [
       {
-        "name": "Evabrave a unit-01 ver.",
-        "nameCn": "福音戰士勇氣 A 初號機版本",
+        "name": "Dranstrike",
+        "nameCn": "蒼龍突擊",
         "type": "戰刃"
       },
       {
-        "name": "Eva",
-        "nameCn": "福音戰士",
-        "type": "紋章鎖"
-      },
-      {
-        "name": "Brave",
-        "nameCn": "勇氣",
-        "type": "主要戰刃"
-      },
-      {
-        "name": "1-70",
+        "name": "4-50",
         "type": "固鎖"
       },
       {
-        "name": "A",
-        "type": "輔助戰刃"
-      },
-      {
-        "name": "V",
+        "name": "FF",
         "type": "軸心"
       }
     ],
-    "releaseAt": "2029-08-28T15:00:00.000Z",
-    "upcoming": true
+    "releaseAt": "2026-05-05T15:00:00.000Z",
+    "upcoming": false
   },
   {
-    "id": "SR-PRD-085683-03",
-    "code": "BXG-57-03",
-    "name": "EvaBrush T2-70A Unit-02 Ver.",
-    "nameCn": "福音戰士九尾 T2-70A ２號機版本",
-    "series": "BXG",
-    "productType": "其他",
-    "parts": [
-      {
-        "name": "Evabrush t unit-02 ver.",
-        "nameCn": "福音戰士九尾 T ２號機版本",
-        "type": "戰刃"
-      },
-      {
-        "name": "Eva",
-        "nameCn": "福音戰士",
-        "type": "紋章鎖"
-      },
-      {
-        "name": "Brush",
-        "nameCn": "九尾",
-        "type": "主要戰刃"
-      },
-      {
-        "name": "2-70",
-        "type": "固鎖"
-      },
-      {
-        "name": "T",
-        "type": "輔助戰刃"
-      },
-      {
-        "name": "A",
-        "type": "軸心"
-      }
-    ],
-    "releaseAt": "2029-08-28T15:00:00.000Z",
-    "upcoming": true
-  },
-  {
-    "id": "SR-PRD-814517-00",
-    "code": "BXG-61",
-    "name": "SCORPIOSPEAR 0-70Z Metal Coat: Magenta",
-    "nameCn": "天蠍長矛 0-70Z 金屬塗層:紫紅",
-    "series": "BXG",
-    "productType": "其他",
-    "parts": [
-      {
-        "name": "Scorpiospear metal coat: magenta",
-        "nameCn": "天蠍長矛",
-        "type": "戰刃"
-      },
-      {
-        "name": "0-70",
-        "type": "固鎖"
-      },
-      {
-        "name": "Z",
-        "type": "軸心"
-      }
-    ],
-    "releaseAt": "2026-04-24T15:00:00.000Z",
-    "upcoming": true
-  },
-  {
-    "id": "SR-PRD-777777-00",
-    "code": "BXH-00-01",
+    "id": "SR-EVE-088899-00",
+    "code": "BXH-22",
     "name": "RAGNARAGEFE 4-55Y Metallic Coat: Gold",
     "nameCn": "邪神狂怒 FE4-55Y 金屬塗層:燦金",
     "series": "BXH",
@@ -6088,6 +6120,11 @@ export const generatedProducts: readonly Product[] = [
         "name": "RAGNA",
         "nameCn": "邪神",
         "type": "紋章鎖"
+      },
+      {
+        "name": "Frage",
+        "nameCn": "F／狂怒",
+        "type": "主要戰刃"
       },
       {
         "name": "Rage",
@@ -6112,110 +6149,382 @@ export const generatedProducts: readonly Product[] = [
         "type": "軸心"
       }
     ],
-    "releaseAt": "2026-05-31T15:00:00.000Z",
-    "upcoming": true
+    "releaseAt": "2026-06-05T15:00:00.000Z",
+    "upcoming": false
   },
   {
-    "id": "SR-PRD-777778-01",
-    "code": "BXH-00-02",
-    "name": "DranStrike 4-50FF Metallic Coat: Gold",
-    "nameCn": "蒼龍突擊 4-50FF 金屬塗層:燦金",
-    "series": "BXH",
-    "productType": "其他",
-    "parts": [
-      {
-        "name": "Dranstrike",
-        "nameCn": "蒼龍突擊",
-        "type": "戰刃"
-      },
-      {
-        "name": "4-50",
-        "type": "固鎖"
-      },
-      {
-        "name": "FF",
-        "type": "軸心"
-      }
-    ],
-    "releaseAt": "2026-05-05T15:00:00.000Z",
-    "upcoming": true
-  },
-  {
-    "id": "SR-PRD-777778-02",
-    "code": "BXH-00-02",
-    "name": "DranStrike 4-50FF Metallic Coat: Silver",
-    "nameCn": "蒼龍突擊 4-50FF 金屬塗層:白銀",
-    "series": "BXH",
-    "productType": "其他",
-    "parts": [
-      {
-        "name": "Dranstrike",
-        "nameCn": "蒼龍突擊",
-        "type": "戰刃"
-      },
-      {
-        "name": "4-50",
-        "type": "固鎖"
-      },
-      {
-        "name": "FF",
-        "type": "軸心"
-      }
-    ],
-    "releaseAt": "2026-05-05T15:00:00.000Z",
-    "upcoming": true
-  },
-  {
-    "id": "SR-PRD-777778-03",
-    "code": "BXH-00-03",
-    "name": "DranStrike 4-50FF Metallic Coat: Bronze",
-    "nameCn": "蒼龍突擊 4-50FF 金屬塗層:黃銅",
-    "series": "BXH",
-    "productType": "其他",
-    "parts": [
-      {
-        "name": "Dranstrike",
-        "nameCn": "蒼龍突擊",
-        "type": "戰刃"
-      },
-      {
-        "name": "4-50",
-        "type": "固鎖"
-      },
-      {
-        "name": "FF",
-        "type": "軸心"
-      }
-    ],
-    "releaseAt": "2026-05-05T15:00:00.000Z",
-    "upcoming": true
-  },
-  {
-    "id": "SR-PRD-096146-01",
-    "code": "CX-17-01",
-    "name": "UnicornDelta PO3-60GU",
-    "nameCn": "獨角獸 Delta PO3-60GU",
+    "id": "SR-PRD-096177-01",
+    "code": "CX-18-01",
+    "name": "BRACHIOWHIPOW 5-70Nr",
+    "nameCn": "腕龍鞭打 OW5-70Nr",
     "series": "CX",
     "productType": "其他",
     "parts": [
       {
-        "name": "Unicorndelta p",
-        "nameCn": "獨角獸 Delta P",
+        "name": "Brachiowhipow",
+        "nameCn": "腕龍鞭打OW",
         "type": "戰刃"
       },
       {
-        "name": "Unicorn",
-        "nameCn": "獨角獸",
+        "name": "BRACHIO",
+        "nameCn": "腕龍",
         "type": "紋章鎖"
       },
       {
-        "name": "Delta",
-        "nameCn": "獨角獸",
+        "name": "Whipo",
+        "nameCn": "O／鞭打",
+        "type": "主要戰刃"
+      },
+      {
+        "name": "Whip",
+        "nameCn": "鞭打",
         "type": "金屬戰刃"
       },
       {
-        "name": "P",
-        "nameCn": "獨角獸",
+        "name": "O",
+        "nameCn": "腕龍鞭打",
+        "type": "超越戰刃"
+      },
+      {
+        "name": "5-70",
+        "type": "固鎖"
+      },
+      {
+        "name": "W",
+        "type": "輔助戰刃"
+      },
+      {
+        "name": "Nr",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2026-06-12T15:00:00.000Z",
+    "upcoming": false
+  },
+  {
+    "id": "SR-PRD-096177-02",
+    "code": "CX-18-02",
+    "name": "BRACHIOWHIPOW 5-70Nr",
+    "nameCn": "腕龍鞭打 OW5-70Nr",
+    "series": "CX",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Brachiowhipow",
+        "nameCn": "腕龍鞭打OW",
+        "type": "戰刃"
+      },
+      {
+        "name": "BRACHIO",
+        "nameCn": "腕龍",
+        "type": "紋章鎖"
+      },
+      {
+        "name": "Whipo",
+        "nameCn": "O／鞭打",
+        "type": "主要戰刃"
+      },
+      {
+        "name": "Whip",
+        "nameCn": "鞭打",
+        "type": "金屬戰刃"
+      },
+      {
+        "name": "O",
+        "nameCn": "腕龍鞭打",
+        "type": "超越戰刃"
+      },
+      {
+        "name": "5-70",
+        "type": "固鎖"
+      },
+      {
+        "name": "W",
+        "type": "輔助戰刃"
+      },
+      {
+        "name": "Nr",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2026-06-12T15:00:00.000Z",
+    "upcoming": false
+  },
+  {
+    "id": "SR-PRD-096177-03",
+    "code": "CX-18-03",
+    "name": "BRACHIOWHIPOW 5-70Nr",
+    "nameCn": "腕龍鞭打 OW5-70Nr",
+    "series": "CX",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Brachiowhipow",
+        "nameCn": "腕龍鞭打OW",
+        "type": "戰刃"
+      },
+      {
+        "name": "BRACHIO",
+        "nameCn": "腕龍",
+        "type": "紋章鎖"
+      },
+      {
+        "name": "Whipo",
+        "nameCn": "O／鞭打",
+        "type": "主要戰刃"
+      },
+      {
+        "name": "Whip",
+        "nameCn": "鞭打",
+        "type": "金屬戰刃"
+      },
+      {
+        "name": "O",
+        "nameCn": "腕龍鞭打",
+        "type": "超越戰刃"
+      },
+      {
+        "name": "5-70",
+        "type": "固鎖"
+      },
+      {
+        "name": "W",
+        "type": "輔助戰刃"
+      },
+      {
+        "name": "Nr",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2026-06-12T15:00:00.000Z",
+    "upcoming": false
+  },
+  {
+    "id": "SR-PRD-089148-00",
+    "code": "BXH-23-02",
+    "name": "DRAKEBRAVEG 4-70I Metallic Coat: Blue",
+    "nameCn": "龍神勇氣 G4-70I 金屬塗層:水藍",
+    "series": "BXH",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Drakebraveg",
+        "nameCn": "龍神勇氣G",
+        "type": "戰刃"
+      },
+      {
+        "name": "DRAKE",
+        "nameCn": "龍神",
+        "type": "紋章鎖"
+      },
+      {
+        "name": "Brave",
+        "nameCn": "勇氣",
+        "type": "主要戰刃"
+      },
+      {
+        "name": "4-70",
+        "type": "固鎖"
+      },
+      {
+        "name": "G",
+        "type": "輔助戰刃"
+      },
+      {
+        "name": "I",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2026-07-08T15:00:00.000Z",
+    "upcoming": false
+  },
+  {
+    "id": "SR-PRD-077398-00",
+    "code": "BXH-23-01",
+    "name": "DRAKEBRAVEG 4-70I Metallic Coat: Blue",
+    "nameCn": "龍神勇氣 G4-70I 金屬塗層:水藍",
+    "series": "BXH",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Drakebraveg",
+        "nameCn": "龍神勇氣G",
+        "type": "戰刃"
+      },
+      {
+        "name": "DRAKE",
+        "nameCn": "龍神",
+        "type": "紋章鎖"
+      },
+      {
+        "name": "Brave",
+        "nameCn": "勇氣",
+        "type": "主要戰刃"
+      },
+      {
+        "name": "4-70",
+        "type": "固鎖"
+      },
+      {
+        "name": "G",
+        "type": "輔助戰刃"
+      },
+      {
+        "name": "I",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2026-07-08T15:00:00.000Z",
+    "upcoming": false
+  },
+  {
+    "id": "SR-PRD-077305-00",
+    "code": "BXG-79",
+    "name": "HORNETFORTR 7-60T Metallic Coat: Yellow",
+    "nameCn": "黃蜂要塞 R7-60T 金屬塗層:黃",
+    "series": "BXG",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Hornetfortr",
+        "nameCn": "黃蜂要塞R",
+        "type": "戰刃"
+      },
+      {
+        "name": "HORNET",
+        "nameCn": "黃蜂",
+        "type": "紋章鎖"
+      },
+      {
+        "name": "Fort",
+        "nameCn": "要塞",
+        "type": "主要戰刃"
+      },
+      {
+        "name": "7-60",
+        "type": "固鎖"
+      },
+      {
+        "name": "R",
+        "type": "輔助戰刃"
+      },
+      {
+        "name": "T",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2026-07-08T15:00:00.000Z",
+    "upcoming": false
+  },
+  {
+    "id": "SR-PRD-077336-00",
+    "code": "BXG-80",
+    "name": "KRAKENWRIGGLES 3-70O Metallic Coat: Blue",
+    "nameCn": "海怪扭擺 S3-70O 金屬塗層:藍",
+    "series": "BXG",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Krakenwriggles",
+        "nameCn": "海怪扭擺S",
+        "type": "戰刃"
+      },
+      {
+        "name": "KRAKEN",
+        "nameCn": "海怪",
+        "type": "紋章鎖"
+      },
+      {
+        "name": "Riggle",
+        "nameCn": "扭擺",
+        "type": "主要戰刃"
+      },
+      {
+        "name": "3-70",
+        "type": "固鎖"
+      },
+      {
+        "name": "S",
+        "type": "輔助戰刃"
+      },
+      {
+        "name": "O",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2026-07-08T15:00:00.000Z",
+    "upcoming": false
+  },
+  {
+    "id": "SR-PRD-077367-00",
+    "code": "BXG-81",
+    "name": "BUCKSANTLERSB 2-60D Metallic Coat: Orange",
+    "nameCn": "雄鹿戰角 B2-60D 金屬塗層:橘",
+    "series": "BXG",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Bucksantlersb",
+        "nameCn": "雄鹿戰角B",
+        "type": "戰刃"
+      },
+      {
+        "name": "BUCKS",
+        "nameCn": "雄鹿",
+        "type": "紋章鎖"
+      },
+      {
+        "name": "Antlers",
+        "nameCn": "戰角",
+        "type": "主要戰刃"
+      },
+      {
+        "name": "2-60",
+        "type": "固鎖"
+      },
+      {
+        "name": "B",
+        "type": "輔助戰刃"
+      },
+      {
+        "name": "D",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2026-07-08T15:00:00.000Z",
+    "upcoming": false
+  },
+  {
+    "id": "SR-PRD-080640-01",
+    "code": "BXG-70-01",
+    "name": "TIGARAGE FT3-60T Multi Type",
+    "nameCn": "迪卡狂怒 FT3-60T 複合型態",
+    "series": "BXG",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Tigarage ft multi type",
+        "nameCn": "迪卡狂怒 FT 複合型態",
+        "type": "戰刃"
+      },
+      {
+        "name": "TIGA",
+        "nameCn": "迪卡",
+        "type": "紋章鎖"
+      },
+      {
+        "name": "F／rage",
+        "nameCn": "F／狂怒",
+        "type": "主要戰刃"
+      },
+      {
+        "name": "Rage",
+        "nameCn": "狂怒",
+        "type": "金屬戰刃"
+      },
+      {
+        "name": "F",
+        "nameCn": "迪卡狂怒",
         "type": "超越戰刃"
       },
       {
@@ -6223,122 +6532,355 @@ export const generatedProducts: readonly Product[] = [
         "type": "固鎖"
       },
       {
-        "name": "O",
+        "name": "T",
         "type": "輔助戰刃"
       },
       {
-        "name": "GU",
+        "name": "T",
         "type": "軸心"
       }
     ],
-    "releaseAt": "2026-04-24T15:00:00.000Z",
+    "releaseAt": "2026-09-11T15:00:00.000Z",
     "upcoming": true
   },
   {
-    "id": "SR-PRD-096146-02",
-    "code": "CX-17-02",
-    "name": "UnicornDelta PO1-80GR",
-    "nameCn": "獨角獸 Delta PO1-80GR",
-    "series": "CX",
+    "id": "SR-PRD-080640-11",
+    "code": "BXG-70-11",
+    "name": "TIGARAGE FT3-60T Sky Type",
+    "nameCn": "迪卡狂怒 FT3-60T 天空型態",
+    "series": "BXG",
     "productType": "其他",
     "parts": [
       {
-        "name": "Unicorndelta p",
-        "nameCn": "獨角獸 Delta P",
+        "name": "Tigarage ft sky type",
+        "nameCn": "迪卡狂怒 FT 天空型態",
         "type": "戰刃"
       },
       {
-        "name": "Unicorn",
-        "nameCn": "獨角獸",
+        "name": "TIGA",
+        "nameCn": "迪卡",
         "type": "紋章鎖"
       },
       {
-        "name": "Delta",
-        "nameCn": "獨角獸",
+        "name": "F／rage",
+        "nameCn": "F／狂怒",
+        "type": "主要戰刃"
+      },
+      {
+        "name": "Rage",
+        "nameCn": "狂怒",
         "type": "金屬戰刃"
       },
       {
-        "name": "P",
-        "nameCn": "獨角獸",
+        "name": "F",
+        "nameCn": "迪卡狂怒",
         "type": "超越戰刃"
       },
       {
-        "name": "1-80",
+        "name": "3-60",
         "type": "固鎖"
       },
       {
-        "name": "O",
+        "name": "T",
         "type": "輔助戰刃"
       },
       {
-        "name": "GR",
+        "name": "T",
         "type": "軸心"
       }
     ],
-    "releaseAt": "2026-04-24T15:00:00.000Z",
+    "releaseAt": "2026-09-11T15:00:00.000Z",
     "upcoming": true
   },
   {
-    "id": "SR-PRD-096146-03",
-    "code": "CX-17-03",
-    "name": "WARRIORSABER 9-65LO",
-    "nameCn": "武士星劍 9-65LO",
-    "series": "CX",
+    "id": "SR-PRD-080640-21",
+    "code": "BXG-70-21",
+    "name": "TIGARAGE FT3-60T Power Type",
+    "nameCn": "迪卡狂怒 FT3-60T 力量型態",
+    "series": "BXG",
     "productType": "其他",
     "parts": [
       {
-        "name": "Warriorsaber",
-        "nameCn": "武士星劍",
+        "name": "Tigarage ft power type",
+        "nameCn": "迪卡狂怒 FT 力量型態",
         "type": "戰刃"
+      },
+      {
+        "name": "TIGA",
+        "nameCn": "迪卡",
+        "type": "紋章鎖"
+      },
+      {
+        "name": "F／rage",
+        "nameCn": "F／狂怒",
+        "type": "主要戰刃"
+      },
+      {
+        "name": "Rage",
+        "nameCn": "狂怒",
+        "type": "金屬戰刃"
+      },
+      {
+        "name": "F",
+        "nameCn": "迪卡狂怒",
+        "type": "超越戰刃"
+      },
+      {
+        "name": "3-60",
+        "type": "固鎖"
+      },
+      {
+        "name": "T",
+        "type": "輔助戰刃"
+      },
+      {
+        "name": "T",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2026-09-11T15:00:00.000Z",
+    "upcoming": true
+  },
+  {
+    "id": "SR-PRD-096139-00",
+    "code": "UX-20",
+    "name": "GLORYVALKYRIELF Metallic Coat: White",
+    "nameCn": "榮耀武神LF 金屬塗層:白色",
+    "series": "UX",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Gloryvalkyrie",
+        "nameCn": "榮耀武神",
+        "type": "戰刃"
+      },
+      {
+        "name": "ラチェット一体型ブレード",
+        "nameCn": "固鎖輪盤一體型鋼鐵戰刃",
+        "type": "固鎖"
+      },
+      {
+        "name": "LF",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2026-07-10T15:00:00.000Z",
+    "upcoming": false
+  },
+  {
+    "id": "SR-PRD-096504-00",
+    "code": "BXG-47",
+    "name": "STORMPEGASIS 3-70RA",
+    "nameCn": "暴風天馬 3-70RA",
+    "series": "BXG",
+    "productType": "入門組",
+    "parts": [
+      {
+        "name": "Stormpegasis",
+        "nameCn": "暴風天馬",
+        "type": "戰刃"
+      },
+      {
+        "name": "3-70",
+        "type": "固鎖"
+      },
+      {
+        "name": "RA",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2026-07-10T15:00:00.000Z",
+    "upcoming": false
+  },
+  {
+    "id": "SR-PRD-084174-01",
+    "code": "BX-50-01",
+    "name": "HEAVENSRING 0-80DS",
+    "nameCn": "天國日輪 0-80DS",
+    "series": "BX",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Heavensring",
+        "nameCn": "天國日輪",
+        "type": "戰刃"
+      },
+      {
+        "name": "0-80",
+        "type": "固鎖"
+      },
+      {
+        "name": "DS",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2026-07-10T15:00:00.000Z",
+    "upcoming": false
+  },
+  {
+    "id": "SR-PRD-084174-02",
+    "code": "BX-50-02",
+    "name": "HEAVENSRING 6-60TP",
+    "nameCn": "天國日輪 6-60TP",
+    "series": "BX",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Heavensring",
+        "nameCn": "天國日輪",
+        "type": "戰刃"
+      },
+      {
+        "name": "6-60",
+        "type": "固鎖"
+      },
+      {
+        "name": "TP",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2026-07-10T15:00:00.000Z",
+    "upcoming": false
+  },
+  {
+    "id": "SR-PRD-084174-03",
+    "code": "BX-50-03",
+    "name": "IMPACTDRAKE 7-55FB",
+    "nameCn": "衝擊龍神 7-55FB",
+    "series": "BX",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Impactdrake",
+        "nameCn": "衝擊龍神",
+        "type": "戰刃"
+      },
+      {
+        "name": "7-55",
+        "type": "固鎖"
+      },
+      {
+        "name": "FB",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2026-07-10T15:00:00.000Z",
+    "upcoming": false
+  },
+  {
+    "id": "SR-PRD-084174-04",
+    "code": "BX-50-04",
+    "name": "GHOSTCIRCLEM-85DS",
+    "nameCn": "幽靈元魂M-85DS",
+    "series": "BX",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Ghostcircle",
+        "nameCn": "幽靈元魂",
+        "type": "戰刃"
+      },
+      {
+        "name": "M-85",
+        "type": "固鎖"
+      },
+      {
+        "name": "DS",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2026-07-10T15:00:00.000Z",
+    "upcoming": false
+  },
+  {
+    "id": "SR-PRD-084174-05",
+    "code": "BX-50-05",
+    "name": "WOLFFLAMED 9-65L",
+    "nameCn": "銀狼烈焰 D9-65L",
+    "series": "BX",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Wolfflamed",
+        "nameCn": "銀狼烈焰D",
+        "type": "戰刃"
+      },
+      {
+        "name": "WOLF",
+        "nameCn": "銀狼",
+        "type": "紋章鎖"
+      },
+      {
+        "name": "Flame",
+        "nameCn": "烈焰",
+        "type": "主要戰刃"
       },
       {
         "name": "9-65",
         "type": "固鎖"
       },
       {
-        "name": "LO",
+        "name": "D",
+        "type": "輔助戰刃"
+      },
+      {
+        "name": "L",
         "type": "軸心"
       }
     ],
-    "releaseAt": "2026-04-24T15:00:00.000Z",
-    "upcoming": true
+    "releaseAt": "2026-07-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
-    "id": "SR-PRD-096146-04",
-    "code": "CX-17-04",
-    "name": "HELLSHAMMER 3-85GU",
-    "nameCn": "惡魔重錘 3-85GU",
-    "series": "CX",
+    "id": "SR-PRD-084174-06",
+    "code": "BX-50-06",
+    "name": "CERBERUSREAPERB 0-80WB",
+    "nameCn": "魔犬獵魂 B0-80WB",
+    "series": "BX",
     "productType": "其他",
     "parts": [
       {
-        "name": "Hellshummner",
-        "nameCn": "惡魔重錘",
+        "name": "Cerberusreaperb",
+        "nameCn": "魔犬獵魂B",
         "type": "戰刃"
       },
       {
-        "name": "3-85",
+        "name": "CERBERUS",
+        "nameCn": "魔犬",
+        "type": "紋章鎖"
+      },
+      {
+        "name": "Reaper",
+        "nameCn": "獵魂",
+        "type": "主要戰刃"
+      },
+      {
+        "name": "0-80",
         "type": "固鎖"
       },
       {
-        "name": "GU",
+        "name": "B",
+        "type": "輔助戰刃"
+      },
+      {
+        "name": "WB",
         "type": "軸心"
       }
     ],
-    "releaseAt": "2026-04-24T15:00:00.000Z",
-    "upcoming": true
+    "releaseAt": "2026-07-10T15:00:00.000Z",
+    "upcoming": false
   },
   {
-    "id": "SR-PRD-096146-05",
-    "code": "CX-17-05",
-    "name": "TYRANNOBEAT 3-60N",
-    "nameCn": "暴龍霸擊 3-60N",
-    "series": "CX",
+    "id": "SR-PRD-080657-00",
+    "code": "BXG-49",
+    "name": "DRANSWORD 3-60F Version 2.0",
+    "nameCn": "蒼龍神劍 3-60F 版本2.0",
+    "series": "BXG",
     "productType": "其他",
     "parts": [
       {
-        "name": "Tyrannobeat",
-        "nameCn": "暴龍霸擊",
+        "name": "DranSword",
+        "nameCn": "蒼龍神劍 版本2.0",
         "type": "戰刃"
       },
       {
@@ -6346,62 +6888,378 @@ export const generatedProducts: readonly Product[] = [
         "type": "固鎖"
       },
       {
-        "name": "N",
+        "name": "F",
         "type": "軸心"
       }
     ],
-    "releaseAt": "2026-04-24T15:00:00.000Z",
-    "upcoming": true
+    "releaseAt": "2026-08-07T15:00:00.000Z",
+    "upcoming": false
   },
   {
-    "id": "SR-PRD-096146-06",
-    "code": "CX-17-06",
-    "name": "CRIMSONGARUDA 7-80GU",
-    "nameCn": "赫燃天鳳 7-80GU",
-    "series": "CX",
-    "productType": "其他",
-    "parts": [
-      {
-        "name": "Crimsongaruda",
-        "nameCn": "赫燃天鳳",
-        "type": "戰刃"
-      },
-      {
-        "name": "7-80",
-        "type": "固鎖"
-      },
-      {
-        "name": "GU",
-        "type": "軸心"
-      }
-    ],
-    "releaseAt": "2026-04-24T15:00:00.000Z",
-    "upcoming": true
-  },
-  {
-    "id": "SR-PRD-096160-00",
-    "code": "UX-19",
-    "name": "BulletGriffon H",
-    "nameCn": "子彈獅鷲 H",
+    "id": "SR-PRD-085546-01",
+    "code": "UX-21-01",
+    "name": "HELLSNETHERZ",
+    "nameCn": "惡魔冥界Z",
     "series": "UX",
     "productType": "其他",
     "parts": [
       {
-        "name": "Bulletgriffon",
-        "nameCn": "子彈獅鷲",
+        "name": "Hellsnether",
+        "nameCn": "惡魔冥界",
         "type": "戰刃"
       },
       {
-        "name": "RC-PRD-096160-00",
+        "name": "ラチェット一体型ブレード",
+        "nameCn": "固鎖輪盤一體型鋼鐵戰刃",
         "type": "固鎖"
       },
       {
-        "name": "H",
+        "name": "Z",
         "type": "軸心"
       }
     ],
-    "releaseAt": "2026-04-24T15:00:00.000Z",
+    "releaseAt": "2026-08-07T15:00:00.000Z",
+    "upcoming": false
+  },
+  {
+    "id": "SR-PRD-085546-02",
+    "code": "UX-21-02",
+    "name": "SILVERWOLF 9-70R Metallic Coat: Violet",
+    "nameCn": "霜輝銀狼 9-70R 金屬塗層:紫",
+    "series": "UX",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Silverwolf",
+        "nameCn": "霜輝銀狼",
+        "type": "戰刃"
+      },
+      {
+        "name": "9-70",
+        "type": "固鎖"
+      },
+      {
+        "name": "R",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2026-08-07T15:00:00.000Z",
+    "upcoming": false
+  },
+  {
+    "id": "SR-PRD-085546-03",
+    "code": "UX-21-03",
+    "name": "WYVERNHOVER 8-80B",
+    "nameCn": "飛龍凌空 8-80B",
+    "series": "UX",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Wyvernhover",
+        "nameCn": "飛龍凌空",
+        "type": "戰刃"
+      },
+      {
+        "name": "8-80",
+        "type": "固鎖"
+      },
+      {
+        "name": "B",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2026-08-07T15:00:00.000Z",
+    "upcoming": false
+  },
+  {
+    "id": "SR-PRD-080626-01",
+    "code": "CX-19-01",
+    "name": "CROCOTREADTQ 5-50GN",
+    "nameCn": "鱷魚碾壓 TQ5-50GN",
+    "series": "CX",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Crocotreadtq",
+        "nameCn": "鱷魚碾壓TQ",
+        "type": "戰刃"
+      },
+      {
+        "name": "CROCO",
+        "nameCn": "鱷魚",
+        "type": "紋章鎖"
+      },
+      {
+        "name": "T／tread",
+        "nameCn": "T／碾壓",
+        "type": "主要戰刃"
+      },
+      {
+        "name": "Tread",
+        "nameCn": "碾壓",
+        "type": "金屬戰刃"
+      },
+      {
+        "name": "T",
+        "nameCn": "鱷魚碾壓",
+        "type": "超越戰刃"
+      },
+      {
+        "name": "5-50",
+        "type": "固鎖"
+      },
+      {
+        "name": "Q",
+        "type": "輔助戰刃"
+      },
+      {
+        "name": "GN",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2026-09-11T15:00:00.000Z",
     "upcoming": true
+  },
+  {
+    "id": "SR-PRD-080626-02",
+    "code": "CX-19-02",
+    "name": "CROCOTREADTQ 5-50GN",
+    "nameCn": "鱷魚碾壓 TQ5-50GN",
+    "series": "CX",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Crocotreadtq",
+        "nameCn": "鱷魚碾壓TQ",
+        "type": "戰刃"
+      },
+      {
+        "name": "CROCO",
+        "nameCn": "鱷魚",
+        "type": "紋章鎖"
+      },
+      {
+        "name": "T／tread",
+        "nameCn": "T／碾壓",
+        "type": "主要戰刃"
+      },
+      {
+        "name": "Tread",
+        "nameCn": "碾壓",
+        "type": "金屬戰刃"
+      },
+      {
+        "name": "T",
+        "nameCn": "鱷魚碾壓",
+        "type": "超越戰刃"
+      },
+      {
+        "name": "5-50",
+        "type": "固鎖"
+      },
+      {
+        "name": "Q",
+        "type": "輔助戰刃"
+      },
+      {
+        "name": "GN",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2026-09-11T15:00:00.000Z",
+    "upcoming": true
+  },
+  {
+    "id": "SR-PRD-080626-03",
+    "code": "CX-19-03",
+    "name": "CROCOTREADTQ 5-50GN",
+    "nameCn": "鱷魚碾壓 TQ5-50GN",
+    "series": "CX",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Crocotreadtq",
+        "nameCn": "鱷魚碾壓TQ",
+        "type": "戰刃"
+      },
+      {
+        "name": "CROCO",
+        "nameCn": "鱷魚",
+        "type": "紋章鎖"
+      },
+      {
+        "name": "T／tread",
+        "nameCn": "T／碾壓",
+        "type": "主要戰刃"
+      },
+      {
+        "name": "Tread",
+        "nameCn": "碾壓",
+        "type": "金屬戰刃"
+      },
+      {
+        "name": "T",
+        "nameCn": "鱷魚碾壓",
+        "type": "超越戰刃"
+      },
+      {
+        "name": "5-50",
+        "type": "固鎖"
+      },
+      {
+        "name": "Q",
+        "type": "輔助戰刃"
+      },
+      {
+        "name": "GN",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2026-09-11T15:00:00.000Z",
+    "upcoming": true
+  },
+  {
+    "id": "SR-PRD-085683-01",
+    "code": "BXG-57-01",
+    "name": "EVAARCB 0-70E Metallic Coat: Orange EVA-00 Ver.",
+    "nameCn": "新世紀福音戰士至尊 B0-70E 金屬塗層:橘 零號機版",
+    "series": "BXG",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Evaarcb",
+        "nameCn": "新世紀福音戰士至尊B",
+        "type": "戰刃"
+      },
+      {
+        "name": "EVA",
+        "nameCn": "新世紀福音戰士",
+        "type": "紋章鎖"
+      },
+      {
+        "name": "Arc",
+        "nameCn": "至尊",
+        "type": "主要戰刃"
+      },
+      {
+        "name": "0-70",
+        "type": "固鎖"
+      },
+      {
+        "name": "B",
+        "type": "輔助戰刃"
+      },
+      {
+        "name": "E",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2026-08-28T15:00:00.000Z",
+    "upcoming": false
+  },
+  {
+    "id": "SR-PRD-085683-02",
+    "code": "BXG-57-02",
+    "name": "EVABRAVEA 1-70V Metallic Coat: Violet EVA-01 Ver.",
+    "nameCn": "新世紀福音戰士勇氣 A1-70V 金屬塗層:紫 初號機版",
+    "series": "BXG",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Evabravea",
+        "nameCn": "新世紀福音戰士勇氣A",
+        "type": "戰刃"
+      },
+      {
+        "name": "EVA",
+        "nameCn": "新世紀福音戰士",
+        "type": "紋章鎖"
+      },
+      {
+        "name": "Brave",
+        "nameCn": "勇氣",
+        "type": "主要戰刃"
+      },
+      {
+        "name": "1-70",
+        "type": "固鎖"
+      },
+      {
+        "name": "A",
+        "type": "輔助戰刃"
+      },
+      {
+        "name": "V",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2026-08-28T15:00:00.000Z",
+    "upcoming": false
+  },
+  {
+    "id": "SR-PRD-085683-03",
+    "code": "BXG-57-03",
+    "name": "EVABRUSHT 2-70A Metallic Coat: Red EVA-02 Ver.",
+    "nameCn": "新世紀福音戰士九尾 T2-70A 金屬塗層:紅 2號機版",
+    "series": "BXG",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Evabrusht",
+        "nameCn": "新世紀福音戰士九尾T",
+        "type": "戰刃"
+      },
+      {
+        "name": "EVA",
+        "nameCn": "新世紀福音戰士",
+        "type": "紋章鎖"
+      },
+      {
+        "name": "Brush",
+        "nameCn": "九尾",
+        "type": "主要戰刃"
+      },
+      {
+        "name": "2-70",
+        "type": "固鎖"
+      },
+      {
+        "name": "T",
+        "type": "輔助戰刃"
+      },
+      {
+        "name": "A",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2026-08-28T15:00:00.000Z",
+    "upcoming": false
+  },
+  {
+    "id": "SR-PRD-065159-00",
+    "code": "BXG-63",
+    "name": "GLORYVALKYRIELF Metallic Coat: Blue",
+    "nameCn": "榮耀武神LF 金屬塗層:藍",
+    "series": "BXG",
+    "productType": "其他",
+    "parts": [
+      {
+        "name": "Gloryvalkyrie",
+        "nameCn": "榮耀武神",
+        "type": "戰刃"
+      },
+      {
+        "name": "ラチェット一体型ブレード",
+        "nameCn": "固鎖輪盤一體型鋼鐵戰刃",
+        "type": "固鎖"
+      },
+      {
+        "name": "LF",
+        "type": "軸心"
+      }
+    ],
+    "releaseAt": "2026-08-28T15:00:00.000Z",
+    "upcoming": false
   }
 ] as const;
 
@@ -6419,8 +7277,9 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
       "BXC-00-01",
       "BXC-00-02",
       "BXC-00-03",
-      "BXG-12",
-      "BXG-25"
+      "BXG-12-04",
+      "BXG-25-01",
+      "BXG-49"
     ]
   },
   {
@@ -6441,11 +7300,15 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
       "BXC-00-01",
       "BXC-00-02",
       "BXC-00-03",
-      "BXG-12",
+      "BXG-12-04",
       "BXG-13",
-      "BXG-29-01",
+      "BXG-30-01",
       "BXG-34-01",
       "BXG-37-01",
+      "BXG-49",
+      "BXG-70-01",
+      "BXG-70-11",
+      "BXG-70-21",
       "CX-17-01",
       "CX-17-05",
       "UX-15-03"
@@ -6467,12 +7330,14 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
       "BXC-00-01",
       "BXC-00-02",
       "BXC-00-03",
-      "BXG-07",
-      "BXG-12",
+      "BXG-07-00",
+      "BXG-07-01",
+      "BXG-12-04",
       "BXG-23",
-      "BXG-29-01",
+      "BXG-30-01",
       "BXG-34-01",
       "BXG-37-01",
+      "BXG-49",
       "BXH-01",
       "CX-08-03",
       "UX-12-03"
@@ -6494,7 +7359,6 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "4-60",
     "type": "固鎖",
     "products": [
-      "BX-00-01",
       "BX-02",
       "BX-08-03",
       "BX-14-05",
@@ -6503,10 +7367,10 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
       "BX-24-03",
       "BX-35-01",
       "BXG-03",
-      "BXG-12",
+      "BXG-12-01",
       "BXG-22",
       "BXG-23",
-      "BXG-30-02",
+      "BXG-29-02",
       "BXG-33-02",
       "BXG-36-01",
       "BXH-01",
@@ -6526,7 +7390,11 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
       "BX-46-02",
       "BXG-01",
       "BXG-03",
-      "BXG-15"
+      "BXG-15",
+      "BXG-70-01",
+      "BXG-70-11",
+      "BXG-70-21",
+      "BXG-79"
     ]
   },
   {
@@ -6547,7 +7415,6 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "4-80",
     "type": "固鎖",
     "products": [
-      "BX-00-02",
       "BX-03",
       "BX-05",
       "BX-08-02",
@@ -6559,8 +7426,8 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
       "BX-24-06",
       "BX-27-02",
       "BXG-04",
-      "BXG-25",
-      "BXG-30-01",
+      "BXG-25-01",
+      "BXG-29-01",
       "BXG-33-01",
       "BXG-36-02",
       "UX-18-06"
@@ -6570,20 +7437,20 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "B",
     "type": "軸心",
     "products": [
-      "BX-00-02",
       "BX-03",
       "BX-05",
       "BX-08-01",
       "BX-14-03",
       "BX-17-02",
       "BX-35-02",
-      "BXG-30-01",
+      "BXG-29-01",
       "BXG-33-01",
       "BXG-36-02",
       "UX-10-03",
       "UX-16-01",
       "UX-16-02",
-      "UX-16-03"
+      "UX-16-03",
+      "UX-21-03"
     ]
   },
   {
@@ -6603,7 +7470,6 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "3-80",
     "type": "固鎖",
     "products": [
-      "BX-00-01",
       "BX-04",
       "BX-06",
       "BX-08-01",
@@ -6615,7 +7481,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
       "BX-36-03",
       "BXG-01",
       "BXG-15",
-      "BXG-29-02",
+      "BXG-30-02",
       "BXG-34-02",
       "BXG-37-02",
       "BXH-02",
@@ -6632,8 +7498,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
       "BX-08-03",
       "BX-14-02",
       "BX-21-03",
-      "BXG-25",
-      "BXG-29-02",
+      "BXG-25-02",
       "BXG-30-02",
       "BXG-34-02",
       "BXG-37-02",
@@ -6675,7 +7540,6 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "HN",
     "type": "軸心",
     "products": [
-      "BX-00-01",
       "BX-13",
       "BX-16-03",
       "BX-24-05",
@@ -6700,14 +7564,15 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "LF",
     "type": "軸心",
     "products": [
-      "BX-00-02",
       "BX-14-01",
       "BX-14-04",
       "BX-14-05",
       "BX-21-02",
-      "BXG-25",
+      "BXG-25-03",
+      "BXG-63",
       "CX-05-05",
-      "UX-05-02"
+      "UX-05-02",
+      "UX-20"
     ]
   },
   {
@@ -6734,7 +7599,6 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
       "BXG-05",
       "BXG-06",
       "BXG-08",
-      "BXG-54",
       "CX-11-03"
     ]
   },
@@ -6742,11 +7606,11 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "P",
     "type": "軸心",
     "products": [
-      "BX-00-01",
       "BX-15",
       "BX-31-04",
       "BXG-04",
       "BXG-05",
+      "BXG-29-02",
       "BXG-33-02",
       "BXG-36-01"
     ]
@@ -6785,6 +7649,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
       "BX-27-03",
       "BX-31-03",
       "BX-39-02",
+      "BXG-80",
       "CX-05-03"
     ]
   },
@@ -6814,7 +7679,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "products": [
       "BX-20-01",
       "BX-31-04",
-      "BXG-25",
+      "BXG-25-03",
       "UX-18-05"
     ]
   },
@@ -6822,10 +7687,10 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "R",
     "type": "軸心",
     "products": [
-      "BX-00-03",
       "BX-20-01",
       "BX-35-04",
-      "BX-46-01"
+      "BX-46-01",
+      "UX-21-02"
     ]
   },
   {
@@ -6842,7 +7707,6 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "HT",
     "type": "軸心",
     "products": [
-      "BX-00-04",
       "BX-21-01",
       "BX-27-02",
       "BXG-08",
@@ -6864,7 +7728,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "products": [
       "BX-23",
       "BX-46-01",
-      "BXG-25",
+      "BXG-25-03",
       "BXG-40-02",
       "UX-05-02",
       "UX-11"
@@ -6896,7 +7760,6 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "GB",
     "type": "軸心",
     "products": [
-      "BX-00-03",
       "BX-24-01",
       "BX-24-03",
       "BX-24-06",
@@ -6939,7 +7802,6 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "9-80",
     "type": "固鎖",
     "products": [
-      "BX-00-04",
       "BX-27-01",
       "BX-31-03",
       "BX-35-02",
@@ -6952,9 +7814,11 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "GN",
     "type": "軸心",
     "products": [
-      "BX-00-04",
       "BX-27-01",
       "BXG-20",
+      "CX-19-01",
+      "CX-19-02",
+      "CX-19-03",
       "UX-06"
     ]
   },
@@ -6965,8 +7829,13 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "products": [
       "BX-48-05",
       "BXG-18",
-      "BXG-25",
-      "BXG-31",
+      "BXG-25-02",
+      "BXG-31-01",
+      "BXG-31-02",
+      "BXG-31-03",
+      "BXG-31-11",
+      "BXG-31-22",
+      "BXG-31-33",
       "CX-08-04",
       "UX-01",
       "UX-04-01"
@@ -6976,12 +7845,17 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "1-60",
     "type": "固鎖",
     "products": [
-      "BX-00-04",
       "BX-31-05",
       "BX-35-04",
-      "BXG-07",
+      "BXG-07-00",
+      "BXG-07-01",
       "BXG-18",
-      "BXG-31",
+      "BXG-31-01",
+      "BXG-31-02",
+      "BXG-31-03",
+      "BXG-31-11",
+      "BXG-31-22",
+      "BXG-31-33",
       "CX-08-03",
       "UX-01",
       "UX-04-01",
@@ -6995,7 +7869,12 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "products": [
       "BXG-18",
       "BXG-24",
-      "BXG-31",
+      "BXG-31-01",
+      "BXG-31-02",
+      "BXG-31-03",
+      "BXG-31-11",
+      "BXG-31-22",
+      "BXG-31-33",
       "BXG-41-01",
       "BXG-57-03",
       "BXH-10",
@@ -7016,10 +7895,12 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "type": "固鎖",
     "products": [
       "BX-35-03",
-      "BXG-12",
+      "BXG-12-02",
       "BXG-19",
       "BXG-24",
-      "BXG-25",
+      "BXG-25-02",
+      "BXG-47",
+      "BXG-80",
       "BXH-10",
       "UX-02",
       "UX-05-03",
@@ -7052,11 +7933,13 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "5-70",
     "type": "固鎖",
     "products": [
-      "BX-00-02",
       "BX-35-06",
       "BX-39-02",
       "BXH-09",
       "CX-09",
+      "CX-18-01",
+      "CX-18-02",
+      "CX-18-03",
       "UX-03",
       "UX-04-02"
     ]
@@ -7065,7 +7948,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "DB",
     "type": "軸心",
     "products": [
-      "BXG-25",
+      "BXG-25-01",
       "BXH-09",
       "CX-06-02",
       "CX-10",
@@ -7096,7 +7979,6 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "4-70",
     "type": "固鎖",
     "products": [
-      "BX-00-03",
       "BX-31-01",
       "BX-31-04",
       "BX-36-02",
@@ -7104,6 +7986,8 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
       "BX-38-01",
       "BX-48-02",
       "BXH-14",
+      "BXH-23-01",
+      "BXH-23-02",
       "CX-05-01",
       "CX-05-05"
     ]
@@ -7133,7 +8017,6 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "1-80",
     "type": "固鎖",
     "products": [
-      "BX-00-03",
       "BXG-40-01",
       "CX-17-02",
       "UX-05-01",
@@ -7183,7 +8066,8 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "products": [
       "BX-34",
       "BXG-09",
-      "BXG-12",
+      "BXG-12-03",
+      "BXG-81",
       "CX-06-03",
       "UX-07-02",
       "UX-12-05"
@@ -7219,6 +8103,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
       "BX-39-03",
       "BXG-11",
       "BXG-41-02",
+      "BXG-81",
       "CX-05-02"
     ]
   },
@@ -7246,6 +8131,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "products": [
       "BX-48-03",
       "BXG-11",
+      "BXG-79",
       "CX-05-06",
       "UX-06"
     ]
@@ -7265,7 +8151,8 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "products": [
       "CX-06-01",
       "UX-07-01",
-      "UX-18-04"
+      "UX-18-04",
+      "UX-21-02"
     ]
   },
   {
@@ -7281,7 +8168,8 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "nameCn": "雷霆天龍 (上升攻擊型)",
     "type": "戰刃",
     "products": [
-      "BXG-07"
+      "BXG-07-00",
+      "BXG-07-01"
     ]
   },
   {
@@ -7311,13 +8199,15 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "nameCn": "霜輝銀狼",
     "type": "戰刃",
     "products": [
-      "UX-08"
+      "UX-08",
+      "UX-21-02"
     ]
   },
   {
     "name": "FB",
     "type": "軸心",
     "products": [
+      "BX-50-03",
       "CX-11-03",
       "UX-08"
     ]
@@ -7346,6 +8236,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "products": [
       "BX-38",
       "BX-38-01",
+      "BX-50-02",
       "UX-18-04"
     ]
   },
@@ -7371,6 +8262,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "L",
     "type": "軸心",
     "products": [
+      "BX-50-05",
       "UX-09",
       "UX-15-02"
     ]
@@ -7428,8 +8320,11 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "RA",
     "type": "軸心",
     "products": [
-      "BXG-12",
+      "BXG-12-01",
+      "BXG-12-02",
+      "BXG-12-03",
       "BXG-22",
+      "BXG-47",
       "UX-10-02"
     ]
   },
@@ -7438,7 +8333,8 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "nameCn": "惡魔重錘",
     "type": "戰刃",
     "products": [
-      "BXG-19"
+      "BXG-19",
+      "CX-17-04"
     ]
   },
   {
@@ -7463,6 +8359,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "nameCn": "衝擊龍神",
     "type": "戰刃",
     "products": [
+      "BX-50-03",
       "UX-11"
     ]
   },
@@ -7487,6 +8384,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "nameCn": "幽靈元魂",
     "type": "戰刃",
     "products": [
+      "BX-50-04",
       "UX-12-01",
       "UX-12-02"
     ]
@@ -7495,6 +8393,8 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "0-80",
     "type": "固鎖",
     "products": [
+      "BX-50-01",
+      "BX-50-06",
       "CX-06-02",
       "UX-12-01",
       "UX-12-04",
@@ -7549,7 +8449,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "nameCn": "龍騎士S",
     "type": "戰刃",
     "products": [
-      "BXG-12",
+      "BXG-12-01",
       "BXG-22"
     ]
   },
@@ -7558,7 +8458,8 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "nameCn": "暴風天馬",
     "type": "戰刃",
     "products": [
-      "BXG-12"
+      "BXG-12-02",
+      "BXG-47"
     ]
   },
   {
@@ -7566,7 +8467,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "nameCn": "天翼戰神",
     "type": "戰刃",
     "products": [
-      "BXG-12"
+      "BXG-12-03"
     ]
   },
   {
@@ -7574,7 +8475,9 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "nameCn": "蒼龍勇氣S",
     "type": "戰刃",
     "products": [
-      "BXH-16",
+      "BXH-16-01",
+      "BXH-16-02",
+      "BXH-16-03",
       "CX-01",
       "CX-04-01"
     ]
@@ -7585,7 +8488,9 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "type": "紋章鎖",
     "products": [
       "BXG-51",
-      "BXH-16",
+      "BXH-16-01",
+      "BXH-16-02",
+      "BXH-16-03",
       "CX-01",
       "CX-04-01"
     ]
@@ -7597,7 +8502,11 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "products": [
       "BXG-51",
       "BXG-57-02",
-      "BXH-16",
+      "BXH-16-01",
+      "BXH-16-02",
+      "BXH-16-03",
+      "BXH-23-01",
+      "BXH-23-02",
       "CX-01",
       "CX-04-01",
       "UX-15-03",
@@ -7608,8 +8517,11 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "6-60",
     "type": "固鎖",
     "products": [
+      "BX-50-02",
       "BXG-51",
-      "BXH-16",
+      "BXH-16-01",
+      "BXH-16-02",
+      "BXH-16-03",
       "CX-01",
       "CX-04-01"
     ]
@@ -7619,8 +8531,11 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "type": "輔助戰刃",
     "products": [
       "BXG-51",
+      "BXG-80",
       "BXH-14",
-      "BXH-16",
+      "BXH-16-01",
+      "BXH-16-02",
+      "BXH-16-03",
       "CX-01",
       "CX-04-01"
     ]
@@ -7632,7 +8547,9 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
       "BXG-51",
       "BXG-57-02",
       "BXH-14",
-      "BXH-16",
+      "BXH-16-01",
+      "BXH-16-02",
+      "BXH-16-03",
       "CX-01",
       "CX-04-01"
     ]
@@ -7672,7 +8589,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "products": [
       "BXG-41-02",
       "BXG-43",
-      "BXH-00-01",
+      "BXH-22",
       "CX-02",
       "CX-05-02",
       "CX-08-06",
@@ -7684,6 +8601,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "type": "輔助戰刃",
     "products": [
       "BXG-43",
+      "BXG-79",
       "CX-02"
     ]
   },
@@ -7741,7 +8659,9 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "B",
     "type": "輔助戰刃",
     "products": [
+      "BX-50-06",
       "BXG-57-01",
+      "BXG-81",
       "BXH-15",
       "CX-03",
       "CX-04-02"
@@ -7771,6 +8691,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "nameCn": "天蠍長矛",
     "type": "戰刃",
     "products": [
+      "BXG-61",
       "UX-14"
     ]
   },
@@ -7788,7 +8709,8 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "type": "軸心",
     "products": [
       "BXG-61",
-      "UX-14"
+      "UX-14",
+      "UX-21-01"
     ]
   },
   {
@@ -7814,6 +8736,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "nameCn": "獵魂",
     "type": "主要戰刃",
     "products": [
+      "BX-50-06",
       "CX-05-01",
       "CX-05-02"
     ]
@@ -7823,6 +8746,9 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "type": "輔助戰刃",
     "products": [
       "BXG-57-03",
+      "BXG-70-01",
+      "BXG-70-11",
+      "BXG-70-21",
       "CX-05-01",
       "CX-05-03"
     ]
@@ -7831,7 +8757,6 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "K",
     "type": "軸心",
     "products": [
-      "BXG-54",
       "CX-05-01",
       "CX-05-04",
       "CX-05-06"
@@ -7870,32 +8795,32 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     ]
   },
   {
-    "name": "Spider-man",
-    "nameCn": "蜘蛛人",
+    "name": "Iron man",
+    "nameCn": "鋼鐵人",
     "type": "戰刃",
     "products": [
       "BXG-29-01"
     ]
   },
   {
-    "name": "Venom",
-    "nameCn": "猛毒",
+    "name": "Thanos",
+    "nameCn": "薩諾斯",
     "type": "戰刃",
     "products": [
       "BXG-29-02"
     ]
   },
   {
-    "name": "Iron man",
-    "nameCn": "鋼鐵人",
+    "name": "Spider-man",
+    "nameCn": "蜘蛛人",
     "type": "戰刃",
     "products": [
       "BXG-30-01"
     ]
   },
   {
-    "name": "Thanos",
-    "nameCn": "薩諾斯",
+    "name": "Venom",
+    "nameCn": "猛毒",
     "type": "戰刃",
     "products": [
       "BXG-30-02"
@@ -7983,7 +8908,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
   },
   {
     "name": "Jurassic world quetzalcoatlus",
-    "nameCn": "棘龍",
+    "nameCn": "翼龍",
     "type": "戰刃",
     "products": [
       "BXG-41-02"
@@ -7991,7 +8916,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
   },
   {
     "name": "Jurassic world spinosaurus",
-    "nameCn": "翼龍",
+    "nameCn": "棘龍",
     "type": "戰刃",
     "products": [
       "BXG-41-01"
@@ -8060,6 +8985,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "type": "固鎖",
     "products": [
       "BX-44",
+      "BX-50-04",
       "CX-11-02"
     ]
   },
@@ -8139,6 +9065,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "nameCn": "魔犬",
     "type": "紋章鎖",
     "products": [
+      "BX-50-06",
       "CX-08-01",
       "CX-08-03"
     ]
@@ -8148,6 +9075,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "nameCn": "烈焰",
     "type": "主要戰刃",
     "products": [
+      "BX-50-05",
       "CX-08-01",
       "CX-08-02"
     ]
@@ -8157,13 +9085,17 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "type": "輔助戰刃",
     "products": [
       "CX-08-01",
-      "CX-08-03"
+      "CX-08-03",
+      "CX-18-01",
+      "CX-18-02",
+      "CX-18-03"
     ]
   },
   {
     "name": "WB",
     "type": "軸心",
     "products": [
+      "BX-50-06",
       "CX-08-01",
       "CX-08-05",
       "CX-08-06"
@@ -8261,8 +9193,9 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "type": "固鎖",
     "products": [
       "BX-49",
-      "BXH-00-02",
-      "BXH-00-03",
+      "BXH-25-01",
+      "BXH-25-02",
+      "BXH-25-03",
       "UX-15-01"
     ]
   },
@@ -8326,6 +9259,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "D",
     "type": "輔助戰刃",
     "products": [
+      "BX-50-05",
       "CX-09"
     ]
   },
@@ -8350,6 +9284,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "9-65",
     "type": "固鎖",
     "products": [
+      "BX-50-05",
       "CX-17-03",
       "UX-16-01",
       "UX-16-02",
@@ -8377,6 +9312,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "nameCn": "銀狼",
     "type": "紋章鎖",
     "products": [
+      "BX-50-05",
       "CX-10"
     ]
   },
@@ -8476,6 +9412,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "7-55",
     "type": "固鎖",
     "products": [
+      "BX-50-03",
       "UX-18-01",
       "UX-18-05"
     ]
@@ -8599,6 +9536,8 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "I",
     "type": "軸心",
     "products": [
+      "BXH-23-01",
+      "BXH-23-02",
       "CX-13",
       "CX-16"
     ]
@@ -8662,7 +9601,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "nameCn": "邪神狂怒FE",
     "type": "戰刃",
     "products": [
-      "BXH-00-01",
+      "BXH-22",
       "CX-15"
     ]
   },
@@ -8671,7 +9610,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "nameCn": "邪神",
     "type": "紋章鎖",
     "products": [
-      "BXH-00-01",
+      "BXH-22",
       "CX-15"
     ]
   },
@@ -8680,6 +9619,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "nameCn": "F／狂怒",
     "type": "主要戰刃",
     "products": [
+      "BXH-22",
       "CX-15"
     ]
   },
@@ -8688,7 +9628,10 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "nameCn": "狂怒",
     "type": "金屬戰刃",
     "products": [
-      "BXH-00-01",
+      "BXG-70-01",
+      "BXG-70-11",
+      "BXG-70-21",
+      "BXH-22",
       "CX-15"
     ]
   },
@@ -8697,7 +9640,10 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "nameCn": "邪神狂怒",
     "type": "超越戰刃",
     "products": [
-      "BXH-00-01",
+      "BXG-70-01",
+      "BXG-70-11",
+      "BXG-70-21",
+      "BXH-22",
       "CX-15"
     ]
   },
@@ -8705,7 +9651,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "E",
     "type": "輔助戰刃",
     "products": [
-      "BXH-00-01",
+      "BXH-22",
       "CX-15"
     ]
   },
@@ -8713,7 +9659,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     "name": "Y",
     "type": "軸心",
     "products": [
-      "BXH-00-01",
+      "BXH-22",
       "CX-15"
     ]
   },
@@ -8726,149 +9672,24 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     ]
   },
   {
-    "name": "Obi-wan kenobi",
-    "nameCn": "歐比王肯諾比",
+    "name": "Bulletgriffon",
+    "nameCn": "彈丸獅鷲",
     "type": "戰刃",
     "products": [
-      "BX-00-01"
+      "UX-19"
     ]
   },
   {
-    "name": "General grievous",
-    "nameCn": "葛里維斯將軍",
-    "type": "戰刃",
+    "name": "RATCHET-integrated BLADE",
+    "nameCn": "固鎖一體型戰刃",
+    "type": "固鎖",
     "products": [
-      "BX-00-01"
+      "UX-19"
     ]
   },
   {
-    "name": "Chewbacca",
-    "nameCn": "丘巴卡",
-    "type": "戰刃",
-    "products": [
-      "BX-00-02"
-    ]
-  },
-  {
-    "name": "Stormtrooper",
-    "nameCn": "風暴兵",
-    "type": "戰刃",
-    "products": [
-      "BX-00-02"
-    ]
-  },
-  {
-    "name": "Captain america",
-    "nameCn": "美國隊長",
-    "type": "戰刃",
-    "products": [
-      "BX-00-03"
-    ]
-  },
-  {
-    "name": "Red hulk",
-    "nameCn": "紅浩克",
-    "type": "戰刃",
-    "products": [
-      "BX-00-03"
-    ]
-  },
-  {
-    "name": "Miles morales",
-    "nameCn": "終極蜘蛛人",
-    "type": "戰刃",
-    "products": [
-      "BX-00-04"
-    ]
-  },
-  {
-    "name": "Green goblin",
-    "nameCn": "綠惡魔",
-    "type": "戰刃",
-    "products": [
-      "BX-00-04"
-    ]
-  },
-  {
-    "name": "Dranstrike",
-    "nameCn": "蒼龍突擊",
-    "type": "戰刃",
-    "products": [
-      "BX-49",
-      "BXH-00-02",
-      "BXH-00-03"
-    ]
-  },
-  {
-    "name": "FF",
-    "type": "軸心",
-    "products": [
-      "BX-49",
-      "BXH-00-02",
-      "BXH-00-03"
-    ]
-  },
-  {
-    "name": "Dranbrave s",
-    "nameCn": "蒼龍勇氣 S",
-    "type": "戰刃",
-    "products": [
-      "BXG-51"
-    ]
-  },
-  {
-    "name": "Warriorsaber metal coat: samurai blue soccer japan national team ver.",
-    "nameCn": "武士星劍",
-    "type": "戰刃",
-    "products": [
-      "BXG-54"
-    ]
-  },
-  {
-    "name": "Evaarc b unit-00 ver.",
-    "nameCn": "福音戰士至尊 B 零號機版本",
-    "type": "戰刃",
-    "products": [
-      "BXG-57-01"
-    ]
-  },
-  {
-    "name": "Eva",
-    "nameCn": "福音戰士",
-    "type": "紋章鎖",
-    "products": [
-      "BXG-57-01",
-      "BXG-57-02",
-      "BXG-57-03"
-    ]
-  },
-  {
-    "name": "Evabrave a unit-01 ver.",
-    "nameCn": "福音戰士勇氣 A 初號機版本",
-    "type": "戰刃",
-    "products": [
-      "BXG-57-02"
-    ]
-  },
-  {
-    "name": "Evabrush t unit-02 ver.",
-    "nameCn": "福音戰士九尾 T ２號機版本",
-    "type": "戰刃",
-    "products": [
-      "BXG-57-03"
-    ]
-  },
-  {
-    "name": "Scorpiospear metal coat: magenta",
-    "nameCn": "天蠍長矛",
-    "type": "戰刃",
-    "products": [
-      "BXG-61"
-    ]
-  },
-  {
-    "name": "Unicorndelta p",
-    "nameCn": "獨角獸 Delta P",
+    "name": "Unicorndeltapo",
+    "nameCn": "獨角極變PO",
     "type": "戰刃",
     "products": [
       "CX-17-01",
@@ -8876,9 +9697,18 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     ]
   },
   {
-    "name": "Unicorn",
-    "nameCn": "獨角獸",
+    "name": "UNICORN",
+    "nameCn": "獨角",
     "type": "紋章鎖",
+    "products": [
+      "CX-17-01",
+      "CX-17-02"
+    ]
+  },
+  {
+    "name": "Pdelta",
+    "nameCn": "P／極變",
+    "type": "主要戰刃",
     "products": [
       "CX-17-01",
       "CX-17-02"
@@ -8886,7 +9716,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
   },
   {
     "name": "Delta",
-    "nameCn": "獨角獸",
+    "nameCn": "極變",
     "type": "金屬戰刃",
     "products": [
       "CX-17-01",
@@ -8895,7 +9725,7 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
   },
   {
     "name": "P",
-    "nameCn": "獨角獸",
+    "nameCn": "獨角極變",
     "type": "超越戰刃",
     "products": [
       "CX-17-01",
@@ -8920,26 +9750,410 @@ export const generatedAllParts: readonly (Part & { products: string[] })[] = [
     ]
   },
   {
-    "name": "Hellshummner",
-    "nameCn": "惡魔重錘",
+    "name": "Dranstrike",
+    "nameCn": "蒼龍突擊",
     "type": "戰刃",
     "products": [
-      "CX-17-04"
+      "BX-49",
+      "BXH-25-01",
+      "BXH-25-02",
+      "BXH-25-03"
     ]
   },
   {
-    "name": "Bulletgriffon",
-    "nameCn": "子彈獅鷲",
-    "type": "戰刃",
+    "name": "FF",
+    "type": "軸心",
     "products": [
-      "UX-19"
+      "BX-49",
+      "BXH-25-01",
+      "BXH-25-02",
+      "BXH-25-03"
     ]
   },
   {
-    "name": "RC-PRD-096160-00",
+    "name": "Dranbrave",
+    "nameCn": "蒼龍勇氣",
+    "type": "戰刃",
+    "products": [
+      "BXG-51"
+    ]
+  },
+  {
+    "name": "Brachiowhipow",
+    "nameCn": "腕龍鞭打OW",
+    "type": "戰刃",
+    "products": [
+      "CX-18-01",
+      "CX-18-02",
+      "CX-18-03"
+    ]
+  },
+  {
+    "name": "BRACHIO",
+    "nameCn": "腕龍",
+    "type": "紋章鎖",
+    "products": [
+      "CX-18-01",
+      "CX-18-02",
+      "CX-18-03"
+    ]
+  },
+  {
+    "name": "Whipo",
+    "nameCn": "O／鞭打",
+    "type": "主要戰刃",
+    "products": [
+      "CX-18-01",
+      "CX-18-02",
+      "CX-18-03"
+    ]
+  },
+  {
+    "name": "Whip",
+    "nameCn": "鞭打",
+    "type": "金屬戰刃",
+    "products": [
+      "CX-18-01",
+      "CX-18-02",
+      "CX-18-03"
+    ]
+  },
+  {
+    "name": "O",
+    "nameCn": "腕龍鞭打",
+    "type": "超越戰刃",
+    "products": [
+      "CX-18-01",
+      "CX-18-02",
+      "CX-18-03"
+    ]
+  },
+  {
+    "name": "Nr",
+    "type": "軸心",
+    "products": [
+      "CX-18-01",
+      "CX-18-02",
+      "CX-18-03"
+    ]
+  },
+  {
+    "name": "Drakebraveg",
+    "nameCn": "龍神勇氣G",
+    "type": "戰刃",
+    "products": [
+      "BXH-23-01",
+      "BXH-23-02"
+    ]
+  },
+  {
+    "name": "DRAKE",
+    "nameCn": "龍神",
+    "type": "紋章鎖",
+    "products": [
+      "BXH-23-01",
+      "BXH-23-02"
+    ]
+  },
+  {
+    "name": "G",
+    "type": "輔助戰刃",
+    "products": [
+      "BXH-23-01",
+      "BXH-23-02"
+    ]
+  },
+  {
+    "name": "Hornetfortr",
+    "nameCn": "黃蜂要塞R",
+    "type": "戰刃",
+    "products": [
+      "BXG-79"
+    ]
+  },
+  {
+    "name": "HORNET",
+    "nameCn": "黃蜂",
+    "type": "紋章鎖",
+    "products": [
+      "BXG-79"
+    ]
+  },
+  {
+    "name": "Fort",
+    "nameCn": "要塞",
+    "type": "主要戰刃",
+    "products": [
+      "BXG-79"
+    ]
+  },
+  {
+    "name": "Krakenwriggles",
+    "nameCn": "海怪扭擺S",
+    "type": "戰刃",
+    "products": [
+      "BXG-80"
+    ]
+  },
+  {
+    "name": "KRAKEN",
+    "nameCn": "海怪",
+    "type": "紋章鎖",
+    "products": [
+      "BXG-80"
+    ]
+  },
+  {
+    "name": "Riggle",
+    "nameCn": "扭擺",
+    "type": "主要戰刃",
+    "products": [
+      "BXG-80"
+    ]
+  },
+  {
+    "name": "Bucksantlersb",
+    "nameCn": "雄鹿戰角B",
+    "type": "戰刃",
+    "products": [
+      "BXG-81"
+    ]
+  },
+  {
+    "name": "BUCKS",
+    "nameCn": "雄鹿",
+    "type": "紋章鎖",
+    "products": [
+      "BXG-81"
+    ]
+  },
+  {
+    "name": "Antlers",
+    "nameCn": "戰角",
+    "type": "主要戰刃",
+    "products": [
+      "BXG-81"
+    ]
+  },
+  {
+    "name": "Tigarage ft multi type",
+    "nameCn": "迪卡狂怒 FT 複合型態",
+    "type": "戰刃",
+    "products": [
+      "BXG-70-01"
+    ]
+  },
+  {
+    "name": "TIGA",
+    "nameCn": "迪卡",
+    "type": "紋章鎖",
+    "products": [
+      "BXG-70-01",
+      "BXG-70-11",
+      "BXG-70-21"
+    ]
+  },
+  {
+    "name": "F／rage",
+    "nameCn": "F／狂怒",
+    "type": "主要戰刃",
+    "products": [
+      "BXG-70-01",
+      "BXG-70-11",
+      "BXG-70-21"
+    ]
+  },
+  {
+    "name": "Tigarage ft sky type",
+    "nameCn": "迪卡狂怒 FT 天空型態",
+    "type": "戰刃",
+    "products": [
+      "BXG-70-11"
+    ]
+  },
+  {
+    "name": "Tigarage ft power type",
+    "nameCn": "迪卡狂怒 FT 力量型態",
+    "type": "戰刃",
+    "products": [
+      "BXG-70-21"
+    ]
+  },
+  {
+    "name": "Gloryvalkyrie",
+    "nameCn": "榮耀武神",
+    "type": "戰刃",
+    "products": [
+      "BXG-63",
+      "UX-20"
+    ]
+  },
+  {
+    "name": "ラチェット一体型ブレード",
+    "nameCn": "固鎖輪盤一體型鋼鐵戰刃",
     "type": "固鎖",
     "products": [
-      "UX-19"
+      "BXG-63",
+      "UX-20",
+      "UX-21-01"
+    ]
+  },
+  {
+    "name": "Heavensring",
+    "nameCn": "天國日輪",
+    "type": "戰刃",
+    "products": [
+      "BX-50-01",
+      "BX-50-02"
+    ]
+  },
+  {
+    "name": "DS",
+    "type": "軸心",
+    "products": [
+      "BX-50-01",
+      "BX-50-04"
+    ]
+  },
+  {
+    "name": "Wolfflamed",
+    "nameCn": "銀狼烈焰D",
+    "type": "戰刃",
+    "products": [
+      "BX-50-05"
+    ]
+  },
+  {
+    "name": "Cerberusreaperb",
+    "nameCn": "魔犬獵魂B",
+    "type": "戰刃",
+    "products": [
+      "BX-50-06"
+    ]
+  },
+  {
+    "name": "Hellsnether",
+    "nameCn": "惡魔冥界",
+    "type": "戰刃",
+    "products": [
+      "UX-21-01"
+    ]
+  },
+  {
+    "name": "Wyvernhover",
+    "nameCn": "飛龍凌空",
+    "type": "戰刃",
+    "products": [
+      "UX-21-03"
+    ]
+  },
+  {
+    "name": "8-80",
+    "type": "固鎖",
+    "products": [
+      "UX-21-03"
+    ]
+  },
+  {
+    "name": "Crocotreadtq",
+    "nameCn": "鱷魚碾壓TQ",
+    "type": "戰刃",
+    "products": [
+      "CX-19-01",
+      "CX-19-02",
+      "CX-19-03"
+    ]
+  },
+  {
+    "name": "CROCO",
+    "nameCn": "鱷魚",
+    "type": "紋章鎖",
+    "products": [
+      "CX-19-01",
+      "CX-19-02",
+      "CX-19-03"
+    ]
+  },
+  {
+    "name": "T／tread",
+    "nameCn": "T／碾壓",
+    "type": "主要戰刃",
+    "products": [
+      "CX-19-01",
+      "CX-19-02",
+      "CX-19-03"
+    ]
+  },
+  {
+    "name": "Tread",
+    "nameCn": "碾壓",
+    "type": "金屬戰刃",
+    "products": [
+      "CX-19-01",
+      "CX-19-02",
+      "CX-19-03"
+    ]
+  },
+  {
+    "name": "T",
+    "nameCn": "鱷魚碾壓",
+    "type": "超越戰刃",
+    "products": [
+      "CX-19-01",
+      "CX-19-02",
+      "CX-19-03"
+    ]
+  },
+  {
+    "name": "5-50",
+    "type": "固鎖",
+    "products": [
+      "CX-19-01",
+      "CX-19-02",
+      "CX-19-03"
+    ]
+  },
+  {
+    "name": "Q",
+    "type": "輔助戰刃",
+    "products": [
+      "CX-19-01",
+      "CX-19-02",
+      "CX-19-03"
+    ]
+  },
+  {
+    "name": "Evaarcb",
+    "nameCn": "新世紀福音戰士至尊B",
+    "type": "戰刃",
+    "products": [
+      "BXG-57-01"
+    ]
+  },
+  {
+    "name": "EVA",
+    "nameCn": "新世紀福音戰士",
+    "type": "紋章鎖",
+    "products": [
+      "BXG-57-01",
+      "BXG-57-02",
+      "BXG-57-03"
+    ]
+  },
+  {
+    "name": "Evabravea",
+    "nameCn": "新世紀福音戰士勇氣A",
+    "type": "戰刃",
+    "products": [
+      "BXG-57-02"
+    ]
+  },
+  {
+    "name": "Evabrusht",
+    "nameCn": "新世紀福音戰士九尾T",
+    "type": "戰刃",
+    "products": [
+      "BXG-57-03"
     ]
   }
 ] as const;
